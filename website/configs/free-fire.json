@@ -1,0 +1,816 @@
+{
+  "pageName": "free-fire",
+  "head": {
+    "title": "Play Free Fire Game Online on vpl",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/free-fire",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Download the Free Fire app (apk) on vpl to enjoy seamless gameplay. Learn how to play Free Fire game too as a first time gamer."
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/free-fire"
+      },
+      {
+        "property": "og:title",
+        "content": "Play Free Fire Game Online on vpl"
+      },
+      {
+        "property": "og:description",
+        "content": "Download the Free Fire app (apk) on vpl to enjoy seamless gameplay. Learn how to play Free Fire game too as a first time gamer."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Play Free Fire Online on vpl!",
+          "subheader": "Play Free Fire Shooter Game and Win Cash Money Daily!",
+          "cssAddDarkGradient": true,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/img_freefire_mobile.webp",
+            "png": "/static/banners/img_freefire_mobile.png",
+            "alt": "vpl Free Fire",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/banner_desktop_free_fire.webp",
+            "png": "/static/banners/banner_desktop_free_fire.png",
+            "alt": "vpl Free Fire",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "topGameIcons": []
+        }
+      },
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings Instantly with",
+          "paymentList": [
+            {
+              "imageurl": {
+                "png": "/static/withdraw/paytm.png",
+                "webp": "/static/withdraw/paytm.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/upi.png",
+                "webp": "/static/withdraw/upi.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/amazon-pay.png",
+                "webp": "/static/withdraw/amazon-pay.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/bank-transfer.png",
+                "webp": "/static/withdraw/bank-transfer.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "subheader": "Play over 40+ games and win cash!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "Free Fire",
+              "link": "/pubg",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Free_Fire@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "/pool",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "/runner-no1",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Play the Free Fire Game on vpl",
+          "cssClassList": ["how-to-play-info"],
+          "H1Header": true,
+          "contentList": [
+            "We heard you, and here we are! Free Fire is now LIVE on the vpl app! Play the hugely popular survival shooter game on vpl and win big everyday. Multiple tournaments are available for vpl users to show off their Free Fire Gameplay skills! You just need the Free Fire app and the vpl app. Just download the Free Fire apk app along with the vpl app and you are good to go!"
+          ]
+        }
+      },
+
+      {
+        "name": "ListPoints",
+        "isParent": true,
+        "data": {
+          "header": "How to play Free Fire on vpl?",
+          "cssClassList": ["list-para-normal"],
+          "declareGameList": [
+            "If you are playing free fire online for the first time, then download the Free Fire Mobile game app, create your Free Fire ID, and play Free Fire games.",
+            "Download the vpl app, if you are a first time user. Open the app and select Free Fire from the homepage.",
+            "Select the tournament you want to join for Free Fire gameplay online. You can only choose a tournament that has available slots.",
+            "Register for the tournament using your Free Fire online play ID. Please ensure you use the correct ID.",
+            "After you register, you will receive joining details for the tournament 10 minutes before it begins.",
+            "Now, just open the Free Fire app on your phone. Remember, no separate Free Fire apk is necessary"
+          ]
+        }
+      },
+
+      {
+        "name": "EnteringTheTournament",
+        "isParent": true,
+        "data": {
+          "header": "Entering the tournament on the Free Fire app:",
+          "cssClassList": ["tournament-colored"],
+          "contentList": [
+            {
+              "stepTitle": "Step 1",
+              "stepInfo": [
+                "Register for Free Fire Tournament on vpl. This is mandatory. Make sure that your Free Fire online game ID is correct. Else, you will be unable to play.",
+                "You will receive joining details for Free Fire 10 minutes before the Tournament starts."
+              ]
+            },
+            {
+              "stepTitle": "Step 2",
+              "stepInfo": ["Open the Free Fire app on your device."]
+            },
+            {
+              "stepTitle": "Step 3",
+              "stepInfo": ["Tap on the section as shown below"],
+              "imageurl": {
+                "png": "/static/free-fire/free-fire-step-3.png",
+                "width": 520,
+                "height": 256,
+                "sizeInBytes": 50000
+              }
+            },
+            {
+              "stepTitle": "Step 4",
+              "stepInfo": ["Tap on Custom option as indicated below"],
+              "imageurl": {
+                "png": "/static/free-fire/free-fire-step-4.png",
+                "width": 520,
+                "height": 256,
+                "sizeInBytes": 50000
+              }
+            },
+            {
+              "stepTitle": "Step 5",
+              "stepInfo": ["Enter the Room ID in the text box shown"],
+              "imageurl": {
+                "png": "/static/free-fire/free-fire-step-5.png",
+                "width": 520,
+                "height": 256,
+                "sizeInBytes": 50000
+              }
+            },
+            {
+              "stepTitle": "Step 6",
+              "stepInfo": ["Tap on the Search icon after entering the Room ID"],
+              "imageurl": {
+                "png": "/static/free-fire/free-fire-step-6.png",
+                "width": 520,
+                "height": 256,
+                "sizeInBytes": 50000
+              }
+            },
+            {
+              "stepTitle": "Step 7",
+              "stepInfo": [
+                "Tap on the Room to display the  ‘Join’ option. Tap on Join."
+              ],
+              "imageurl": {
+                "png": "/static/free-fire/free-fire-step-7.png",
+                "width": 520,
+                "height": 256,
+                "sizeInBytes": 50000
+              }
+            },
+            {
+              "stepTitle": "Step 8",
+              "stepInfo": ["Enter the password as shown in screenshot"],
+              "imageurl": {
+                "png": "/static/free-fire/free-fire-step-8.png",
+                "width": 520,
+                "height": 256,
+                "sizeInBytes": 50000
+              }
+            },
+            {
+              "stepTitle": "Step 9",
+              "stepInfo": [
+                "You have successfully joined the Room. Please wait until all the players join. The match will start automatically when all players join or at the Tournament start time, whichever is earlier. Enjoy the Free Fire game online on vpl!"
+              ],
+              "imageurl": {
+                "png": "/static/free-fire/free-fire-step-9.png",
+                "width": 520,
+                "height": 256,
+                "sizeInBytes": 50000
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-1.png",
+                "webp": "/static/trust-icons/trust-1.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-2.png",
+                "webp": "/static/trust-icons/trust-2.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-3.png",
+                "webp": "/static/trust-icons/trust-3.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-4.png",
+                "webp": "/static/trust-icons/trust-4.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "png": "/static/2x/trf-logo.png",
+                "webp": "/static/2x/trf-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/aigf-logo.png",
+                "webp": "/static/2x/aigf-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/iamai-logo.png",
+                "webp": "/static/2x/iamai-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "png": "/static/social_icons/fb.png",
+                "webp": "/static/social_icons/fb.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "png": "/static/social_icons/yt.png",
+                "webp": "/static/social_icons/yt.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "png": "/static/social_icons/tw.png",
+                "webp": "/static/social_icons/tw.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "png": "/static/social_icons/ig.png",
+                "webp": "/static/social_icons/ig.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "Return, Refund & Cancellation",
+              "link": "https://about.vpl.live/returnpolicy/"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ],
+          "readMore": {}
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

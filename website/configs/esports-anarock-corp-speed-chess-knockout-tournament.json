@@ -1,0 +1,693 @@
+{
+  "pageName": "esports/cpl",
+  "head": {
+    "title": "Mobile Premier League (vpl) Game Platform | vpl Live",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/esports/ce",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "581e379d1912d965dcce7081ec7cb5b59340939829f47c0ce1929ee636027dac"
+      },
+      {
+        "name": "description",
+        "content": "Download the vpl Pro Indiaâ€™s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "name": "keywords",
+        "content": "real money earning games, earn money playing games, online money earning games, online cash winning games, win real cash games, win real cash games, play and win cash, play games for cash, win real money games, play and earn money, play fantasy cricket and win cash daily, play fantasy cricket and win real cash"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live"
+      },
+      {
+        "property": "og:title",
+        "content": "Mobile Premier League (vpl) Game Platform | vpl Live"
+      },
+      {
+        "property": "og:description",
+        "content": "Download the vpl Pro Indiaâ€™s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          },
+          "actionButtonLabel": "Register with College ID",
+          "actionButtonIcon": {
+            "imageurl": {
+              "png": "/static/2x/right-arrow.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "register to vpl Tournament"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "justButtons": false
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "â‚¹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "",
+          "subheader": "",
+          "thirdHeader": "",
+          "fourthHeader": "",
+          "cssAddDarkGradient": true,
+          "showDownload": false,
+          "mobileImageurl": {
+            "webp": "/static/banners/esports-anarock.webp",
+            "png": "/static/banners/esports-anarock.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000,
+            "alt": "vpl banner mobile"
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/esports-anarock.webp",
+            "png": "/static/banners/esports-anarock.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000,
+            "alt": "vpl banner desktop"
+          },
+          "topGameIcons": []
+        }
+      },
+      {
+        "name": "EsportsGameInfo",
+        "isParent": true,
+        "data": {
+          "cssClassList": ["esports-prize-distribution"],
+          "trophyImageurl": {
+            "png": "/static/2x/trophy.png",
+            "width": 32,
+            "height": 32,
+            "sizeInBytes": 369
+          },
+          "prizeMoney": "â‚¹30,000",
+          "gameName": "League Prize Pool",
+          "tournamentStatsList": [
+            {
+              "count": "2",
+              "header": "Colleges"
+            },
+            {
+              "count": "3",
+              "header": "Games"
+            },
+            {
+              "count": "120",
+              "header": "Winners"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "League Games",
+          "cssClassList": ["section-header"]
+        }
+      },
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "Play Knockout Tournaments across 3 top vpl Games",
+          "cssClassList": ["section-sub-header"]
+        }
+      },
+
+      {
+        "name": "ImageCard",
+        "isParent": true,
+        "data": {
+          "imageList": [
+            {
+              "imageurl": {
+                "png": "/static/banners/game-chess.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/banners/game-pool.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/banners/game-wcc.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ],
+
+          "cssClassList": [""]
+        }
+      },
+
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "League Stages & Schedule",
+          "cssClassList": ["section-header"]
+        }
+      },
+
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "2 Stages over 6 days",
+          "cssClassList": ["section-sub-header"]
+        }
+      },
+
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "Detailed schedule is available on the vpl app.",
+          "cssClassList": ["section-sub-header"]
+        }
+      },
+      {
+        "name": "ImageCard",
+        "isParent": true,
+        "data": {
+          "imageList": [
+            {
+              "imageurl": {
+                "png": "/static/banners/tile1.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "cssBackground": "#02A8F4",
+              "cssClassList": ["skyblue-card"],
+              "cardContent": {
+                "header": "College Tournaments",
+                "content": "27 Oct - 29 Oct"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/banners/tile2.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "cssBackground": "#BD00FF",
+              "cssClassList": ["purple-card"],
+              "cardContent": {
+                "header": "Esports Meet Tournaments",
+                "content": "30 Oct - 1 Nov"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/banners/tile1.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "cssBackground": "#02A8F4",
+              "cssClassList": ["skyblue-card"],
+              "cardContent": {
+                "header": "College Tournaments",
+                "content": "27 Oct - 29 Oct"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/banners/tile2.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "cssBackground": "#BD00FF",
+              "cssClassList": ["purple-card"],
+              "cardContent": {
+                "header": "Esports Meet Tournaments",
+                "content": "30 Oct - 1 Nov"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/banners/tile1.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "cssBackground": "#02A8F4",
+              "cssClassList": ["skyblue-card"],
+              "cardContent": {
+                "header": "College Tournaments",
+                "content": "27 Oct - 29 Oct"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/banners/tile2.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "cssBackground": "#BD00FF",
+              "cssClassList": ["purple-card"],
+              "cardContent": {
+                "header": "Esports Meet Tournaments",
+                "content": "30 Oct - 1 Nov"
+              }
+            }
+          ],
+
+          "cssClassList": ["scrollable-section"]
+        }
+      },
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "2 Colleges Participating",
+          "cssClassList": ["section-header"]
+        }
+      },
+
+      {
+        "name": "ImageCard",
+        "isParent": true,
+        "data": {
+          "imageList": [
+            {
+              "imageurl": {
+                "png": "/static/banners/iimRohtak.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "cardCaption": "IIM Rohtak"
+            },
+            {
+              "imageurl": {
+                "png": "/static/banners/iimNagpur.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "cardCaption": "IIM Nagpur"
+            }
+          ],
+
+          "cssClassList": [""]
+        }
+      },
+
+      {
+        "name": "pageInfo",
+        "isParent": true,
+        "data": {
+          "header": "What is vpl eSports?",
+          "H1Header": true,
+          "contentList": [
+            "vpl College Esports is Indiaâ€™s first Online Gaming league for colleges. A mini league of 3 games will be organised between IIM Rohtak & IIM Nagpur.",
+            "College students shall compete across games on mobile like Chess, Pool and WCC and their colleges will be awarded points on the basis of their performance. The college that accumulates maximum points across all games at the city level shall be crowned as the eventual champion of the College Esports. The winning players across all games stand a chance to receive cash prizes, exclusive game merchandise and other prizes."
+          ]
+        }
+      },
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "Have Questions?",
+          "cssClassList": ["section-header"]
+        }
+      },
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "Try one of these quick help sections",
+          "cssClassList": ["section-sub-header"]
+        }
+      },
+      {
+        "name": "ListImage",
+        "isParent": true,
+        "data": {
+          "header": "",
+          "cssClassList": ["esports-points-distribution"],
+          "informationList": [
+            {
+              "date": "",
+              "time": "",
+              "title": "League Format",
+              "imageurl": {
+                "png": "/static/2x/cup.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "rightImageurl": {
+                "png": "/static/2x/rightArrow.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "navigateTo": "/esports/league-format"
+            },
+
+            {
+              "date": "",
+              "time": "",
+              "title": "Prizes Distribution",
+              "imageurl": {
+                "png": "/static/2x/help.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "rightImageurl": {
+                "png": "/static/2x/rightArrow.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "navigateTo": "/esports/prize-distribution"
+            },
+
+            {
+              "date": "",
+              "time": "",
+              "title": "Points Distribution",
+              "imageurl": {
+                "png": "/static/2x/star.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "rightImageurl": {
+                "png": "/static/2x/rightArrow.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "navigateTo": "/esports/points-distribution"
+            },
+            {
+              "date": "",
+              "time": "",
+              "title": "League Rules",
+              "imageurl": {
+                "png": "/static/2x/file.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "rightImageurl": {
+                "png": "/static/2x/rightArrow.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "navigateTo": "/esports/league-rules"
+            },
+            {
+              "date": "",
+              "time": "",
+              "title": "Help & FAQs",
+              "imageurl": {
+                "png": "/static/2x/question.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "rightImageurl": {
+                "png": "/static/2x/rightArrow.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "navigateTo": "/esports/league-rules-faqs"
+            }
+          ]
+        }
+      },
+      {
+        "name": "timerComponent",
+        "isParent": false,
+        "data": {
+          "tournamentDate": "172800000",
+          "tournamentStart": "League Starts in ",
+          "days": "days ",
+          "hours": "hr ",
+          "minutes": "min ",
+          "cssClassList": ["esports-anarock"]
+        }
+      },
+
+      {
+        "name": "container",
+        "isParent": true,
+        "data": {
+          "content": "PLAY â€¢ COMPETE â€¢ WIN",
+          "cssClassList": ["esports-anarock"]
+        }
+      },
+
+      {
+        "name": "container",
+        "isParent": true,
+        "data": {
+          "content": "",
+          "cssClassList": ["placeholder"]
+        }
+      },
+
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

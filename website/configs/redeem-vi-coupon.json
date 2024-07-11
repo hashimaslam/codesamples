@@ -1,0 +1,637 @@
+{
+  "pageName": "lp/redeem-vi-coupon",
+  "head": {
+    "title": "Play Rummy Game Online & Earn Real Cash with vpl",
+    "canonical": "https://www.vpl.live/rummy",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Play Indian rummy games online with friends to earn real cash with instant money transfers. 5 million rummy players online to win Rs 2 crores daily."
+      },
+      {
+        "name": "keywords",
+        "content": "play rummy, online rummy, play rummy & earn real money, play rummy online, rummy games online"
+      },
+      { "property": "og:url", "content": "https://www.vpl.live/rummy" },
+      {
+        "property": "og:title",
+        "content": "Play Rummy Game Online & Earn Real Cash with vpl"
+      },
+      {
+        "property": "og:description",
+        "content": "Play Indian rummy games online with friends to earn real cash with instant money transfers. 5 million rummy players online to win Rs 2 crores daily."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png."
+      },
+      { "property": "og:image:alt", "content": "Play Games and Win Money" }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          },
+          "signupOfferAndroidIcon": {
+            "imageurl": {
+              "png": "/static/2x/signupoffer-androidicon.svg",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "SMS have been sent on your mobile number",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            { "text": "Bubble Shooter", "link": "/bubble-shooter" },
+            { "text": "Fantasy Cricket", "link": "/fantasy-cricket" },
+            { "text": "Fantasy Football", "link": "/fantasy-football" },
+            { "text": "Rummy", "link": "/rummy" },
+            { "text": "Ludo", "link": "/ludo" },
+            { "text": "Fruit Slice", "link": "/fruit-slice" },
+            { "text": "Fruit Chop", "link": "/fruit-chop" },
+            { "text": "Runner No- 1", "link": "/runner-no1" },
+            { "text": "Pool", "link": "/pool" },
+            { "text": "Speed Chess", "link": "/chess" },
+            { "text": "WCC 2", "link": "/world-cricket-championship-wcc2" },
+            { "text": "Poker", "link": "/poker" },
+            { "text": "Quiz", "link": "/quiz" },
+            { "text": "Build Up", "link": "/build-up-game" },
+            { "text": "Monster Truck", "link": "/monster-truck" },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            { "text": "Go Ride", "link": "/go-ride" },
+            { "text": "Auto Raja", "link": "/auto-raja-game" },
+            { "text": "Rogue Heist", "link": "/rogue-heist-shooter-game" },
+            { "text": "More Games", "link": "/more-games" },
+            { "text": "Blog", "link": "/blog" }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "You have unlocked your bonus cash offer exclusively on vpl!",
+          "subheader": "",
+          "cssAddDarkGradient": false,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/redeem_coupon_banner_mobile.webp",
+            "png": "/static/banners/redeem_coupon_banner_mobile.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/redeem_coupon_banner_desktop.webp",
+            "png": "/static/banners/redeem_coupon_banner_desktop.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "showRewards": false
+        }
+      },
+      {
+        "name": "VideoContainer",
+        "isParent": true,
+        "data": {
+          "header": "Follow the steps below to redeem the coupon & Win Big only on vpl!",
+          "cssClassList": ["highlight-background"],
+          "videoURL": "https://www.youtube.com/embed/N8feVt81IHU"
+        }
+      },
+      {
+        "name": "Accordian",
+        "isParent": true,
+        "data": {
+          "expandHeader": "View More",
+          "collapseHeader": "View Less",
+          "cssClassList": ["highlight-background"]
+        }
+      },
+
+      {
+        "name": "StepsBoxImg",
+        "isParent": false,
+        "data": {
+          "reduceMarginClass": false,
+          "noHeading": true,
+          "alignContentToLeft": true,
+          "stepList": [
+            {
+              "title": "",
+              "description": "Download vpl app from - <a href='https://www.vpl.live/'>https://www.vpl.live/</a>",
+              "imageurl": {
+                "png": "/static/2x/1.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+
+            {
+              "title": "",
+              "description": "Install the vpl App and log-in (Install and Login Flow is mentioned separately)",
+              "imageurl": {
+                "png": "/static/2x/2.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "If you see a screen of vpl Fantasy, click “Skip” on the top right corner",
+              "imageurl": {
+                "png": "/static/2x/3.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "Go to the Games section by clicking on “All Games” tab present at the bottom left corner",
+              "imageurl": {
+                "png": "/static/2x/4.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "In the “All Game” section, click on the token tab present on the top left corner",
+              "imageurl": {
+                "png": "/static/2x/5.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "Click on \"Enter Coupon Code\" at the bottom of the screen",
+              "imageurl": {
+                "png": "/static/2x/6.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "Enter the code and click on \"Get Rewards\" and Bonus cash will be credited in your vpl wallet",
+              "imageurl": {
+                "png": "/static/2x/7.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "StepsBoxImg",
+        "isParent": true,
+        "data": {
+          "reduceMarginClass": false,
+          "header": "Steps to Download, Install and Log-in to vpl",
+          "alignContentToLeft": true,
+          "cssClassList": ["download-steps"],
+          "stepList": [
+            {
+              "title": "",
+              "description": "Download the vpl App from the Website",
+              "imageurl": {
+                "png": "/static/2x/1-light.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+
+            {
+              "title": "",
+              "description": "Once the APK (App package) is downloaded, click ”Open”",
+              "imageurl": {
+                "png": "/static/2x/2-light.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "You will see a prompt stating “Do you want to install this application?”, Click on “Install”",
+              "imageurl": {
+                "png": "/static/2x/3-light.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "Once the Application is installed, click 'Open'",
+              "imageurl": {
+                "png": "/static/2x/4-light.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "vpl App would open and in the space provided, enter your mobile number and get an OTP",
+              "imageurl": {
+                "png": "/static/2x/5-light.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "Click on “I agree” to accept the vpl Fair play policy",
+              "imageurl": {
+                "png": "/static/2x/6-light.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "Enter OTP and login to vpl",
+              "imageurl": {
+                "png": "/static/2x/7-light.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "showDownload": true,
+          "topGameList": []
+        }
+      },
+
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-1.webp",
+                "png": "/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-2.webp",
+                "png": "/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-3.webp",
+                "png": "/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-4.webp",
+                "png": "/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/trf-logo.webp",
+                "png": "/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/aigf-logo.webp",
+                "png": "/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/iamai-logo.webp",
+                "png": "/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "/static/social_icons/yt.webp",
+                "png": "/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "/static/social_icons/tw.webp",
+                "png": "/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "/static/social_icons/ig.webp",
+                "png": "/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            { "text": "Ludo", "link": "/ludo" },
+            { "text": "Pool", "link": "/pool" },
+            { "text": "Fruit Slice", "link": "/fruit-slice" },
+            { "text": "Bubble Shooter", "link": "/bubble-shooter" },
+            { "text": "Fruit Chop", "link": "/fruit-chop" },
+            { "text": "Runner No- 1", "link": "/runner-no1" },
+            { "text": "Speed Chess", "link": "/chess" },
+            { "text": "Fantasy Cricket", "link": "/fantasy-cricket" },
+            { "text": "WCC 2", "link": "/world-cricket-championship-wcc2" },
+            { "text": "Rummy", "link": "/rummy" },
+            { "text": "Poker", "link": "/poker" },
+            { "text": "Quiz", "link": "/quiz" },
+            { "text": "Build Up", "link": "/build-up-game" },
+            { "text": "Monster Truck", "link": "/monster-truck" },
+            { "text": "Go Ride", "link": "/go-ride" },
+            { "text": "Call Break Game", "link": "/call-break-game" },
+            { "text": "More Games", "link": "/more-games" },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Auto Raja Game",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            { "text": "Rogue Heist", "link": "/rogue-heist-shooter-game" },
+            {
+              "text": "Fantasy Cricket App",
+              "link": "https://www.vpl.live/fantasy-cricket/app"
+            },
+            { "text": "Blog", "link": "/blog" },
+            { "text": "Refer & Earn", "link": "/refer-and-earn" },
+            { "text": "FAQs", "link": "https://help.vpl.live/faq/" },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "Joining Bonus: Get 50 tokens!",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

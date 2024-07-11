@@ -1,0 +1,596 @@
+{
+  "pageName": "hp-google",
+  "head": {
+    "title": "Mobile Premier League (vpl): Jadi Juara Setiap Hari",
+    "faviconImageUrl": "/static/favicon.ico",
+    "canonical": "https://id.vpl.live/",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "guiHfvxfLYIjlD0E-nzoc6JdCMgdyvCNTuVqpKa4OXw"
+      },
+      {
+        "name": "description",
+        "content": "Main dan Menangkan Uang! Main, Menang & Tarik Uang dengan GoPay!.Jadilah bagian dari platform Game Ponsel Berbasis Keterampilan Terbesar di Dunia dan Menangkan Uang. Unduh Aplikasi vpl dan Segera Menangkan!"
+      },
+      {
+        "property": "og:url",
+        "content": "https://id.vpl.live/"
+      },
+      {
+        "property": "og:title",
+        "content": "Mobile Premier League (vpl) Game Platform | vpl Live"
+      },
+      {
+        "property": "og:description",
+        "content": "Main dan Menangkan Uang! Main, Menang & Tarik Uang dengan GoPay!.Jadilah bagian dari platform Game Ponsel Berbasis Keterampilan Terbesar di Dunia dan Menangkan Uang. Unduh Aplikasi vpl dan Segera Menangkan!"
+      },
+      {
+        "property": "og:image",
+        "content": "https://id.vpl.live/static/OG_vpl.png."
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download vpl & Mainkan Game Seru!",
+          "androidMiddleBtnLabel": "Download vpl & Mainkan Game Seru!",
+          "androidDownloading": "Cek Status Download di Notifikasi",
+          "androidNotificationHeader": "Buka notifikasi di ponselmu untuk instal Aplikasi vpl setelah proses download selesai",
+          "androidNotificationDesc": "Kamu juga bisa instal Aplikasi vpl (apk) dari Folder Download di ponselmu",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 19,
+              "height": 24,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 26,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 19,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "",
+              "width": 112,
+              "height": 28,
+              "sizeInBytes": 8000
+            },
+            "altText": "",
+            "buttonText": "Saat Ini Hanya Bisa Dimainkan di"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "",
+              "width": 112,
+              "height": 24,
+              "sizeInBytes": 8000
+            },
+            "altText": "",
+            "buttonText": "Saat Ini Hanya Bisa Dimainkan di "
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 140,
+              "height": 115,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 32,
+              "height": 32,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Kirim link Download via SMS",
+          "sentBtnLabel": "SMS Terkirim",
+          "mobileTxtboxPlaceholder": "Masukkan nomor ponsel",
+          "sentText": "Link Download vpl terkirim. Cek pesan masuk di ponsel kamu sekarang!",
+          "countryMobileCode": "+62",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Instal Aplikasi vpl & Dapatkan",
+          "currency": "Berlian",
+          "tokenFreeText": "Token vpl Gratis!",
+          "freeText": "Gratis!"
+        }
+      },
+
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 76,
+            "height": 24,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Mainkan di Android",
+          "headerDownloadingbtnLabel": "Cek Status Download di Notifikasi",
+          "menuFirstLink": {},
+          "paymentLogoImageurl": {
+            "png": "/static/gopay_logo_id.png",
+            "width": 76,
+            "height": 24,
+            "sizeInBytes": 10000,
+            "alt": "gopay payment partners"
+          },
+          "paymentHeader": "Didukung oleh",
+          "menuList": []
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Jadi Juara Puluhan Game Seru!",
+          "subheader": "Mainkan Fruit Dart, Pool, vpl Fantasy & 20+ game seru lainnya. Jadilah juara setiap hari!",
+          "cssAddDarkGradient": false,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/banner_mobile_home_id.webp",
+            "png": "/static/banners/banner_mobile_home_id.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000,
+            "alt": "vpl banner mobile"
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/banner_desktop_home_id.webp",
+            "png": "/static/banners/banner_desktop_home_id.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000,
+            "alt": "vpl banner desktop"
+          },
+          "topGameIcons": []
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Game vpl",
+          "subheader": "Mainkan 20+ game berhadiah setiap hari!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "vpl Fantasy",
+              "link": "/fantasy",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/fantasy_id.png",
+                "width": 48,
+                "height": 48,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "/",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/pool_id.png",
+                "width": 48,
+                "height": 48,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Dart",
+              "link": "/",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/fruitdart_id.png",
+                "width": 48,
+                "height": 48,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/fruitchop_id.png",
+                "width": 48,
+                "height": 48,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Bloxmash",
+              "link": "/",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/bloxsmash_id.png",
+                "width": 48,
+                "height": 48,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/speedchess_id.png",
+                "width": 48,
+                "height": 48,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Archery",
+              "link": "/",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/archery_id.png",
+                "width": 48,
+                "height": 48,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/fruitslice_id.png",
+                "width": 48,
+                "height": 48,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "steps",
+        "isParent": true,
+        "data": {
+          "header": "Cara Instal vpl",
+          "subheader": "Ikuti langkah berikut untuk mulai bermain",
+          "supportedVersionInfo": "Tersedia di Android 5.1 dan setelahnya",
+          "stepList": [
+            {
+              "stepText": "LANGKAH 1: Klik ‘OKE’ untuk selesaikan unduhan.",
+              "info": "Aplikasi vpl 100% aman.",
+              "altText": "steps to install vpl app",
+              "imageurl": {
+                "png": "/static/2x/nougat_step1_id.png",
+                "width": 592,
+                "height": 524,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "stepText": "LANGKAH-2: Tunggu Download sampai selesai.",
+              "info": "",
+              "altText": "steps to install vpl app",
+              "imageurl": {
+                "png": "/static/2x/nougat_step2_id.png",
+                "width": 592,
+                "height": 524,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "stepText": "LANGKAH-3: Buka Pengaturan dan nyalakan Unknown Sources untuk download vpl",
+              "info": "",
+              "altText": "steps to install vpl app",
+              "imageurl": {
+                "png": "/static/2x/nougat_step3_id.png",
+                "width": 592,
+                "height": 524,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "pageInfo",
+        "isParent": true,
+        "data": {
+          "header": "Tentang vpl",
+          "H1Header": true,
+          "contentList": [
+            "Mobile Premier League (vpl) Indonesia adalah aplikasi eSports terbesar di Asia Tenggara dengan puluhan game yang bisa dimainkan setiap hari. Mainkan Fruit Dart, Fruit Chop, Pool, Chess, Bloxmash, Archery, Fruit Slice, Bubble Shooter, dan game seru lainnya dalam format Turnamen dan Pertandingan (Battle 1v1). Mainkan juga vpl Fantasy (Sepak Bola, Basket, Saham, dan Baseball) dan Audio Show untuk kenalan dan ngobrol bareng sesama pemain vpl.",
+            "Mau jadi Juara vpl? Bisa banget! Rasakan serunya main 20+ game dan jadilah juara setiap hari.",
+            "Lebih dari 5 juta orang sudah main vpl. Main game di vpl setiap hari dan jadilah sang juara. Ajak teman-temanmu main vpl bareng dan dapatkan bonus tiap berhasil ajak teman Login dan main vpl.",
+            "Download Aplikasi vpl (apk) di sini bagi pengguna Android."
+          ]
+        }
+      },
+      {
+        "name": "topGames",
+        "isParent": true,
+        "data": {
+          "header": "Game Seru vpl",
+          "moreText": "lebih lanjut",
+          "knowMoreBtnLabel": "Lanjut",
+          "topGamesList": [
+            {
+              "header": "vpl Fantasy",
+              "text": "vpl Fantasy adalah permainan fantasy dimana kamu bisa menggunakan pengetahuan dan keterampilan analisa olahraga yang kamu miliki untuk bermain di berbagai liga dunia. Pilih pemain sepak bola, basket, dan baseball jagoan ke dalam tim fantasy kamu. Tim yang kamu susun akan mendapatkan poin berdasarkan performa pemain pilihanmu pada pertandingan yang sebenarnya. Lebih banyak poin, lebih besar kesempatan menang.",
+              "imageurl": {
+                "png": "/static/landing-page-images/fantasy_id.png",
+                "webp": "/static/landing-page-images/fantasy_id.webp",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "/fantasy",
+              "altText": "Fantasy"
+            },
+            {
+              "header": "Pool",
+              "text": "Masukkan seluruh bola dengan mengarahkan tongkat biliar secara presisi hingga bola masuk lubang sasaran. Tunjukkan keahlianmu jadi jagoan biliar dan kalahkan lawan.",
+              "imageurl": {
+                "png": "/static/landing-page-images/pool_id.png",
+                "webp": "/static/landing-page-images/pool_id.webp",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "#",
+              "altText": "Pool"
+            },
+            {
+              "header": "Fruit Dart",
+              "text": "Potong buah, hindari bom! Potong beberapa buah sekaligus untuk dapatkan combo. Kumpulkan skor setinggi mungkin untuk jadi juara Fruit Dart.",
+              "imageurl": {
+                "png": "/static/landing-page-images/fruitdart_id.png",
+                "webp": "/static/landing-page-images/fruitdart_id.webp",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "#",
+              "altText": "Fruit Dart"
+            },
+            {
+              "header": "Fruit Chop",
+              "text": "Ketangkasan jarimu memotong buah dengan cepat dan tepat jadi kunci jagoan Fruit Chop! Pertahankan nyawamu dan kalahkan lawan setiap hari.",
+              "imageurl": {
+                "png": "/static/landing-page-images/fruitchop_id.png",
+                "webp": "/static/landing-page-images/fruitchop_id.webp",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 25000
+              },
+              "altText": "Fruit Chops",
+              "pageLink": "#"
+            },
+            {
+              "header": "Bloxmash",
+              "text": "Atur susunan balok warna-warni sesuai dengan bentuk hingga rapat sempurna. Terus mainkan untuk mencapai skor tertinggi dan jadi juara Bloxmash!",
+              "imageurl": {
+                "png": "/static/landing-page-images/bloxsmash_id.png",
+                "webp": "/static/landing-page-images/bloxsmash_id.webp",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "#",
+              "altText": "Bloxmash"
+            },
+
+            {
+              "header": "Speed Chess",
+              "text": "Skak mat! Atur taktik terhebatmu dan kalahkan lawan untuk jadi jagoan catur di vpl. Raih skor tertinggi, kalahkan lawan, dan jadilah juara.",
+              "imageurl": {
+                "png": "/static/landing-page-images/speedchess_id.png",
+                "webp": "/static/landing-page-images/speedchess_id.webp",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "#",
+              "altText": "Speed Chess"
+            },
+            {
+              "header": "Archery",
+              "text": "Tahan, tarik, dan lepaskan anak panah tepat di sasaran! Pastikan anak panah mendekat ke titik utama untuk dapatkan poin lebih besar.",
+              "imageurl": {
+                "png": "/static/landing-page-images/archery_id.png",
+                "webp": "/static/landing-page-images/archery_id.webp",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "#",
+              "altText": "Archery"
+            },
+            {
+              "header": "Fruit Slice",
+              "text": "Lempar Shuriken untuk potong buah sebanyak-banyaknya dan dapatkan poin combo! Pertahankan nyawamu dan jadilah juara Fruit Slice setiap hari.",
+              "imageurl": {
+                "png": "/static/landing-page-images/fruitslice_id.png",
+                "webp": "/static/landing-page-images/fruitslice_id.webp",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "#",
+              "altText": "Fruit Slice"
+            },
+            {
+              "header": "Bubble Shooter",
+              "text": "Ayo! Pecahkan gelembung dengan mencocokkan 3 atau lebih gelembung dengan warna yang sama. Raih skor tertinggi dan jadi jagoan Bubble Shooter!",
+              "imageurl": {
+                "png": "/static/landing-page-images/bubbleshooter_id.png",
+                "webp": "/static/landing-page-images/bubbleshooter_id.webp",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "#",
+              "altText": "Bubble Shooter"
+            }
+          ]
+        }
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Serunya Main vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-1.png",
+                "webp": "/static/trust-icons/trust-1.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "20+ games",
+              "subTitle": "Lebih Dari 5 Juta Pemain"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-2.png",
+                "webp": "/static/trust-icons/trust-2.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Garansi",
+              "subTitle": "100% Aman"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-3.png",
+                "webp": "/static/trust-icons/trust-3.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24/7",
+              "subTitle": "Chat Bantuan"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-5_id.png",
+                "webp": "/static/trust-icons/trust-5_id.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Juara",
+              "subTitle": "Jadi Juara Tiap Hari"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "Organisasi & Akreditasi",
+          "membershipList": [
+            {
+              "imageurl": {
+                "png": "/static/2x/AGI-logo-id.png",
+                "webp": "/static/2x/AGI-logo-id.png"
+              },
+              "altText": "vpl membership",
+              "width": 220,
+              "height": 100,
+              "sizeInBytes": 25000
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/igrs-besar-logo-id.png",
+                "webp": "/static/2x/igrs-besar-logo-id.png"
+              },
+              "altText": "vpl membership",
+              "width": 220,
+              "height": 100,
+              "sizeInBytes": 25000
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/KV-PIALA-PRESIDEN-X-vpl-logo-id.png",
+                "webp": "/static/2x/KV-PIALA-PRESIDEN-X-vpl-logo-id.png"
+              },
+              "altText": "vpl membership",
+              "width": 220,
+              "height": 100,
+              "sizeInBytes": 25000
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "PENGECUALIAN",
+          "disclaimerText": [
+            "PT Mobile Premier League adalah pemilik dari dan memiliki hak atas aset, konten, layanan, informasi dan produk-produk dan gambar-gambar di dalam website, kecuali atas konten(-konten) pihak ketiga.",
+            "Konten, materi, informasi, layanan dan produk di dalam website ini, termasuk teks, gambar dan tautan disediakan “SEBAGAIMANA ADANYA” atau “SEBAGAIMANA BERLAKU” dan tanpa jaminan dalam bentuk apapun baik secara eksplisit atau ivplisit, termasuk sehubungan dengan operasi, kegunaan atau kelayakan dari konten, materi, informasi, layanan dan/atau produk di website ini. Website ini dapat mengandung konten-konten pihak ketiga yang dioperasikan oleh pihak selain PT Mobile Premier League. PT Mobile Premier League menolak untuk mengakui, bertanggung jawab, atau membuat pernyataan-pernyataan sehubungan dengan ketepatan atau kelengkapan atau kelayakan dari konten pihak ketiga pada website dan/atau konten website pihak ketiga. Anda dengan ini setuju untuk melepaskan kami dari dan terhadap seluruh pertanggungjawaban, biaya, kerugian atau kerusakan, secara langsung ataupun tidak langsung yang disebabkan oleh atau diduga disebabkan oleh atau sehubungan dengan akses kepada atau pemakaian konten pihak ketiga pada website ini dan/atau konten website pihak ketiga dan/atau materi, konten, informasi lain apa pun yang disediakan di luar lingkup Syarat & Ketentuan situs website ini."
+          ],
+          "readMore": {}
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 32,
+            "height": 32,
+            "sizeInBytes": 4000
+          },
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom"
+        }
+      }
+    ]
+  }
+}

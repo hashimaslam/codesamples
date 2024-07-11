@@ -1,0 +1,1792 @@
+{
+  "pageName": "esports/arena",
+  "head": {
+    "title": "vpl Weekly Esports Arena | Mobile Premier League (vpl)",
+    "canonical": "https://www.vpl.live/esports/arena",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "581e379d1912d965dcce7081ec7cb5b59340939829f47c0ce1929ee636027dac"
+      },
+      {
+        "name": "description",
+        "content": "Play Knock Out Tournaments and win exciting cash prizes, EVERY WEEK! Participate now in vpl Weekly Esports Arena"
+      },
+      {
+        "name": "keywords",
+        "content": "vpl esports arena"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/esports/arena"
+      },
+      {
+        "property": "og:title",
+        "content": "vpl Weekly Esports Arena | Mobile Premier League (vpl)"
+      },
+      {
+        "property": "og:description",
+        "content": "Play Knock Out Tournaments and win exciting cash prizes, EVERY WEEK! Participate now in vpl Weekly Esports Arena."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          },
+          "actionButtonLabel": "Register with College ID",
+          "actionButtonIcon": {
+            "imageurl": {
+              "png": "/static/2x/right-arrow.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "register to vpl Tournament"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "justButtons": false
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/hamburger/vpl-logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy-games"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "https://www.vpl.live/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "8 Ball Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Auto Raja",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Carrom Online",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Fantasy Basketball",
+              "link": "https://www.vpl.live/fantasy-basketball"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog/"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            },
+            {
+              "text": "Fruit Dart",
+              "link": "https://www.vpl.live/fruit-dart-game"
+            },
+            {
+              "text": "vpl Esports",
+              "link": "https://www.vpl.live/esports"
+            }
+          ],
+          "desktopHeaderLinks": [
+            {
+              "name": "vpl Games",
+              "link": false,
+              "css": "normal--link show--more"
+            },
+            {
+              "name": "vpl Esports",
+              "link": true,
+              "css": "menu--button normal--link ",
+              "url": "https://www.vpl.live/esports"
+            },
+            {
+              "name": "About",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://about.vpl.live/"
+            },
+            {
+              "name": "Blog",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://www.vpl.live/blog/"
+            },
+            {
+              "name": "FAQs",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://help.vpl.live/faq/"
+            },
+            {
+              "name": "Help",
+              "link": true,
+              "url": "https://help.vpl.live/",
+              "css": "help--button",
+              "imgUrl": {
+                "png": "/static/hamburger/help_icon.png",
+                "alt": "help icon",
+                "sizeInBytes": 20000
+              }
+            }
+          ],
+          "menuListDesktop": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/fantasy_games_icon.png",
+                  "alt": "fantays games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/card_games_desktop.png",
+                  "alt": "card games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/sports_games_icon.png",
+                  "alt": "Sports games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/casual_games_desktop.png",
+                  "alt": "casual games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/arcade_games_desktop.png",
+                  "alt": "arcade games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/brain_games_desktop.png",
+                  "alt": "brain games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Sudoku",
+                    "link": "https://www.vpl.live/sudoku"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Puzzle Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/puzzle_games_desktop.png",
+                  "alt": "puzzle games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ]
+          ],
+          "menuListMobile": [
+            {
+              "gameType": "Fantasy",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/fantasy.png",
+                "alt": "fantays image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fantasy Cricket",
+                  "link": "https://www.vpl.live/fantasy-cricket",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-cricket.png",
+                    "alt": "fantays cricket image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Football",
+                  "link": "https://www.vpl.live/fantasy-football",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-football.png",
+                    "alt": "fantays football image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Basketball",
+                  "link": "https://www.vpl.live/fantasy-basketball",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-basketball.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Games",
+                  "link": "https://www.vpl.live/fantasy-games",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy_icon.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Card Skill",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/card-skill.png",
+                "alt": "card skill image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Rummy",
+                  "link": "https://www.vpl.live/rummy",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-5.png",
+                    "alt": "rummy image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Poker",
+                  "link": "https://www.vpl.live/poker",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-1.png",
+                    "alt": "poker image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Call Break",
+                  "link": "https://www.vpl.live/call-break-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container.png",
+                    "alt": "call break image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Sports Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/sport_games.png",
+                "alt": "sports games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Wcc2",
+                  "link": "https://www.vpl.live/world-cricket-championship-wcc2",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-10.png",
+                    "alt": "wcc2",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Arcade Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/arcade_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fruit Dart",
+                  "link": "https://www.vpl.live/fruit-dart-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-12.png",
+                    "alt": "fruit dart",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fruit Chop",
+                  "link": "https://www.vpl.live/fruit-chop",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-14.png",
+                    "alt": "fruti chop",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Casual Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/casual_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Carrom",
+                  "link": "https://www.vpl.live/carrom",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-4.png",
+                    "alt": "Carrom image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Pool",
+                  "link": "https://www.vpl.live/pool",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-9.png",
+                    "alt": "Pool image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Ludo",
+                  "link": "https://www.vpl.live/ludo",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-8.png",
+                    "alt": "Ludo image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Runner No.1",
+                  "link": "https://www.vpl.live/runner-no1",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-11.png",
+                    "alt": "Runner No.1 image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Monster Truck",
+                  "link": "https://www.vpl.live/monster-truck",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-13.png",
+                    "alt": "monster image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Go Ride",
+                  "link": "https://www.vpl.live/go-ride",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-15.png",
+                    "alt": "go ride image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Brain Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/brain_games.png",
+                "alt": "brain games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Sudoku",
+                  "link": "https://www.vpl.live/sudoku",
+                  "imgUrl": {
+                    "png": "/static/hamburger/sudoku-icon.png",
+                    "alt": "Sudoku ",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Speed Chess",
+                  "link": "https://www.vpl.live/chess",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-7.png",
+                    "alt": "Speed Chess image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Puzzle Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/puzzle_games.png",
+                "alt": "Puzzle Games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Bubble Shooter",
+                  "link": "https://www.vpl.live/bubble-shooter",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-2.png",
+                    "alt": "Bubble Shooter image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Build Up",
+                  "link": "https://www.vpl.live/build-up-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-6.png",
+                    "alt": "build up image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "vpl Esports",
+              "expandable": false,
+              "newGame": true,
+              "link": "https://www.vpl.live/esports",
+              "imgUrl": {
+                "png": "/static/hamburger/vpl-esports.png",
+                "alt": "vpl Esports image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "About us",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://about.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/about-us.png",
+                "alt": "About us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Blog",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://www.vpl.live/blog/",
+              "imgUrl": {
+                "png": "/static/hamburger/blog.png",
+                "alt": "Blog image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "FAQs",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://help.vpl.live/faq/",
+              "imgUrl": {
+                "png": "/static/hamburger/contact-us.png",
+                "alt": "Contact us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Help",
+              "expandable": false,
+              "newGame": false,
+              "cssClassList": "",
+              "link": "https://help.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/help.png",
+                "alt": "Help image",
+                "sizeInBytes": 10000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Pool Champs League™",
+          "fourthHeader": "July - 2021    ",
+          "cssAddDarkGradient": true,
+          "showDownload": false,
+          "bodyColor": "#18462B",
+          "mobileImageurl": {
+            "webp": "https://www.vpl.live/cledge.vpl.live/pb/website/static/ee6e1a2a0a434e8dad76f76da83e269b.webp",
+            "png": "https://www.vpl.live/cledge.vpl.live/pb/website/static/1acc6001e5e145cf821e25110abb9a06.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "https://www.vpl.live/cledge.vpl.live/pb/website/static/c99121e9039b43abb1277782e7b22500.webp",
+            "png": "https://www.vpl.live/cledge.vpl.live/pb/website/static/d605fe8b06254d5d97bc697b56b54f79.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "showRewards": false,
+          "subheader": "Register For Free ",
+          "thirdHeader": "Win Cash Prizes Worth Rs. 10,00,000*"
+        }
+      },
+      {
+        "name": "EsportsGameInfo",
+        "isParent": true,
+        "data": {
+          "trophyImageurl": {
+            "png": "/static/2x/trophy.png",
+            "width": 32,
+            "height": 32,
+            "sizeInBytes": 369
+          },
+          "prizeMoney": "₹10 Lakhs",
+          "gameName": "Total Prize Pool",
+          "cssClassList": ["esports-prize-distribution"],
+          "tournamentStatsList": [
+            {
+              "count": "512",
+              "header": "WINNERS"
+            },
+            {
+              "count": "32768",
+              "header": "REGISTRATIONS"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ScheduleTable",
+        "isParent": true,
+        "data": {
+          "header": "TOURNAMENT SCHEDULE",
+          "scheduleSystem": [
+            [
+              {
+                "title": "Registrations phase",
+                "date": "Open Till 5th August, 2021",
+                "imageurl": {
+                  "png": "/static/esports/registration_open.png",
+                  "width": 48,
+                  "height": 48,
+                  "sizeInBytes": 5000
+                }
+              },
+              {
+                "title": "Knockout Phase",
+                "date": "5th August - 7th August, 2021",
+                "imageurl": {
+                  "png": "/static/esports/registration_close.png",
+                  "width": 48,
+                  "height": 48,
+                  "sizeInBytes": 5000
+                }
+              },
+              {
+                "liveStream": {
+                  "text": "Watch livestream on",
+                  "youtubeImageUrl": {
+                    "png": "/static/esports/yt_logo.png",
+                    "width": 130,
+                    "height": 32,
+                    "sizeInBytes": 10000
+                  },
+                  "facebookImageUrl": {
+                    "png": "/static/esports/fb_logo.png",
+                    "width": 130,
+                    "height": 32,
+                    "sizeInBytes": 10000
+                  },
+                  "fbLink": "https://www.facebook.com/events/4032636146834073/",
+                  "ytLink": "https://www.youtube.com/watch?v=C2OLERRYjQk"
+                },
+                "title": "Winners Announcement ",
+                "date": "8th August, 2021",
+                "imageurl": {
+                  "png": "/static/esports/winner.png",
+                  "width": 48,
+                  "height": 48,
+                  "sizeInBytes": 5000
+                }
+              },
+              {
+                "title": "Winners Announcement",
+                "date": "9th August, 2021",
+                "imageurl": {
+                  "png": "/static/esports/winner.png",
+                  "width": 48,
+                  "height": 48,
+                  "sizeInBytes": 5000
+                }
+              }
+            ],
+            [
+              {
+                "title": "Registrations open",
+                "date": "14th February",
+                "imageurl": {
+                  "png": "/static/esports/registration_open.png",
+                  "width": 48,
+                  "height": 48,
+                  "sizeInBytes": 5000
+                }
+              },
+              {
+                "title": "Registrations close",
+                "date": "17th February",
+                "imageurl": {
+                  "png": "/static/esports/registration_close.png",
+                  "width": 48,
+                  "height": 48,
+                  "sizeInBytes": 5000
+                }
+              },
+              {
+                "title": "Gameplay Starts",
+                "date": "17th and 18th Febraury",
+                "imageurl": {
+                  "png": "/static/esports/round_1_q.png",
+                  "width": 48,
+                  "height": 48,
+                  "sizeInBytes": 5000
+                }
+              },
+              {
+                "title": "Live stream event",
+                "date": "20th February",
+                "liveStream": {
+                  "text": "Watch livestream on",
+                  "fbLink": "#",
+                  "ytLink": "#"
+                },
+                "imageurl": {
+                  "png": "/static/esports/semi_finals.png",
+                  "width": 48,
+                  "height": 48,
+                  "sizeInBytes": 5000
+                }
+              },
+              {
+                "title": "Winners Announcement",
+                "date": "21st February",
+                "imageurl": {
+                  "png": "/static/esports/winner.png",
+                  "width": 48,
+                  "height": 48,
+                  "sizeInBytes": 5000
+                }
+              }
+            ]
+          ],
+          "schedules": [
+            {
+              "name": "Pool Champs League™",
+              "date": "29th July - 8th August, 2021"
+            }
+          ]
+        }
+      },
+      {
+        "name": "pageInfo",
+        "isParent": true,
+        "data": {
+          "header": "What is vpl - Weekly Esports Arena?",
+          "H1Header": true,
+          "contentList": [
+            "Weekly Esports Arena is a chance to give our players a platform to make a name for themselves in the Esports Community. The idea of hosting a weekly tournament is to cultivate an esports culture and build the existing gaming community for all our vpl games."
+          ]
+        }
+      },
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "Have Questions?",
+          "cssClassList": ["section-header", "esports-cpl"]
+        }
+      },
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "Try one of these quick help sections",
+          "cssClassList": ["section-sub-header", "esports-cpl"]
+        }
+      },
+      {
+        "name": "ListImage",
+        "isParent": true,
+        "data": {
+          "header": " ",
+          "cssClassList": ["esports-points-distribution"],
+          "informationList": [
+            {
+              "date": " ",
+              "time": " ",
+              "title": "Prizes Distribution",
+              "imageurl": {
+                "png": "/static/2x/help.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "rightImageurl": {
+                "png": "/static/2x/rightArrow.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "navigateTo": "/esports/prize-distribution",
+              "target_blank": false
+            },
+            {
+              "date": " ",
+              "time": " ",
+              "title": "League Rules, League Format & Terms and Conditions",
+              "imageurl": {
+                "png": "/static/2x/file.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "rightImageurl": {
+                "png": "/static/2x/rightArrow.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "navigateTo": "/esports/league-rules",
+              "target_blank": false
+            },
+            {
+              "date": " ",
+              "time": " ",
+              "title": "Help & FAQs",
+              "imageurl": {
+                "png": "/static/2x/question.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "rightImageurl": {
+                "png": "/static/2x/rightArrow.svg",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "navigateTo": "/esports/league-rules-faqs",
+              "target_blank": false
+            }
+          ]
+        }
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get the Best-In-Class Gaming Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-1.webp",
+                "png": "/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "6 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-2.webp",
+                "png": "/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-3.webp",
+                "png": "/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-4.webp",
+                "png": "/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "Proud Sponsors of",
+          "classList": ["sponsers"],
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/RCB.png",
+                "png": "/static/2x/RCB.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "Sponsors"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/KKR.png",
+                "png": "/static/2x/KKR.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "Sponsors"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/bboss.png",
+                "png": "/static/2x/bboss.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "Sponsors"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/trf-logo.webp",
+                "png": "/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/aigf-logo.webp",
+                "png": "/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/iamai-logo.webp",
+                "png": "/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "copyRight": "Copyright © - Galactus Funware Technology Private Limited | All rights reserved",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://bit.ly/2TemnHK"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "/static/social_icons/yt.webp",
+                "png": "/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "/static/social_icons/tw.webp",
+                "png": "/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "/static/social_icons/ig.webp",
+                "png": "/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://bit.ly/2VOyBb7"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Carrom Game",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Auto Raja Game",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Fantasy Cricket App",
+              "link": "https://www.vpl.live/fantasy-cricket/app"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog/"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "https://www.vpl.live/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            },
+            {
+              "text": "Fruit Dart",
+              "link": "https://www.vpl.live/fruit-dart-game"
+            },
+            {
+              "text": "vpl Esports",
+              "link": "https://www.vpl.live/esports"
+            },
+            {
+              "text": "Sudoku",
+              "link": "https://www.vpl.live/sudoku"
+            }
+          ],
+          "mobileFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Sudoku",
+                    "link": "https://www.vpl.live/sudoku"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://www.facebook.com/Playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://www.instagram.com/playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ]
+          ],
+          "desktopFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Sudoku",
+                    "link": "https://www.vpl.live/sudoku"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://bit.ly/2TemnHK",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://bit.ly/2VOyBb7",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ]
+          ],
+          "aboutUsLinks": [
+            {
+              "name": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "name": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "name": "Terms & Condition",
+              "link": "https://about.vpl.live/terms/"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": " ",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "iosEsportMessage": "NOTE: weekly esports arena is available only on our Android app.",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

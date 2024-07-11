@@ -1,0 +1,910 @@
+{
+  "pageName": "rogue-heist-shooter-game",
+  "head": {
+    "title": "Play Rogue Heist on vpl & Win Real Money",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": " https://www.vpl.live/rogue-heist-shooter-game",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": " Play Rogue Heist on vpl, an intense shooter game and win upto Rs. 9999/- on a daily basis."
+      },
+      {
+        "property": "og:url",
+        "content": " https://www.vpl.live/rogue-heist-shooter-game"
+      },
+      {
+        "property": "og:title",
+        "content": "Play Rogue Heist on vpl & Win Real Money"
+      },
+      {
+        "property": "og:description",
+        "content": " Play Rogue Heist on vpl, an intense shooter game and win upto Rs. 9999/- on a daily basis."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Play Rogue Heist & Win Real Cash",
+          "subheader": "India’s First Multiplayer Shooting Game",
+          "showDownload": true,
+          "showPlayNow": true,
+          "cssAddDarkGradient": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/rogue_heist_mobile.webp",
+            "png": "/static/banners/rogue_heist_mobile.png",
+            "alt": "vpl Fruit slice mobile",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/rogue_heist_desktop.webp",
+            "png": "/static/banners/rogue_heist_desktop.png",
+            "alt": "vpl Fruit slice desktop",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          }
+        }
+      },
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings Instantly with",
+          "paymentList": [
+            {
+              "imageurl": {
+                "png": "/static/withdraw/paytm.png",
+                "webp": "/static/withdraw/paytm.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/upi.png",
+                "webp": "/static/withdraw/upi.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/amazon-pay.png",
+                "webp": "/static/withdraw/amazon-pay.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/bank-transfer.png",
+                "webp": "/static/withdraw/bank-transfer.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "subheader": "Play over 40+ games and win cash!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "Free Fire",
+              "link": "/pubg",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Free_Fire@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "/pool",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "/runner-no1",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "MiddleHeading",
+        "isParent": true,
+        "data": {
+          "header": "Play Rogue Heist: India’s Indigenius MultiShooter Game"
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "About Rogue Heist Game",
+          "contentList": [
+            "Rogue Heist is an unique experience of a heist, which is intense, engaging, and fun in a truly competitive real-time multiplayer environment.",
+            "The game available on vpl is Rogue Heist - BRAWL, a superfast, action-packed Esport version. Each game lasts for only five minutes in which 4-8 players are pitted against each other to steal the maximum amount of money. Here, the players get the real feel of a heist, yet come out top gainers based on their individual performance. Based on the leaderboard, top players will win cash prizes on vpl, making it a virtual cash heist with real money for takes. If you like the free fire game then you will definitely love this game."
+          ],
+          "cssContentClassList": ["center-align"]
+        }
+      },
+      {
+        "name": "ListPoints",
+        "isParent": true,
+        "data": {
+          "header": "Features of Rogue Heist game",
+          "declareGameList": [
+            "Fast-paced shooting gameplay",
+            "High-quality Graphics",
+            "4-8 Player Matches",
+            "Real-time PvP Experience",
+            "Day & Night Environment",
+            "12+ weapons",
+            "Customizable Controls"
+          ]
+        }
+      },
+      {
+        "name": "EnteringTheTournament",
+        "isParent": true,
+        "data": {
+          "header": "Steps to play that Rogue Heist Game",
+          "contentList": [
+            {
+              "stepTitle": "Step 1",
+              "imageurl": {
+                "png": "/static/rogue-heist/step_1.png",
+                "width": 624,
+                "height": 352,
+                "sizeInBytes": 70000
+              }
+            },
+            {
+              "stepTitle": "Step 2",
+              "imageurl": {
+                "png": "/static/rogue-heist/step_2.png",
+                "width": 624,
+                "height": 352,
+                "sizeInBytes": 70000
+              }
+            },
+            {
+              "stepTitle": "Step 3",
+              "imageurl": {
+                "png": "/static/rogue-heist/step_3.png",
+                "width": 624,
+                "height": 352,
+                "sizeInBytes": 70000
+              }
+            },
+            {
+              "stepTitle": "Step 4",
+              "imageurl": {
+                "png": "/static/rogue-heist/step_4.png",
+                "width": 624,
+                "height": 352,
+                "sizeInBytes": 70000
+              }
+            },
+            {
+              "stepTitle": "Step 5",
+              "imageurl": {
+                "png": "/static/rogue-heist/step_5.png",
+                "width": 624,
+                "height": 352,
+                "sizeInBytes": 70000
+              }
+            },
+            {
+              "stepTitle": "Step 6",
+              "imageurl": {
+                "png": "/static/rogue-heist/step_6.png",
+                "width": 624,
+                "height": 352,
+                "sizeInBytes": 70000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H2Header",
+              "data": {
+                "header": "Rogue Heist Game FAQs"
+              }
+            },
+            {
+              "name": "FaqsComponent",
+              "data": [
+                {
+                  "header": "What is the objective of the game?",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "The objective is to move around the map and find the laptop bag (its location is indicated by an icon on your screen) and start the hack to transfer money (score). Hold on to it for as long as possible to score more against opponents and win the game."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Why does the brightness of the screen go down automatically?",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "If your device overheats, it could affect the brightness of your screen. In case you encounter this problem, here’s what you can do to solve it:"
+                      ]
+                    },
+                    {
+                      "name": "WithShapeListRows",
+                      "data": [
+                        "Decrease the Graphics Quality of the game from the in-game Graphic settings",
+                        "Play the game after your device has cooled down",
+                        "Avoid playing the game while charging your phone",
+                        "Carefully lower the auto-brightness of your phone, because this may affect its battery life"
+                      ]
+                    },
+                    {
+                      "name": "WithoutShapeListRows",
+                      "data": [
+                        "<b>iOS</b> > Settings > General > Accessibility > Display Accommodations > Auto-Brightness.",
+                        "<b>Android</b> > Settings > Display > Disable the adaptive brightness."
+                      ]
+                    },
+                    {
+                      "name": "Note",
+                      "data": [
+                        "*Please note that the higher the brightness level, the faster the phone’s battery will drain"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Why am I experiencing frame drop?",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "We are sorry to hear that you're experiencing frame drop during the game. Here are some ways to fix this issue :"
+                      ]
+                    },
+                    {
+                      "name": "WithShapeListRows",
+                      "data": [
+                        "When the battery is low, the frame rate will drop, resulting in lag and frame drop. Please recharge your phone and then play the game.",
+                        "Please avoid playing the game when your phone is overheating. The device's Temperature Control will be triggered when the phone is overheating. This will result in decreased frame rate as well as lag in the game’s graphics. Also, it is recommended that you not play the game while the phone is being charged.",
+                        "Avoid running multiple apps at the same time while playing. The game could hang or lag if there are too many processes running in the background. Try closing all processes and restarting your phone.",
+                        "Please set the graphics quality according to the capability of your device. If you keep a graphic setting that is beyond what your device can handle, it will cause your game to lag.",
+                        "Pay attention to the signal at the bottom left while you are in a match or during server selection. A yellow or red signal means your ping is high. In this case, you may try to switch your internet connection to Wi-Fi or 4G, or change the graphic settings back to the default settings."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "When will I be able to play Night Mode?",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "Night Mode has been added to map. The mode will alternate between day and night randomly."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "What should I do if I am experiencing lag/lost connection?",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "If you encounter lag, please try the following steps to troubleshoot the issue:"
+                      ]
+                    },
+                    {
+                      "name": "WithShapeListRows",
+                      "data": [
+                        "Make sure that you have a stable internet connection.",
+                        "Change your internet connection (4G vs. Wi-Fi) or move to a place that has better signal."
+                      ]
+                    },
+                    {
+                      "name": "Note",
+                      "data": [
+                        "*This issue can be caused by fluctuating internet. We suggest that you try the steps mentioned above to see if the problem can be fixed or not."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Why does the loading screen get stuck?",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "This issue usually occurs when the connection is unstable or when the signal is weak. Please try the following steps to fix it:"
+                      ]
+                    },
+                    {
+                      "name": "WithShapeListRows",
+                      "data": [
+                        "Make sure you have a strong Wi-Fi or 4G signal.",
+                        "Avoid playing on a network with heavy traffic.",
+                        "Shut down your Wi-Fi or mobile network and then restart it. Stop sharing personal hotspots.",
+                        "Load the game 1-2 minutes after restarting your router.",
+                        "Restart your phone and try again."
+                      ]
+                    },
+                    {
+                      "name": "Note",
+                      "data": [
+                        "If the problem persists, please contact us and our technical team will assist you."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-1.png",
+                "webp": "/static/trust-icons/trust-1.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-2.png",
+                "webp": "/static/trust-icons/trust-2.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-3.png",
+                "webp": "/static/trust-icons/trust-3.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-4.png",
+                "webp": "/static/trust-icons/trust-4.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "png": "/static/2x/trf-logo.png",
+                "webp": "/static/2x/trf-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/aigf-logo.png",
+                "webp": "/static/2x/aigf-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/iamai-logo.png",
+                "webp": "/static/2x/iamai-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "png": "/static/social_icons/fb.png",
+                "webp": "/static/social_icons/fb.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "png": "/static/social_icons/yt.png",
+                "webp": "/static/social_icons/yt.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "png": "/static/social_icons/tw.png",
+                "webp": "/static/social_icons/tw.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "png": "/static/social_icons/ig.png",
+                "webp": "/static/social_icons/ig.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "Return, Refund & Cancellation",
+              "link": "https://about.vpl.live/returnpolicy/"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ],
+          "readMore": {}
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "Joining Bonus: Get 50 tokens!",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

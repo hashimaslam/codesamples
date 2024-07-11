@@ -1,0 +1,605 @@
+{
+  "pageName": "college-esports/bengaluru/leaderboard",
+  "head": {
+    "title": "Mobile Premier League (vpl) Game Platform | vpl Live",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "581e379d1912d965dcce7081ec7cb5b59340939829f47c0ce1929ee636027dac"
+      },
+      {
+        "name": "description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "name": "keywords",
+        "content": "real money earning games, earn money playing games, online money earning games, online cash winning games, win real cash games, win real cash games, play and win cash, play games for cash, win real money games, play and earn money, play fantasy cricket and win cash daily, play fantasy cricket and win real cash"
+      },
+      {
+        "property": "og:url",
+
+        "content": "https://www.vpl.live"
+      },
+      {
+        "property": "og:title",
+        "content": "Mobile Premier League (vpl) Game Platform | vpl Live"
+      },
+      {
+        "property": "og:description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          },
+          "actionButtonLabel": "Verify College ID card",
+          "actionButtonIcon": {
+            "imageurl": {
+              "png": "/static/2x/right-arrow.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "register to vpl Tournament"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+
+      {
+        "name": "ContentListPointsToggle",
+        "isParent": true,
+        "data": {
+          "header": "vpl College Esports Leaderboard",
+          "H1Header": false,
+          "descriptionList": [],
+          "informationList": [
+            {
+              "header": "League Leaderboard",
+              "description": "This is a sum of points from all three games i.e, Pool Carrom and Speed Chess",
+              "headerImageurl": {
+                "png": "/static/tournaments/leaderboard_star.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "headerList": ["RANK", "COLLEGE", "POINTS"],
+              "subParagraphList": [
+                {
+                  "serialNo": "1",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management"
+                  },
+                  "result": "31"
+                },
+                {
+                  "serialNo": "2",
+                  "studentInfo": {
+                    "college": "New Horizon College of Engineering"
+                  },
+                  "result": "19"
+                },
+                {
+                  "serialNo": "3",
+                  "studentInfo": {
+                    "college": "St. Joseph's College of Commerce"
+                  },
+                  "result": "19"
+                },
+                {
+                  "serialNo": "4",
+                  "studentInfo": { "college": "BMS College of Engineering" },
+                  "result": "7"
+                },
+                {
+                  "serialNo": "5",
+                  "studentInfo": {
+                    "college": "MS Ramaiah Institute of Technology"
+                  },
+                  "result": "1"
+                }
+              ]
+            },
+            {
+              "header": "Pool Leaderboard",
+              "description": "This is a sum of points from all three games i.e, Pool Carrom and Speed Chess",
+              "headerImageurl": {
+                "png": "/static/tournaments/pool.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "headerList": ["RANK", "PLAYER & COLLEGE", "POINTS"],
+              "subParagraphList": [
+                {
+                  "serialNo": "1",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Navneeth Krishna V L",
+                    "amount": "₹1500"
+                  },
+                  "result": "10"
+                },
+                {
+                  "serialNo": "2",
+                  "studentInfo": {
+                    "college": "BMS College of Engineering",
+                    "name": "Dhruva M",
+                    "amount": "₹600"
+                  },
+                  "result": "6"
+                },
+                {
+                  "serialNo": "SF",
+                  "studentInfo": {
+                    "college": "New Horizon College of Engineering",
+                    "name": "Jaskaran Singh Randhawa ",
+                    "amount": "₹300"
+                  },
+                  "result": "3"
+                },
+                {
+                  "serialNo": "SF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Shivin Singh",
+                    "amount": "₹300"
+                  },
+                  "result": "3"
+                },
+                {
+                  "serialNo": "  QF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Mithun Prabhu",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                },
+                {
+                  "serialNo": "  QF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Ajay Srikanta H",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                },
+                {
+                  "serialNo": "  QF",
+                  "studentInfo": {
+                    "college": "St. Joseph's College of Commerce",
+                    "name": "Jayasimha M",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                }
+              ]
+            },
+            {
+              "header": "Carrom Leaderboard",
+              "description": "This is a sum of points from all three games i.e, Pool Carrom and Speed Chess",
+              "headerImageurl": {
+                "png": "/static/tournaments/carrom.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "headerList": ["RANK", "PLAYER & COLLEGE", "POINTS"],
+              "subParagraphList": [
+                {
+                  "serialNo": "1",
+                  "studentInfo": {
+                    "college": "New Horizon College of Engineering",
+                    "name": "Jaskaran Singh Randhawa ",
+                    "amount": "₹1500"
+                  },
+                  "result": "10"
+                },
+                {
+                  "serialNo": "2",
+                  "studentInfo": {
+                    "college": "St. Joseph's College of Commerce",
+                    "name": "Amogh M",
+                    "amount": "₹600"
+                  },
+                  "result": "6"
+                },
+                {
+                  "serialNo": "SF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Mithun Prabhu",
+                    "amount": "₹300"
+                  },
+                  "result": "3"
+                },
+                {
+                  "serialNo": "SF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Shivin Singh",
+                    "amount": "₹300"
+                  },
+                  "result": "3"
+                },
+                {
+                  "serialNo": "QF",
+                  "studentInfo": {
+                    "college": "St. Joseph's College of Commerce",
+                    "name": "Syeda Aleena Aga",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                },
+                {
+                  "serialNo": "QF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Joevis Dominic F",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                },
+                {
+                  "serialNo": "QF",
+                  "studentInfo": {
+                    "college": "BMS College of Engineering",
+                    "name": "Dhruva M",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                },
+                {
+                  "serialNo": "QF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Navneeth Krishna V L",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                }
+              ]
+            },
+            {
+              "header": "Chess Leaderboard",
+              "description": "This is a sum of points from all three games i.e, Pool Carrom and Speed Chess",
+              "headerImageurl": {
+                "png": "/static/tournaments/chess.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              },
+              "headerList": ["RANK", "PLAYER & COLLEGE", "POINTS"],
+              "subParagraphList": [
+                {
+                  "serialNo": "1",
+                  "studentInfo": {
+                    "college": "St. Joseph's College of Commerce",
+                    "name": "Darshan D",
+                    "amount": "₹1500"
+                  },
+                  "result": "10"
+                },
+                {
+                  "serialNo": "2",
+                  "studentInfo": {
+                    "college": "New Horizon College of Engineering",
+                    "name": "Jaskaran Singh Randhawa",
+                    "amount": "₹600"
+                  },
+                  "result": "6"
+                },
+                {
+                  "serialNo": "SF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Shalom Michael",
+                    "amount": "₹300"
+                  },
+                  "result": "3"
+                },
+                {
+                  "serialNo": "SF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Elton Joy D'Souza",
+                    "amount": "₹300"
+                  },
+                  "result": "3"
+                },
+                {
+                  "serialNo": "QF",
+                  "studentInfo": {
+                    "college": "Ramaiah Institute of Technology",
+                    "name": "Gopal Tyagi",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                },
+                {
+                  "serialNo": "QF",
+                  "studentInfo": {
+                    "college": "St. Joseph's College of Commerce",
+                    "name": "Jayasimha M",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                },
+                {
+                  "serialNo": "QF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Mithun Prabhu",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                },
+                {
+                  "serialNo": "QF",
+                  "studentInfo": {
+                    "college": "St. Joseph's Institute of Management",
+                    "name": "Joevis Dominic F",
+                    "amount": "₹75"
+                  },
+                  "result": "1"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "ListImage",
+        "isParent": true,
+        "data": {
+          "header": "Tournament Schedule",
+          "informationList": [
+            {
+              "date": "19th August",
+              "time": "5:00pm",
+              "title": "Registrations Open",
+              "imageurl": {
+                "png": "/static/tournaments/registration_open.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              }
+            },
+
+            {
+              "date": "25th August",
+              "time": "5:00pm",
+              "title": "Registrations Closes",
+              "imageurl": {
+                "png": "/static/tournaments/registration_close.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              }
+            },
+
+            {
+              "date": "26th August",
+              "time": "5:00pm",
+              "title": "Pool Tournament",
+              "imageurl": {
+                "png": "/static/tournaments/pool.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              }
+            },
+            {
+              "date": "27th August",
+              "time": "5:00pm",
+              "title": "Carrom Tournament",
+              "imageurl": {
+                "png": "/static/tournaments/carrom.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              }
+            },
+            {
+              "date": "28th August",
+              "time": "5:00pm",
+              "title": "Speed Chess Tournament",
+              "imageurl": {
+                "png": "/static/tournaments/chess.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              }
+            },
+            {
+              "date": "28th August",
+              "time": "12:00pm",
+              "title": "Winners Announcement",
+              "imageurl": {
+                "png": "/static/tournaments/winner.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 369
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "ListPointsToggle",
+        "isParent": true,
+        "data": {
+          "header": "How are points distributed?",
+          "H1Header": false,
+          "descriptionList": [
+            "Players are awarded points based on their performance in the Knock-out tournament. The better position you get, the more points you’ll earn for your college."
+          ],
+          "informationList": [
+            {
+              "header": "Points Distribution",
+              "subParagraphes": [
+                {
+                  "key": "1st place",
+                  "value": "10 points"
+                },
+                {
+                  "key": "2nd place",
+                  "value": "6 points"
+                },
+                {
+                  "key": "Semi-finalists",
+                  "value": "3 points"
+                },
+                {
+                  "key": "Quarter-finalists",
+                  "value": "1 points"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "RummyFaqs",
+        "isParent": true,
+        "data": {
+          "header": "FAQs",
+          "H1Header": true,
+          "faqsList": [
+            {
+              "header": "Can I participate in multiple games?",
+              "subParagraphes": [
+                "Yes, you can participate in all three games. Please check-in the respective games you wish to participate in, in the registration link. The payments for the individual games will have to be done separately for each game on the mobile app. "
+              ]
+            },
+            {
+              "header": "How many players can participate per college?",
+              "subParagraphes": [
+                "There is no strict limit to the number of participants per college. More the number of participating teams from a college - the greater will be the likelihood of the college to win more points."
+              ]
+            },
+            {
+              "header": "Where would the tournament be organised?",
+              "subParagraphes": [
+                "As a mobile gaming league - the matches can be played from the comforts of your home/college. Please ensure you have good internet connection while playing the matches. The league will be hosted on the vpl mobile app which can be downloaded here."
+              ]
+            },
+            {
+              "header": "In case of a tie of points - how will the league winner be determined?",
+              "subParagraphes": [
+                "The team with more 1st position finishes will be deemed the winner. In case of a tie again we'll look at 2nd position, semi-finalists, quarter-finalists (in that order) to determine the winner."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

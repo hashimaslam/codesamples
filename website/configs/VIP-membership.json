@@ -1,0 +1,868 @@
+{
+  "pageName": "support/vip",
+  "head": {
+    "title": "Play Rummy Game Online & Earn Real Cash with vpl",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/rummy",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Play Indian rummy games online with friends to earn real cash with instant money transfers. 5 million rummy players online to win Rs 2 crores daily."
+      },
+      {
+        "name": "keywords",
+        "content": "play rummy, online rummy, play rummy & earn real money, play rummy online, rummy games online"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/rummy"
+      },
+      {
+        "property": "og:title",
+        "content": "Play Rummy Game Online & Earn Real Cash with vpl"
+      },
+      {
+        "property": "og:description",
+        "content": "Play Indian rummy games online with friends to earn real cash with instant money transfers. 5 million rummy players online to win Rs 2 crores daily."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "SMS have been sent on your mobile number",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "useroffer",
+        "isParent": false,
+        "data": {
+          "header": "Congratulations!",
+          "subheader": "You are now",
+          "memberHeader": "Member",
+          "vplUserTypeIconImageurl": {
+            "png": "/static/2x/vpl-user-type.png",
+            "width": 96,
+            "height": 96,
+            "sizeInBytes": 8000
+          },
+          "callScheduleSuccess": {
+            "png": "/static/2x/call_schedule_success.png",
+            "width": 96,
+            "height": 96,
+            "sizeInBytes": 8000
+          },
+          "offerList": [
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/call_support.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "One Click Call Support"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/customer_care.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Dedicated Account Manager"
+            }
+          ]
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerBackground",
+        "isParent": true,
+        "data": {
+          "header": "",
+          "subheader": "",
+          "cssAddDarkGradient": true,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/vip-call-support-mobile.png",
+            "png": "/static/banners/vip-call-support-mobile.png",
+            "alt": "vpl banner mobile",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/vip-call-support-desktop.png",
+            "png": "/static/banners/vip-call-support-desktop.png",
+            "alt": "vpl banner desktop",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          }
+        }
+      },
+
+      {
+        "name": "call",
+        "isParent": false,
+        "data": {
+          "header": "Customer Support Agent will call you back in 2 mins",
+          "desktopHeader": "To call our customer support now, Download the vpl app",
+          "adminPhoneNo": "1800 102 3104",
+          "adminCallButtonLabel": "Call Now",
+          "adminCallImageurl": {
+            "png": "/static/2x/call.svg",
+            "width": 25,
+            "height": 26,
+            "sizeInBytes": 455
+          },
+          "orText": "OR",
+          "callScheduleButtonLabel": " Schedule a Call",
+          "supportInformation": " Personal Support Agent will call you back at \n your specified time",
+          "scheduleCallHeader": "Schedule Callback",
+          "scheduleCallSubHeader": "You will receive callback on",
+          "countryMobileCode": "+91",
+          "selectSlotHeader": "Select a time for callback",
+          "userPhonePlaceholder": "Enter mobile number",
+          "selectToday": "Today",
+          "selectTomorrow": "Tomorrow",
+          "slot1": "10 am - 1 pm",
+          "slot2": "1 pm - 5 pm",
+          "slot3": "5 pm - 8 pm",
+          "slot4": "8 pm - 12 am",
+          "scheduleCallCancelBtnLabel": "Cancel",
+          "scheduleCallSubmitBtnLabel": "Schedule Call",
+          "scheduleCallConfirmationText": "Call Scheduled for",
+          "scheduleCallSucessText": "Okay",
+          "scheduleCallSucessIconImageurl": {
+            "png": "/static/2x/call_schedule_success.png",
+            "width": 150,
+            "height": 150,
+            "sizeInBytes": 1193
+          }
+        }
+      },
+
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings Instantly with",
+          "paymentList": [
+            {
+              "imageurl": {
+                "png": "/static/withdraw/paytm.png",
+                "webp": "/static/withdraw/paytm.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/upi.png",
+                "webp": "/static/withdraw/upi.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/amazon-pay.png",
+                "webp": "/static/withdraw/amazon-pay.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/bank-transfer.png",
+                "webp": "/static/withdraw/bank-transfer.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "subheader": "Play over 40+ games and win cash!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "Free Fire",
+              "link": "/free-fire",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Free_Fire@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "/pool",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "/runner-no1",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "topGames",
+        "isParent": true,
+        "data": {
+          "header": "Some of Our Ultimate Mobile Games",
+          "moreText": "more",
+          "knowMoreBtnLabel": "Know More",
+          "topGamesList": [
+            {
+              "header": "Free Fire",
+              "text": "One of the biggest survival shooter games is now live on vpl. Register for Free Fire tournaments on the vpl app and win big money everyday.",
+              "imageurl": {
+                "png": "/static/landing-page-images/free-fire-icon.png",
+                "webp": "/static/landing-page-images/free-fire-icon.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "/free-fire",
+              "altText": "Free Fire"
+            },
+            {
+              "header": "Fantasy Games",
+              "text": "Fantasy games have become a huge hit in India, and vpl offers you the ultimate fantasy gaming experience. Playing Fantasy Games online is one thing and playing Fantasy Games with vpl is another. vpl offers you the opportunity to win real cash for every Fantasy game that you play. We cover Fantasy Cricket, Fantasy Football, Fantasy Kabaddi, Fantasy Stocks & Fantasy BasketBall. So, when you have all the Fantasy games in one place, why go anywhere else?",
+              "imageurl": {
+                "png": "/static/landing-page-images/cricket-icon.png",
+                "webp": "/static/landing-page-images/cricket-icon.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "altText": "Fantasy games",
+              "pageLink": "/fantasy",
+              "subParagraphes": [
+                {
+                  "header": "How to play Fantasy Games online",
+                  "text": "All you need to do is download the vpl app and register yourself to start playing! Once you register, select the Fantasy Game you wish to play. Select the match you want to compete in and then pick your Fantasy team. Yes! It’s that sivple. Download the app and play now! You also get a bonus of Rs. 50 for every successful referral you make. So download the vpl app, start playing and win real cash!"
+                }
+              ]
+            },
+            {
+              "header": "vpl Fantasy Cricket",
+              "text": "The vpl Fantasy Cricket app provides you a platform to showcase your cricket knowledge & skills. You can play fantasy cricket online and win real cash. In the vpl Fantasy cricket app, the players in your customised team score points on the basis of their performance in the match. We've got you covered for every type of match that takes place in the world of cricket - International ODIs, Tests, T20s and even state-level matches. So download the vpl game app and start playing fantasy cricket now.",
+              "imageurl": {
+                "png": "/static/landing-page-images/cricket-icon.png",
+                "webp": "/static/landing-page-images/cricket-icon.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "/fantasy-cricket",
+              "altText": "Fantasy cricket"
+            },
+
+            {
+              "header": "vpl Rummy",
+              "text": "Rummy online by vpl is one of the most popular card games and has gained an immense following over the years. vpl offers a highly interactive online version, which is enjoyable, easy and secure!",
+              "imageurl": {
+                "png": "/static/landing-page-images/rummy.png",
+                "webp": "/static/landing-page-images/rummy.webp"
+              },
+              "pageLink": "/rummy",
+              "altText": "Fantasy rummy"
+            },
+            {
+              "header": "Ludo",
+              "text": "Ludo is among the most popular board games that people love to play in their leisure time. This game can be played by 2 to 4 players. The objective of Ludo is to get your tokens to the finishing point before the other players by rolling a dice. Ludo is believed to be similar to Pachisi, a game which originated in India around the 6th century.",
+              "imageurl": {
+                "png": "/static/landing-page-images/ludo.png",
+                "webp": "/static/landing-page-images/ludo.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "/ludo",
+              "altText": "Fantasy ludo"
+            },
+            {
+              "header": "vpl Speed Chess",
+              "text": "Chess is believed to have originated approximately 1500 years ago in India. The game gradually spread across the Asian continent, and eventually reached Europe.  In the vpl Chess game, there are 6 distinct types of Chess pieces. Play Chess online with vpl, checkmate your opponents and earn cash online.",
+              "imageurl": {
+                "png": "/static/landing-page-images/chess-icon.png",
+                "webp": "/static/landing-page-images/chess-icon.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "/chess",
+              "altText": "Fantasy speed chess"
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-1.png",
+                "webp": "/static/trust-icons/trust-1.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-2.png",
+                "webp": "/static/trust-icons/trust-2.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-3.png",
+                "webp": "/static/trust-icons/trust-3.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-4.png",
+                "webp": "/static/trust-icons/trust-4.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "png": "/static/2x/trf-logo.png",
+                "webp": "/static/2x/trf-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/aigf-logo.png",
+                "webp": "/static/2x/aigf-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/iamai-logo.png",
+                "webp": "/static/2x/iamai-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "png": "/static/social_icons/fb.png",
+                "webp": "/static/social_icons/fb.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "png": "/static/social_icons/yt.png",
+                "webp": "/static/social_icons/yt.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "png": "/static/social_icons/tw.png",
+                "webp": "/static/social_icons/tw.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "png": "/static/social_icons/ig.png",
+                "webp": "/static/social_icons/ig.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "Return, Refund & Cancellation",
+              "link": "https://about.vpl.live/returnpolicy/"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ],
+          "readMore": {}
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

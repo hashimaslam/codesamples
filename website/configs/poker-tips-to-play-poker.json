@@ -1,0 +1,755 @@
+{
+  "pageName": "poker/tips-to-play-poker",
+  "head": {
+    "title": "6 Tips to Play Poker & Best Poker Strategies to Win",
+    "canonical": "https://www.vpl.live/poker/tips-to-play-poker",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Play poker like a professional using these top notch poker tips and win real cash."
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/poker/tips-to-play-poker"
+      },
+      {
+        "property": "og:title",
+        "content": "Poker Online | Play Poker Games on vpl."
+      },
+      {
+        "property": "og:description",
+        "content": "Play poker like a professional using these top notch poker tips and win real cash."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png."
+      },
+      { "property": "og:image:alt", "content": "Play Games and Win Money" }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "https://www.vpl.live/fantasy-football"
+            },
+            { "text": "Rummy", "link": "https://www.vpl.live/rummy" },
+            { "text": "Ludo", "link": "https://www.vpl.live/ludo" },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            { "text": "Pool", "link": "https://www.vpl.live/pool" },
+            { "text": "Speed Chess", "link": "https://www.vpl.live/chess" },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            { "text": "Poker", "link": "https://www.vpl.live/poker" },
+            { "text": "Quiz", "link": "https://www.vpl.live/quiz" },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            { "text": "Go Ride", "link": "https://www.vpl.live/go-ride" },
+            {
+              "text": "Auto Raja",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            { "text": "", "link": "https://www.vpl.live/carrom" },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            { "text": "Blog", "link": "https://www.vpl.live/blog" },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Top Tips to Play Pokers",
+          "subheader": "Play Poker on vpl & Win Big",
+          "cssAddDarkGradient": true,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/img_poker_mobile@2x.webp",
+            "png": "/static/banners/img_poker_mobile@2x.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/banner_desktop_poker.webp",
+            "png": "/static/banners/banner_desktop_poker.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          }
+        }
+      },
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings Instantly with",
+          "paymentList": [
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/paytm.webp",
+                "png": "/static/withdraw/paytm.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/upi.webp",
+                "png": "/static/withdraw/upi.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/amazon-pay.webp",
+                "png": "/static/withdraw/amazon-pay.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/bank-transfer.webp",
+                "png": "/static/withdraw/bank-transfer.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "subheader": "Play over 40+ games and win cash!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "Rogue Heist",
+              "link": "/rogue-heist-shooter-game",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/4cf12fbc83e54a41ac75d7f2015fb383.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "/pool",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "/runner-no1",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Tips to play Poker",
+          "H1Header": true,
+          "pageLink": "",
+          "pageLinkContent": "",
+          "cssClassList": ["how-to-play-info description-format"],
+          "contentList": [
+            "One cannot expect to become an overnight pro in any game. Mastering a game requires patience and hours of practice to hone the skills and develop strategies to deal with various uncertainties arising during the game. The same applies to playing Poker on vpl. As a beginner, the various buy-ins, poker variations, tournaments might seem a bit overwhelming at times. However, one look at our <a href='/poker/rules-of-poker'>Rules to Play Poker </a> guide should help you out with the basic understanding of the game.",
+            "That said, one can always refer to some basic poker tips to help them during the early part of the game, which not only makes the learning process easier but also helps with laying the foundation for advanced strategies in the Poker game."
+          ]
+        }
+      },
+      {
+        "name": "Heading",
+        "isParent": true,
+        "data": {
+          "title": "Online Poker Strategy and Tips",
+          "cssClassList": ["section-header", "poker-tips-to-play"],
+          "H1Header": true,
+          "H2Header": true
+        }
+      },
+
+      {
+        "name": "ImageContainer",
+        "isParent": true,
+        "data": {
+          "imageurl": {
+            "webp": "/static/banners/poker-tips-to-play.png",
+            "png": "/static/banners/poker-tips-to-play.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          }
+        }
+      },
+      {
+        "name": "RummyFaqs",
+        "isParent": true,
+        "data": {
+          "header": "",
+          "faqsList": [
+            {
+              "header": " 1.Avoid playing too many hands",
+              "subParagraphes": [
+                "As a beginner, it is easy to think any hand can be converted into a winning combination through some luck with community cards. This is a big mistake that players often make during the early stages of playing poker. It is important to be selective with every hand as some hands are just more likely to win than others. The essence of a poker strategy lies in memorising the poker hand rankings beforehand to help identify a winning hand during play.<br/> <br/> To understand poker hand rankings at the start, you can use the following as basic guidelines:<br/> <br/>  A-A and K-K are considered as the Premium Hands. If the player has such a combination as their hole cards, the chances of winning the pot are higher. <br/><br/> <img src=/static/banners/royal_flush.png><br/> <br/>\n Following the same principle, A-K, Q-Q and J-J are strong hands. A-Q, 10-10, 9-9 and 8-8 are considered as marginal hands and can lead to a winning pot.<br/><br/><img src=/static/banners/royal_flush-2.png><br/><br/>A general online poker tip to follow is any hand less than a pair should be folded during the early stages."
+              ]
+            },
+            {
+              "header": "2.Recognizing betting patterns",
+              "subParagraphes": [
+                "While the early hand can dictate the entire play, it is not the only poker strategy a player will need to use in order to win a <a href='/poker'>Poker game</a>. Getting the best early hand is generally the ideal way to play to hand. However, a lot of different factors can sway the game if you’re sharing the table with experienced players.<br/>One way to identify the flow of the game is the tried-and-tested reading your opponent’s poker strategy. While that might not be an obvious online poker tip, one can always figure out an opponent’s mindset by closely analysing their betting pattern. It understandably takes time to get it right, but as a beginner, it might just be the right time to familiarise yourself with some advanced tricks of the game. A lot of information can be extracted from a player’s style of betting during each round and how it translates during showdown."
+              ]
+            },
+            {
+              "header": "3.Adopting different styles of play",
+              "subParagraphes": [
+                "A crucial online poker tip is to mix up a variety of approaches as poker is a fascinating game. Some of these approaches include - <br/> <br/><ul class='tips-to-play-poker-list'><li>Tight - Play cautiously with relatively fewer hands and take lesser risks.</li> <li> Loose - This is the opposite of ‘tight’, involving playing with a lot of hands and more willingness to gamble.</li><li> Aggressive - This involves a lot of betting, opening pots and going for huge bets to put the opponent under pressure.</li><li>‘Passive’: This is the opposite of aggressive, which involves calling more often than betting as it is in the opponents’ hand to dictate how the action unfolds. </li></ul> <br/> The key lies in being flexible enough to use any style depending on the situation as being predictable more often than not ends up in defeat. However, beginners could look to go for a ‘tight-aggressive’ combination."
+              ]
+            },
+            {
+              "header": "4.Using positional play to your advantage",
+              "subParagraphes": [
+                "Using positional play to your advantage is a poker strategy that not only helps a novice player, but also a key strategy used by experienced poker players. At the start of every hand, one should note the position of the dealer, which changes every game. The dealer is the last player to act in a betting round. This gives the player a tactical advantage as he/she can make a decision based on how the opponents have acted. While a player may not be the dealer in every hand, he still can make the most of the strategy by opting to play more hands from ‘late’ positions."
+              ]
+            },
+            {
+              "header": "5.Aggressive semi-bluffs with the right hand",
+              "subParagraphes": [
+                "Bluffing remains an integral poker strategy that can turn even a losing game in your favour. While there are numerous strategies associated with bluffing in poker, ‘semi-bluffing’ is a poker strategy where the player dictates only if he/she draws a decent hand. This means that the player will bluff only if the hand dealt has outs to improve to the best hand during the latter rounds. Bluffing with a total nothing hand prior to the river has chances to backfire more often than not. Hence, semi-bluffing becomes important as it lays down the perfect hand criteria if the player should proceed with a bluff or sivply fold. <br/><br/> One such scenario is the player should lean towards checking during the betting round if the hand drawn has potential showdown value. For e.g. a pair or ace-high."
+              ]
+            },
+            {
+              "header": "6.Fold when unsure",
+              "subParagraphes": [
+                "This is one poker strategy that almost all players know but fail to execute when actually playing the game. A good poker player is generally the one who folds more hands than he actually wins. It takes real mental prowess for a player to fold a good pair - a situation where most will be enticed to continue hoping to snatch a win. <br/> However, what differentiates a pro player from the crowd is his/her ability to read the table, the opponents and deciding to fold even if it means losing a few chips during the initial betting round. Whenever you’re unsure if you should play the hand or fold, the general rule of thumb is to choose the latter."
+              ]
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-1.webp",
+                "png": "/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-2.webp",
+                "png": "/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-3.webp",
+                "png": "/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-4.webp",
+                "png": "/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/trf-logo.webp",
+                "png": "/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/aigf-logo.webp",
+                "png": "/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/iamai-logo.webp",
+                "png": "/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "/static/social_icons/yt.webp",
+                "png": "/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "/static/social_icons/tw.webp",
+                "png": "/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "/static/social_icons/ig.webp",
+                "png": "/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            { "text": "Ludo", "link": "https://www.vpl.live/ludo" },
+            { "text": "Pool", "link": "https://www.vpl.live/pool" },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            { "text": "Speed Chess", "link": "https://www.vpl.live/chess" },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            { "text": "Rummy", "link": "https://www.vpl.live/rummy" },
+            { "text": "Poker", "link": "https://www.vpl.live/poker" },
+            { "text": "Quiz", "link": "https://www.vpl.live/quiz" },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            { "text": "Go Ride", "link": "https://www.vpl.live/go-ride" },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Carrom Game",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Auto Raja Game",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            {
+              "text": "Fantasy Cricket App",
+              "link": "https://www.vpl.live/fantasy-cricket/app"
+            },
+            { "text": "Blog", "link": "https://www.vpl.live/blog" },
+            {
+              "text": "Refer & Earn",
+              "link": "https://www.vpl.live/refer-and-earn"
+            },
+            { "text": "FAQs", "link": "https://help.vpl.live/faq/" },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

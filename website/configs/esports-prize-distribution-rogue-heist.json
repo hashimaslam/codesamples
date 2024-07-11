@@ -1,0 +1,341 @@
+{
+  "pageName": "esports/prize-distribution-rogue-heist",
+  "head": {
+    "title": "Mobile Premier League (vpl) Game Platform | vpl Live",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/esports/prize-distribution-rogue-heist",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "581e379d1912d965dcce7081ec7cb5b59340939829f47c0ce1929ee636027dac"
+      },
+      {
+        "name": "description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "name": "keywords",
+        "content": "real money earning games, earn money playing games, online money earning games, online cash winning games, win real cash games, win real cash games, play and win cash, play games for cash, win real money games, play and earn money, play fantasy cricket and win cash daily, play fantasy cricket and win real cash"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live"
+      },
+      {
+        "property": "og:title",
+        "content": "Mobile Premier League (vpl) Game Platform | vpl Live"
+      },
+      {
+        "property": "og:description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            }
+          ]
+        }
+      },
+      {
+        "name": "backButton",
+        "isParent": true,
+        "data": {
+          "showDownload": false,
+          "backButtonImageurl": {
+            "png": "/static/2x/leftArrow.svg",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "infoIconImageurl": {
+            "png": "/static/banners/game-rogue-heist.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "infoTitle": "Rogue Heist Prizes",
+          "cssClassList": ["top-back-button"],
+          "backButtonUrl": "/esports/prize-distribution"
+        }
+      },
+
+      {
+        "name": "ListPointsToggle",
+        "isParent": true,
+        "data": {
+          "header": "Stage 1: Intra College Tournaments",
+          "H1Header": false,
+          "descriptionList": [
+            "Top 8 players in each tournament per college will win cash prizes"
+          ],
+          "cssClassList": ["esports-points-distribution"],
+          "esportsShow": true,
+          "informationList": [
+            {
+              "header": "",
+              "columnHeader": {
+                "first": "Ranks",
+                "second": "Player Prizes"
+              },
+              "subParagraphes": [
+                {
+                  "key": "Rank 1",
+                  "value": "₹2500"
+                },
+                {
+                  "key": "Rank 2",
+                  "value": "₹1500"
+                },
+                {
+                  "key": "Rank 3",
+                  "value": "₹1250"
+                },
+                {
+                  "key": "Rank 4",
+                  "value": "₹1000"
+                },
+                {
+                  "key": "Rank 5-8",
+                  "value": "₹520"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "ListPointsToggle",
+        "isParent": true,
+        "data": {
+          "header": "Stage 2: Regional Tournaments",
+          "H1Header": false,
+          "descriptionList": [
+            "Top 8 players in each tournament per region will win cash prizes"
+          ],
+          "cssClassList": ["esports-points-distribution"],
+          "esportsShow": true,
+          "informationList": [
+            {
+              "header": "",
+              "columnHeader": {
+                "first": "Ranks",
+                "second": "Player Prizes"
+              },
+              "subParagraphes": [
+                {
+                  "key": "Rank 1",
+                  "value": "₹20833"
+                },
+                {
+                  "key": "Rank 2",
+                  "value": "₹8333"
+                },
+                {
+                  "key": "Rank 3",
+                  "value": "₹5000"
+                },
+                {
+                  "key": "Rank 4",
+                  "value": "₹3333"
+                },
+                {
+                  "key": "Rank 5-8",
+                  "value": "₹1040"
+                }
+              ]
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "ListPointsToggle",
+        "isParent": true,
+        "data": {
+          "header": "Stage 3: Zonal Tournaments",
+          "H1Header": false,
+          "descriptionList": [
+            "Top 8 players in each tournament per zone will win cash prizes"
+          ],
+          "cssClassList": ["esports-points-distribution"],
+          "esportsShow": true,
+          "informationList": [
+            {
+              "header": "",
+              "columnHeader": {
+                "first": "Ranks",
+                "second": "Player Prizes"
+              },
+              "subParagraphes": [
+                {
+                  "key": "Rank 1",
+                  "value": "₹156250"
+                },
+                {
+                  "key": "Rank 2",
+                  "value": "₹62500"
+                },
+                {
+                  "key": "Rank 3",
+                  "value": "₹37500"
+                },
+                {
+                  "key": "Rank 4",
+                  "value": "₹25000"
+                },
+                {
+                  "key": "Rank 5-8",
+                  "value": "₹7750"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "ListPointsToggle",
+        "isParent": true,
+        "data": {
+          "header": "Stage 4: National Tournaments",
+          "H1Header": false,
+          "descriptionList": [
+            "Top 8 players in each tournament will win cash prizes"
+          ],
+          "cssClassList": ["esports-points-distribution"],
+          "esportsShow": true,
+          "informationList": [
+            {
+              "header": "",
+              "columnHeader": {
+                "first": "Ranks",
+                "second": "Player Prizes"
+              },
+              "subParagraphes": [
+                {
+                  "key": "Rank 1",
+                  "value": "₹625000"
+                },
+                {
+                  "key": "Rank 2",
+                  "value": "₹250000"
+                },
+                {
+                  "key": "Rank 3",
+                  "value": "₹150000"
+                },
+                {
+                  "key": "Rank 4",
+                  "value": "₹100000"
+                },
+                {
+                  "key": "Rank 5-8",
+                  "value": "₹31250"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

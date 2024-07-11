@@ -1,0 +1,819 @@
+{
+  "pageName": "poker/rules-of-poker",
+  "head": {
+    "title": "Learn the Rules of Poker & Win Real Cash",
+    "canonical": "https://www.vpl.live/poker/rules-of-poker",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Poker is a game where rules play a vital role. Learn the rules of poker and start playing it on vpl to win real cash."
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/poker/rules-of-poker"
+      },
+      {
+        "property": "og:title",
+        "content": "Poker Online | Play Poker Games on vpl."
+      },
+      {
+        "property": "og:description",
+        "content": "Play live online poker game tournaments online at vpl pro app with lakhs of players online and win real cash."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png."
+      },
+      { "property": "og:image:alt", "content": "Play Games and Win Money" }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "https://www.vpl.live/fantasy-football"
+            },
+            { "text": "Rummy", "link": "https://www.vpl.live/rummy" },
+            { "text": "Ludo", "link": "https://www.vpl.live/ludo" },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            { "text": "Pool", "link": "https://www.vpl.live/pool" },
+            { "text": "Speed Chess", "link": "https://www.vpl.live/chess" },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            { "text": "Poker", "link": "https://www.vpl.live/poker" },
+            { "text": "Quiz", "link": "https://www.vpl.live/quiz" },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            { "text": "Go Ride", "link": "https://www.vpl.live/go-ride" },
+            {
+              "text": "Auto Raja",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            { "text": "", "link": "https://www.vpl.live/carrom" },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            { "text": "Blog", "link": "https://www.vpl.live/blog" },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Rules to Play Poker Online ",
+          "subheader": "Play Poker on vpl & Win Big",
+          "cssAddDarkGradient": true,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/img_poker_mobile@2x.webp",
+            "png": "/static/banners/img_poker_mobile@2x.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/banner_desktop_poker.webp",
+            "png": "/static/banners/banner_desktop_poker.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          }
+        }
+      },
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings Instantly with",
+          "paymentList": [
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/paytm.webp",
+                "png": "/static/withdraw/paytm.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/upi.webp",
+                "png": "/static/withdraw/upi.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/amazon-pay.webp",
+                "png": "/static/withdraw/amazon-pay.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/bank-transfer.webp",
+                "png": "/static/withdraw/bank-transfer.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "subheader": "Play over 40+ games and win cash!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "Rogue Heist",
+              "link": "/rogue-heist-shooter-game",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/4cf12fbc83e54a41ac75d7f2015fb383.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "/pool",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "/runner-no1",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Rules of Poker",
+          "H1Header": true,
+          "pageLink": "",
+          "pageLinkContent": "",
+          "cssClassList": ["how-to-play-info description-format center-align"],
+          "contentList": [
+            "Poker on vpl is available in three popular variations, namely NL Hold’em, PL Omaha and PL Omaha 5. Regardless of which poker variation a player chooses to play, it is wise to have a perfect understanding of basic poker rules before you start playing and challenging other players online."
+          ]
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "What are the basic Poker game rules?",
+          "pageLink": "",
+          "pageLinkContent": "",
+          "cssClassList": ["how-to-play-info description-format"],
+          "contentList": [
+            "First and foremost, the fundamental objective of Poker is to form the best combination using the cards in your hand, also known as ‘hole cards’ and the cards on the board, ‘also known as community cards’. Different variations have different number of hole cards dealt to each player at the start of the <a href='/poker'>poker game</a>. The player with the best combination is declared as the winner and wins the entire pot, i.e. the chips collected through the various rounds of betting during the poker game. <br/> <br/> Amongst basic poker rules, there are betting rounds. This involved the game being divided into various rounds based on when the community cards are unfolded. The poker game starts with players putting in the small blind and big blind in the pot. The player sitting on the immediate left of the dealer posts a small blind and the player next to him posts the big blind. <br/>  <br/>The hole cards are then dealt, post which the first round of betting happens. The play always moves clockwise on the table. The first betting round is called Pre-Flop; which involves no community cards being revealed till all players take action. The second betting round is called Flop; which involves three community cards are revealed before players take action. <br/>  <br/>The third round is called turn; the fourth community card is revealed. The fourth round is called River; the final community card is revealed. If more than two players are still left in the table after River, the game proceeds to the final round, known as Showdown. Here players reveal their respective hands, the best hand wins the pot. <br/> <br/> During the various betting rounds, the player can choose one of the following betting actions - <br/> <br/> Check: Passing the action without betting anything in the pot. As per any poker game, Check can only be done if no player has made a bet before your turn. Bet: If no opponent has made a bet until the player’s turn, the player can choose to bet. According to basic poker rules, once a bet has been made, the rest of the players will have to either ‘call’ on the bet or ‘raise’ it to continue playing. Call: Matching the bet made by the opponent. Raise: Raising the bet during that betting round. To raise, the player must first ‘call’ on the bet before putting some additional chips in the pot.<br/> Fold: Forfeiting the game during the player’s turn. The player will be ineligible to participate in subsequent rounds."
+          ]
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Rules to play NL Hold'em Poker",
+          "pageLink": "",
+          "pageLinkContent": "",
+          "cssClassList": ["how-to-play-info description-format center-align"],
+          "contentList": [
+            "NL Hold’em Poker is played on a table with two to nine players. <br/><br/> In No Limits Hold’em Poker, each player on the table is dealt two hole cards, with five community cards being revealed during the various betting rounds. The primary objective in NL Hold’em Poker is to make the best 5-card hand from the seven available cards (2 hole cards & 5 community cards). The player can use one, both or none of his two private cards to make his best hand. In case, the player chooses to use all five cards on the table to make his hand, it is called “playing the board”. <br/> <br/>As per NL Hold’em Poker rules, there is no limit on betting. They have the option to bet upto all of their chips."
+          ]
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Rules to play PL Omaha Poker",
+          "pageLink": "",
+          "pageLinkContent": "",
+          "cssClassList": ["how-to-play-info description-format center-align"],
+          "contentList": [
+            "PL Omaha Poker is also played with two to nine players on the table. <br/><br/> According to PL Omaha rules, each player on the table is dealt four hole cards to start the first betting round. PL Omaha is similar to Hold’em in the sense that the player needs to make the best 5-card combination from his hand. However, unlike the previous variation, the player needs to mandatorily use two of his hole cards and three from the community cards to make his best possible hand. <br/><br/> The pre-fixed Pot Limit means players can bet only as high as the total value of the pot during his/her turn."
+          ]
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Rules to play PL Omaha 5",
+          "pageLink": "",
+          "pageLinkContent": "",
+          "cssClassList": ["how-to-play-info description-format center-align"],
+          "contentList": [
+            "PL Omaha 5 is just an extension of PL Omaha, where the number of players in a table and the basic objective remains the same. The only difference in PL Omaha 5 rules is that in this poker variation, each player is dealt five hole cards. The player now has the option to make his best hand from the 10 cards at his disposal (5 hole cards and 5 community cards)."
+          ]
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Player Winnings: Understanding How Poker Points are calculated",
+          "pageLink": "",
+          "pageLinkContent": "",
+          "cssClassList": ["how-to-play-info description-format center-align"],
+          "contentList": [
+            "In each of the three aforementioned <a href=/poker/types-of-poker-games>poker variations</a>, the winner of the game wins the entire pot. A player can win either by having the best hand on the table during showdown or by forcing the other players to fold by strategic betting during the previous rounds. If the player is the last person remaining in the table during any of the betting rounds, he/she is declared as the winner and takes home the entire pot. <br/><br/> In case two or more players are having the same combination, the player having the higher ranked cards is the winner. In case two players are holding cards of the same value, the pot is divided equally between them."
+          ]
+        }
+      },
+      {
+        "name": "RummyFaqs",
+        "isParent": true,
+        "data": {
+          "header": "Poker Hand Rankings",
+          "faqsList": [
+            {
+              "header": " Royal Flush:",
+              "subParagraphes": [
+                "The highest hand that has a straight flush with all face cards and No.10, all of the same suit <br/> E.g. A&#9824;&#65039; K&#9824;&#65039; Q&#9824;&#65039; J&#9824;&#65039; 10&#9824;&#65039; <br/> <br/><img src='/static/banners/rules-of-poker-royal-flush-1.png'/>"
+              ]
+            },
+            {
+              "header": "Straight Flush:",
+              "subParagraphes": [
+                "Five cards of the same suit in a sequence. <br/>E.g. 10&#9829;&#65039; 9&#9829;&#65039; 8&#9829;&#65039; 7&#9829;&#65039; 6&#9829;&#65039; <br/> <br/><img src='/static/banners/royal-flush-types-of-poker-2.png'/>"
+              ]
+            },
+            {
+              "header": "Four of a Kind:",
+              "subParagraphes": [
+                "Four cards of the same rank with one side card (kicker)<br/>E.g. K&#9824;&#65039; K&#9829;&#65039; K&#9827;&#65039; K&#9830;&#65039; 6&#9824;&#65039; <br/> <br/><img src='/static/banners/royal-flush-types-of-poker-3.png'/>"
+              ]
+            },
+            {
+              "header": "Full House:",
+              "subParagraphes": [
+                "First group made of three cards of the same rank. The second group made of two cards of the same rank.<br/>E.g. A&#9824;&#65039; A&#9830;&#65039;A&#9827;&#65039; 8&#9830;&#65039; 8&#9827;&#65039;E.g. A&#9824;&#65039; A&#9830;&#65039;A&#9827;&#65039; 8&#9830;&#65039; 8&#9827;&#65039; <br/> <br/><img src='/static/banners/royal-flush-types-of-poker-4.png'/>"
+              ]
+            },
+            {
+              "header": "Flush:",
+              "subParagraphes": [
+                "Five cards of the same suit.<br/>E.g. J&#9830;&#65039; 9&#9830;&#65039; 8&#9830;&#65039; 5&#9830;&#65039; 3&#9830;&#65039;<br/> <br/><img src='/static/banners/royal-flush-types-of-poker-5.png'/>"
+              ]
+            },
+            {
+              "header": "Straight:",
+              "subParagraphes": [
+                "Five cards in a sequence but of different suits.<br/>E.g. 8&#9830;&#65039; 7&#9827;&#65039; 6&#9830;&#65039; 5&#9829;&#65039; 4&#9827;&#65039;  <br/> <br/><img src='/static/banners/royal-flush-types-of-poker-6.png'/>"
+              ]
+            },
+            {
+              "header": "Three of a kind: ",
+              "subParagraphes": [
+                "Three cards with matching ranks with two unrelated cards.<br/>E.g. K&#9824;&#65039; K&#9827;&#65039; K&#9829;&#65039; 8&#9830;&#65039; 3&#9827;&#65039;<br/> <br/><img src='/static/banners/royal-flush-types-of-poker-7.png'/>"
+              ]
+            },
+            {
+              "header": "Two Pair:",
+              "subParagraphes": [
+                "Two groups of two cards each having the same rank. One unrelated side card.<br/>E.g. Q&#9824;&#65039; Q&#9830;&#65039; 10&#9827;&#65039;10&#9829;&#65039; 2&#9829;&#65039;<br/> <br/><img src='/static/banners/royal-flush-types-of-poker-8.png'/>"
+              ]
+            },
+            {
+              "header": "One Pair:",
+              "subParagraphes": [
+                "Two cards of a matching rank with three unrelated cards.<br/>E.g. K&#9827;&#65039; K&#9827;&#65039; 10&#9827;&#65039; 6&#9824;&#65039; 2&#9829;&#65039;<br/> <br/><img src='/static/banners/royal-flush-types-of-poker-9.png'/>"
+              ]
+            },
+            {
+              "header": "High Card:",
+              "subParagraphes": [
+                "If none of the above-mentioned combinations are formed, the highest card in the hand can be used to determine the ranking. Also, in the combinations above, the highest card factor used in case there is a tie between two players having similar combinations.<br/>E.g. A&#9829;&#65039; 10&#9827;&#65039; 8&#9830;&#65039; 6&#9824;&#65039; 2&#9829;&#65039;<br/> <br/><img src='/static/banners/royal-flush-types-of-poker-10.png'/>"
+              ]
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-1.webp",
+                "png": "/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-2.webp",
+                "png": "/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-3.webp",
+                "png": "/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-4.webp",
+                "png": "/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/trf-logo.webp",
+                "png": "/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/aigf-logo.webp",
+                "png": "/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/iamai-logo.webp",
+                "png": "/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "/static/social_icons/yt.webp",
+                "png": "/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "/static/social_icons/tw.webp",
+                "png": "/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "/static/social_icons/ig.webp",
+                "png": "/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            { "text": "Ludo", "link": "https://www.vpl.live/ludo" },
+            { "text": "Pool", "link": "https://www.vpl.live/pool" },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            { "text": "Speed Chess", "link": "https://www.vpl.live/chess" },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            { "text": "Rummy", "link": "https://www.vpl.live/rummy" },
+            { "text": "Poker", "link": "https://www.vpl.live/poker" },
+            { "text": "Quiz", "link": "https://www.vpl.live/quiz" },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            { "text": "Go Ride", "link": "https://www.vpl.live/go-ride" },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Carrom Game",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Auto Raja Game",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            {
+              "text": "Fantasy Cricket App",
+              "link": "https://www.vpl.live/fantasy-cricket/app"
+            },
+            { "text": "Blog", "link": "https://www.vpl.live/blog" },
+            {
+              "text": "Refer & Earn",
+              "link": "https://www.vpl.live/refer-and-earn"
+            },
+            { "text": "FAQs", "link": "https://help.vpl.live/faq/" },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

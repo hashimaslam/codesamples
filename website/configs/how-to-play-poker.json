@@ -1,0 +1,981 @@
+{
+  "pageName": "poker/how-to-play-poker",
+  "head": {
+    "title": "Learn How to Play Poker Online | vpl",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/poker/how-to-play-poker",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "581e379d1912d965dcce7081ec7cb5b59340939829f47c0ce1929ee636027dac"
+      },
+      {
+        "name": "description",
+        "content": "Learn how to play poker online in 10 easy steps and as a user on multiple tables at same time and learn about the various variations of poker game."
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/poker/how-to-play-poker"
+      },
+      {
+        "property": "og:title",
+        "content": "Learn How to Play Poker Online | vpl"
+      },
+      {
+        "property": "og:description",
+        "content": "Learn how to play poker online in 10 easy steps and as a user on multiple tables at same time and learn about the various variations of poker game."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Play Poker & Win Cash Daily!",
+          "subheader": "India's No 1 Online Poker Card Game to Win Cash",
+          "cssAddDarkGradient": true,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/img_poker_mobile@2x.webp",
+            "png": "/static/banners/img_poker_mobile@2x.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000,
+            "alt": "vpl banner mobile"
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/banner_desktop_poker.webp",
+            "png": "/static/banners/banner_desktop_poker.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000,
+            "alt": "vpl banner desktop"
+          },
+          "topGameIcons": []
+        }
+      },
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings Instantly with",
+          "paymentList": [
+            {
+              "imageurl": {
+                "png": "/static/withdraw/paytm.png",
+                "webp": "/static/withdraw/paytm.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/upi.png",
+                "webp": "/static/withdraw/upi.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/amazon-pay.png",
+                "webp": "/static/withdraw/amazon-pay.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/bank-transfer.png",
+                "webp": "/static/withdraw/bank-transfer.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "subheader": "Play over 40+ games and win cash!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "Free Fire",
+              "link": "/pubg",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Free_Fire@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "/pool",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "/runner-no1",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "HowToPlayPoker",
+        "isParent": true,
+        "data": {
+          "header": " How to play Poker? Poker tips for vpl!",
+          "blinds": {
+            "heading": "Blinds",
+            "imageurl": {
+              "png": "/static/poker/blinds.png",
+              "width": 576,
+              "height": 224,
+              "sizeInBytes": 60000
+            },
+            "content": [
+              "A Small Blind and Big Blind are fixed amounts for a Poker table which are posted by the two Players to the left of the Dealer (D) respectively before any card is dealt on the table. These are mandatory bets. Two cards (called the Hole cards) are then dealt to each Poker Player."
+            ]
+          },
+          "preFlop": {
+            "heading": "Pre Flop",
+            "imageurl": {
+              "png": "/static/poker/pre_flop.png",
+              "width": 576,
+              "height": 224,
+              "sizeInBytes": 60000
+            },
+            "content": [
+              "A round of betting takes place based on the Player’s Cards where bets can be called or raised, or the Players can drop out (fold) from the game. A round of betting begins, starting from the player to the left of the Big Blind. Subsequently, the action moves in a clockwise direction on the Poker table. Each player has the following options:",
+              "<b>Fold</b> - Here, the player discards his 2 Hole cards. The user will no longer be a part of this hand after choosing to fold and loses all rights to contend for the amount accumulated in the pot.",
+              "<b>Call</b> - The player contributes an amount equivalent to the amount posted by the Big Blind.",
+              " <b>Raise</b> - The player contributes an amount greater than the big blind. Restrictions apply to the minimum extra amount that the user has to put in order to raise. When a player chooses to raise all the remaining players in the hand are required to at least match the raise amount to continue being a part of the hand. An exception is made if a user does not have enough money to match the raise amount. In such a situation, he can put his entire table balance in the pot and go “All-in”(this is explained later). ",
+              "This round of betting ends when all players who choose not to fold or go all-in, match the highest individual contribution to the pot by a player. If all the players except for one choose to fold, then the hand ends. All the money in the pot is awarded to the one remaining player after accounting for any rake deductions that may apply. If 2 or more players remain in the hand after the end of this round, then the players move to FLOP (explained below)"
+            ]
+          },
+          "flop": {
+            "heading": "Flop",
+            "imageurl": {
+              "png": "/static/poker/flop.png",
+              "width": 576,
+              "height": 224,
+              "sizeInBytes": 60000
+            },
+            "content": [
+              "After covpletion of the previous round of betting, 3 community cards are dealt {see image below} on the table.  These 3 cards are collectively called the flop. A new round of betting now begins, and the player who posted the Small Blind in the previous round plays first. This player is the first to play in all subsequent turns in this hand.",
+              " All the players have an additional option to “CHECK”, where they choose not to contribute any money to the pot. This action is only available to you if all players who played before you in this round of betting also chose to “CHECK”. If any player decides to add money to the pot, then all checks are made invalid and all the remaining players in the hand must at least match the bet amount to be able to continue to participate in the hand.",
+              "This round of betting ends when all the players who choose not to fold or go all-in match the highest individual contribution to the pot by a player. If all the players except for one choose to fold, then the hand ends. All the money in the pot is awarded to the one remaining player after accounting for any rake deductions that may apply.",
+              "If 2 or more players remain in the hand after the end of this round, then the Poker players move to Turn (explained below)"
+            ]
+          },
+          "turn": {
+            "heading": "Turn",
+            "imageurl": {
+              "png": "/static/poker/turn.png",
+              "width": 576,
+              "height": 224,
+              "sizeInBytes": 60000
+            },
+            "content": [
+              "After covpletion of the previous round of betting, 1 community card is dealt {see image below} on the table. This card is called the “TURN”. A new round of betting begins with the same rule that applied to the Flop round of betting."
+            ]
+          },
+          "river": {
+            "heading": "River",
+            "imageurl": {
+              "png": "/static/poker/river.png",
+              "width": 576,
+              "height": 224,
+              "sizeInBytes": 60000
+            },
+            "content": [
+              "After the covpletion of the previous round of betting, 1 community card is dealt. This is the last card to be dealt on the table (see image below). This card is called the “River”. The final round of betting begins with the same rules that applied to FLOP and TURN. ",
+              "If 2 or more Poker players remain in the hand after this round, then the players move to Showdown."
+            ]
+          },
+          "showdown": {
+            "heading": "Showdown",
+            "imageurl": {
+              "png": "/static/poker/showdown.png",
+              "width": 576,
+              "height": 224,
+              "sizeInBytes": 60000
+            },
+            "content": [
+              "All Poker online players still left in the hand make the best combination of 5 cards using their 2 hole cards and 5 community cards. The player with the strongest combination (see Hand Strength section below) wins the hand and the amount in the pot."
+            ]
+          }
+        }
+      },
+
+      {
+        "name": "HandRanks",
+        "isParent": true,
+        "data": {
+          "header": "Hand Ranks in an Online Poker Game",
+          "iconImage": {
+            "png": "/static/poker/rectangle_new.png",
+            "width": 49,
+            "height": 52,
+            "sizeInBytes": 5000
+          },
+          "iconText": " Tap on (icon) to refer to Hand Ranks at any point in the online Poker game.",
+          "pokerHeading": "Poker Hand Strength (Poker tips)",
+          "handRankOrderText": "Hand strength in Poker online is determined by the following order (best to worst)",
+          "contentList": [
+            {
+              "heading": "1. Royal Flush",
+              "info": [
+                "The strongest Poker hand is the Royal Flush. It consists of Ten, Jack, Queen, King and Ace, all of the same suit. Ex: Spades"
+              ],
+              "imageurl": {
+                "png": "/static/poker/royal_flush.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            },
+            {
+              "heading": "2. Straight Flush",
+              "info": [
+                "The second strongest hand in online poker is the straight flush. It is composed of five consecutive cards of the same suit. If two players have a straight flush, the one with the highest cards wins."
+              ],
+              "imageurl": {
+                "png": "/static/poker/straight_flush.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            },
+            {
+              "heading": "3. Four of a Kind",
+              "info": [
+                "A four-of-a-kind in a Poker game is four cards of the same rank. e.g. Four Kings. If two players have four-of-a-kind, then the one with the highest four-of-a-kind wins. If they have the same (if four-of-a-kind is on the board), then the player with the highest fifth card wins."
+              ],
+              "imageurl": {
+                "png": "/static/poker/four_of_a_kind.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            },
+            {
+              "heading": "4. Full House",
+              "info": [
+                "A full house is a Poker combination of a three-of-a-kind and a pair. If two players have a full house, then the one with the highest three-of-a-kind wins. If they have the same one, then the pair counts."
+              ],
+              "imageurl": {
+                "png": "/static/poker/full_house.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            },
+            {
+              "heading": "5. Flush",
+              "info": [
+                "Five cards of the same suit make up a flush. If two players have a flush, then the one with the highest cards wins."
+              ],
+              "imageurl": {
+                "png": "/static/poker/flush.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            },
+            {
+              "heading": "6. Straight",
+              "info": [
+                "Five consecutive cards is called a straight. If two Poker players have a straight, then the one with the highest cards wins."
+              ],
+              "imageurl": {
+                "png": "/static/poker/straight.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            },
+            {
+              "heading": "7. Three of a kind",
+              "info": [
+                "A three-of-a-kind is a Poker combination of three cards of the same rank. If two players have the same three-of-a-kind, then the other cards, or both cards, determine the winner."
+              ],
+              "imageurl": {
+                "png": "/static/poker/three_of_a_kind.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            },
+            {
+              "heading": "8. Two Pair",
+              "info": [
+                "Two-pair hands are composed of two pairs. If two online Poker players have a two-pair, the rank of the higher pair determines the winner. If they have the same higher pair, then the lower one counts. If that is also the same, then the fifth card counts."
+              ],
+              "imageurl": {
+                "png": "/static/poker/two_pair.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            },
+            {
+              "heading": "9. PAIR",
+              "info": [
+                "A pair is composed of two cards of the same rank. Since winning Poker hands are always composed of five cards, the other three cards are called 'kickers'. In case two players have the same pair, then the one with the highest kicker wins."
+              ],
+              "imageurl": {
+                "png": "/static/poker/pair.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            },
+            {
+              "heading": "10. High Card",
+              "info": [
+                "If you haven't been able to make any of the hands listed above, then your highest card is considered."
+              ],
+              "imageurl": {
+                "png": "/static/poker/high_card.png",
+                "width": 624,
+                "height": 224,
+                "sizeInBytes": 60000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "HowtoPlayPokerList",
+        "isParent": true,
+        "data": {
+          "howToPlayPoker": {
+            "header": "How to play Poker game on multiple tables on vpl",
+            "pokerText": " vpl Poker online allows a user to play on as many tables as the user wants at the same time.",
+            "h3Heading": "How to play Poker on more than one table:",
+            "contentList": [
+              "Join a table",
+              "Open the menu button, Press “EXIT”, and you will be taken to the lobby screen. You will not forfeit your seat by pressing the “EXIT” button. You can return to your active table at any time by pressing the table name which is at the bottom of the lobby screen.",
+              "Now buy-in to a new Poker table on vpl",
+              "If you join more than 1 table, all active tables will be shown on top of the table screen. They will also be shown at the bottom of the Lobby screen."
+            ]
+          },
+          "listPoints": {
+            "header": "How to play Poker game on multiple tables on vpl",
+            "cssClassList": ["list-colored"],
+            "declareGameList": [
+              "Captain - The player you choose to be your pro Fantasy Cricket team’s Captain will receive 2X points.",
+              "Vice-Captain - The player you choose to be your team’s Vice-Captain will receive 1.5X points.",
+              "Starting points are assigned to any player on the basis of the announcement of his/her inclusion in the team. However, in case a player is unable to start the match after being included in the team sheet, he/she will not score any points. Points shall however be awarded (including starting points) to any player who plays as a replacement of such player to whom starting points were initially assigned.",
+              "Strike rate scoring is applicable only for strike rate below 70 runs per 100 balls.",
+              "None of the events occurring during a Super Over, if any, will be considered for Points to be assigned/applied to a player.",
+              "Data is provided by reliable sources and once the points have been marked as covpleted i.e. winners have been declared, no further adjustments will be made. Points awarded live in-game are subject to change as long as the status is 'In progress' or 'Waiting for review'."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Variantions",
+        "isParent": true,
+        "data": {
+          "header": "Variations",
+          "h3PotLimit": "Pot Limit Omaha in online Poker",
+          "p1Text": " Pot Limit Omaha is a Popular variant of the Poker games. (Look for the PL Omaha sign on the lobby page.)",
+          "h3How": " How Pot Limit Omaha differs from regular Poker online:",
+          "contentList": [
+            {
+              "text1": "4 hole cards are dealt instead of 2 to each player."
+            },
+            {
+              "text1": "A player must always use 2 cards from the 4 cards dealt to them, and 3 cards from the 5 community cards to make the best 5 cards."
+            },
+            {
+              "text1": "A limit is placed on the maximum amount that can be raised in a user's turn. A user may raise any amount less than or equal to the pot value (calculated after assuming that the user called the pot).For eg: Player A,B,C and D are playing a hand",
+              "list": [
+                "1. If Player A bets Rs. 10",
+                "2. Player B Bets Rs. 10",
+                "3. Player C Bets Rs. 20"
+              ],
+              "text2": " manner - if player D wanted to call he would have to put Rs. 20 in the pot. Now the pot value is Rs. 60 (10+10+20+20). So player D can put an additional Rs. 60 (maximum pot value after call) in the pot. Hence the maximum total amount that can be bet by Player D is Rs. 80 (20+60)."
+            }
+          ],
+          "h3end": "Pot Limit Omaha 5 in online Poker",
+          "p1End1": " Pot Limit Omaha 5 is a new variant of Pot Limit Omaha on vpl Poker. (Look for the PL Omaha 5 sign on the lobby page.)",
+          "p1End2": "   5 hole cards are dealt to each player (instead of 4 in Pot Limit Omaha). Apart from this difference, the rules of the game Pot Limit Omaha apply."
+        }
+      },
+
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-1.png",
+                "webp": "/static/trust-icons/trust-1.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-2.png",
+                "webp": "/static/trust-icons/trust-2.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-3.png",
+                "webp": "/static/trust-icons/trust-3.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "png": "/static/trust-icons/trust-4.png",
+                "webp": "/static/trust-icons/trust-4.webp",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "png": "/static/2x/trf-logo.png",
+                "webp": "/static/2x/trf-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/aigf-logo.png",
+                "webp": "/static/2x/aigf-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/iamai-logo.png",
+                "webp": "/static/2x/iamai-logo.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "png": "/static/social_icons/fb.png",
+                "webp": "/static/social_icons/fb.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "png": "/static/social_icons/yt.png",
+                "webp": "/static/social_icons/yt.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "png": "/static/social_icons/tw.png",
+                "webp": "/static/social_icons/tw.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "png": "/static/social_icons/ig.png",
+                "webp": "/static/social_icons/ig.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "Return, Refund & Cancellation",
+              "link": "https://about.vpl.live/returnpolicy/"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ],
+          "readMore": {}
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "pageName": "lp/playnow",
+  "head": {
+    "title": "Play Games on vpl",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/playnow",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Play live online  game tournaments online at vpl pro app with lakhs of players online and win real cash."
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/playnow"
+      },
+      {
+        "property": "og:title",
+        "content": "Play Games on MP"
+      },
+      {
+        "property": "og:description",
+        "content": "Play live online  game tournaments online at vpl pro app with lakhs of players online and win real cash."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsmsipl",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "inputFieldBackgroundColor": "white-20"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "disableLogoURL": true,
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "hideSideMenu": true
+        }
+      },
+      {
+        "name": "bannerimageipl",
+        "isParent": true,
+        "data": {
+          "showDownload": true,
+          "showEmail": true,
+          "defaultHiddenHeaderComponent": true,
+          "cssClasses": "banner-container full-width-banner-header center-header fantasy-cricket-banner",
+          "styles": {
+            "background-color": "white"
+          },
+          "mobileImageurl": {
+            "webp": "/static/banners/poker_mobile_lp.png",
+            "png": "/static/banners/poker_mobile_lp.webp",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/poker_desktop_lp.png",
+            "png": "/static/banners/poker_desktop_lp.webp",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "cssClasses": "action-link--banner--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "cssClasses": "download-btn-android download-btn-android--banner",
+            "showDownload": true,
+            "buttonPosition": "top"
+          },
+          "contentTextMobile": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "WIN UP TO <br><span style='color:#33FF66;'>₹20 CR DAILY</span>",
+                "cssClasses": "white-header"
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "ON INDIA'S <span style='color:#33FF66;'>LARGEST</span> GAMING PLATFORM",
+                "cssClasses": "white-sub-header"
+              }
+            }
+          ],
+          "contentTextDesktop": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "h1",
+                "cssClasses": "white-header text-align-left",
+                "text": "WIN UP TO <span style='color:#33FF66;'>₹20 CR DAILY</span>  "
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "ON INDIA'S <span style='color:#33FF66;'>LARGEST</span> GAMING PLATFORM",
+                "cssClasses": "white-sub-header"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "rewardsbarsliding",
+        "isParent": true,
+        "data": {
+          "cssClasses": "temp-class",
+          "styles": {
+            "color": "#33FF66",
+            "background": "#230046"
+          },
+          "joiningBonusText": "Joining Bonus: Get upto",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!",
+          "page": "home"
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Play on India's Largest Gaming Platform",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "BoxContent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top bubble--shooter content--align-center section__margin--bottom",
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/2x/leader_board_prizes.png",
+                "width": 312,
+                "height": 312,
+                "sizeInBytes": 25000,
+                "alt": "prize img"
+              },
+              "text": "Biggest Leaderboard Prizes"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/2x/leader_board.png",
+                "width": 312,
+                "height": 312,
+                "sizeInBytes": 25000,
+                "alt": "leaderboard img"
+              },
+              "text": "New Leaderboards Every 2 Hour"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/2x/100_per_poker.png",
+                "width": 312,
+                "height": 312,
+                "sizeInBytes": 25000,
+                "alt": "cashback img"
+              },
+              "text": "Get upto 100% effective rakeback through leaderboards"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/2x/24_7_poker.png",
+                "width": 312,
+                "height": 312,
+                "sizeInBytes": 25000,
+                "alt": "24*7 img"
+              },
+              "text": "24*7 Action on Higher Lobbies"
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Best-In-Class Gaming Experience",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom great--expi"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/user_icon.png",
+                "alt": "Mega Events",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "30K+",
+              "subText": "Active Users "
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/secure_icon.png",
+                "alt": "Legal",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "100% Secure",
+              "subText": "& Legal"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/support_icon.png",
+                "alt": "Customer Support",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "24 x 7",
+              "subText": "Customer Support"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/cashback_icon.png",
+                "alt": "Cashback",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Cashback",
+              "subText": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "H4header",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "styles": {
+            "color": "rgba(25, 10, 40, 0.6)"
+          },
+          "header": "DISCLAIMER",
+          "cssClassList": [
+            "m-0",
+            "margin--m-top",
+            "ternary--header",
+            "trim-Regular",
+            "desktop-white-background"
+          ]
+        }
+      },
+      {
+        "name": "TextualContentComponent",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "paraStyle": {
+            "color": "rgba(25, 10, 40, 0.3)"
+          },
+          "cssClassList": [
+            "m-0",
+            "text-align-left",
+            "margin--xs-top",
+            "margin--s-bottom",
+            "desktop-white-background",
+            "disclaimer-container"
+          ],
+          "description": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided \"AS IS\" and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats. vpl is available only to people above 18 years of age. vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App"
+          ]
+        }
+      },
+      {
+        "name": "TextualContentComponent",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "paraStyle": {
+            "color": "rgba(25, 10, 40, 0.3)"
+          },
+          "cssClassList": [
+            "m-0",
+            "text-align-left",
+            "margin--disclaimer-bottom",
+            "margin--xs-top",
+            "copyright-section",
+            "desktop-white-background"
+          ],
+          "description": [
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickySection",
+        "isParent": true,
+        "data": {
+          "show": true,
+          "showRewards": true,
+          "rewardsBar": {
+            "cssClasses": "temp-class",
+            "styles": {
+              "color": "#33FF66",
+              "background": "#230046"
+            },
+            "joiningBonusText": "Joining Bonus: Get upto",
+            "currency": "₹",
+            "tokenFreeText": "vpl Tokens Free!",
+            "freeText": " Free!",
+            "page": "home"
+          },
+          "showDeviceDownloadButton": true,
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "cssClasses": "action-link--footer--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "cssClasses": "download-btn-android download-btn-android--footer",
+            "showDownload": true,
+            "buttonPosition": "top",
+            "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+            "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also"
+          },
+          "cssClasses": "sticky-section",
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      }
+    ]
+  }
+}

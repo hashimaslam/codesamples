@@ -1,0 +1,1194 @@
+{
+  "pageName": "rummy/types-of-rummy/21-card-rummy",
+  "head": {
+    "title": "Best 21 Cards Rummy Games on vpl",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/rummy/types-of-rummy/21-card-rummy",
+    "noindex": false,
+    "metaTags": [
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/rummy/types-of-rummy/21-card-rummy"
+      },
+      {
+        "property": "og:title",
+        "content": "Best 21 Cards Rummy Games on vpl"
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "https://www.vpl.live/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "8 Ball Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Auto Raja",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Carrom Online",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Fantasy Basketball",
+              "link": "https://www.vpl.live/fantasy-basketball"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog/"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            },
+            {
+              "text": "Fruit Dart",
+              "link": "https://www.vpl.live/fruit-dart-game"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Learn About 21 Cards Rummy Games",
+          "subheader": "Things You Must Know ",
+          "showDownload": true,
+          "cssAddDarkGradient": false,
+          "mobileImageurl": {
+            "webp": "/static/banners/21Rummy_mobile.webp",
+            "png": "/static/banners/21Rummy_mobile.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/21Rummy_desktop.webp",
+            "png": "/static/banners/21Rummy_desktop.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "topGameIcons": [],
+          "breadCrumbs": {
+            "status": true,
+            "data": [
+              {
+                "link": "https://www.vpl.live/rummy",
+                "title": "Rummy"
+              },
+              {
+                "link": "https://www.vpl.live/rummy/types-of-rummy/",
+                "title": "Types Of Rummy"
+              },
+              {
+                "link": "https://www.vpl.live/rummy/types-of-rummy/21-card-rummy",
+                "title": "21 Card Rummy"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings Instantly with",
+          "paymentList": [
+            {
+              "imageurl": {
+                "png": "/static/withdraw/paytm.png",
+                "webp": "/static/withdraw/paytm.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/upi.png",
+                "webp": "/static/withdraw/upi.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/amazon-pay.png",
+                "webp": "/static/withdraw/amazon-pay.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imageurl": {
+                "png": "/static/withdraw/bank-transfer.png",
+                "webp": "/static/withdraw/bank-transfer.webp",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "subheader": "Play over 60+ games and win cash!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "Fruit Dart",
+              "link": " https://www.vpl.live/fruit-dart-game",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "https://www.vpl.live/cledge.vpl.live/pb/website/static/e4ac987fa573429fbd0d77c97a1231db.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "/pool",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "/runner-no1",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "pageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Introduction",
+          "cssClassList": ["middle-para-new"],
+          "contentList": [
+            "The 21 card rummy is an <a href='https://www.vpl.live/rummy/types-of-rummy/indian-rummy'>Indian rummy</a> variant that is often played in Indian marriages and festivals. This card game is played in the <a href='https://www.vpl.live/rummy/types-of-rummy/points-rummy'>points rummy</a> format. The basic rules still stay the same. Every player plays the games for points that have a pre-decided rupee value which at the end keeps adding. It is an elaborate version of rummy and therefore requires a lot of attention to understand at the first instance."
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H2Header",
+              "data": {
+                "header": "Terms Used in 21 Card Rummy Game"
+              }
+            },
+            {
+              "name": "Description",
+              "data": [
+                "To understand this card game properly, you should know the commonly used terms while playing 21 card rummy online or offline."
+              ]
+            },
+            {
+              "name": "FaqsComponent",
+              "data": [
+                {
+                  "header": "Upper Joker",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "Upper joker is the rank of the card that is one value higher than the wild card joker if the wild card joker belongs to the same suit. For exavple, the 5 of hearts will be the upper joker for 4 of hearts, if 4 of hearts is the wild card joker. "
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Lower Joker",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "Lower joker is the rank of the card that is one value less than the wild card joker if the wild card joker belongs to the same suit. For exavple, the 5 of hearts will be the lower joker for 6 of hearts, if 6 of hearts is the wild card joker."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Tunnela",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "A group of three identical cards of the same suit and value is known as a tunnela. For exavple, three cards of 5 of hearts is a tunnela. However, you cannot use a wild card joker to make a tunnela."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Dublee",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "Two identical cards that belong to the same suit and have the same values is called a dublee. Two printed jokers can also be called a valid dublee."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Value cards",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "The cards that belong to the same suit and are regarded as the upper and lower joker to the wild card  are known as value cards. Let us understand the value cards by exavple.",
+                        "Essentially, there are three types of value cards. If you have 9 of hearts as the wild card, 8 of hearts would be a lower joker, and 10 of hearts would be an upper joker. All these cards 8, 9, and 10 of hearts are known as value cards."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Description",
+              "data": [
+                "These are some of the important terms you must know before you start playing 21 card rummy games."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "ListPoints",
+        "isParent": true,
+        "data": {
+          "header": "How to Play 21 Cards Rummy?",
+          "cssClassList": ["list-para-normal"],
+          "description": [
+            "<img src='/static/rummy/21-card-rummy/how_to_play_21-card-rummy.png'>",
+            "21 cards rummy is one of the most engaging rummy card games; however, it is one of the most elaborate rummy games. Just like <a href='https://www.vpl.live/rummy/types-of-rummy/13-card-rummy'>13 cards rummy</a>, the 21 cards variant of the game is also widely played in India on different occasions due to the entertainment it offers. Here are a few steps that you should follow to play 21 cards rummy game and understand the game play:"
+          ],
+          "declareGameList": [
+            "In a 21 card rummy game, there are 3 decks of 53 cards each, and it includes 3 printed jokers.",
+            "A card is pulled out from the top of the closed deck and placed face-up at the bottom of that deck. This is called a wild joker.",
+            "Each player is dealt 21 cards which should be arranged in valid sequences and sets.",
+            "The players can pick a card from a closed deck or open deck and discard one of the hand cards to the open deck.",
+            "21 cards rummy is played in the same traditional way as other <a href='https://www.vpl.live/rummy'>rummy games</a>,  However, it has some important concepts like dublee, tunnela, and upper and lower jokers.",
+            "Covplete the objectives to win the game."
+          ]
+        }
+      },
+      {
+        "name": "ListPoints",
+        "isParent": true,
+        "data": {
+          "header": "21 Cards Rummy Rules ",
+          "cssClassList": ["list-para-normal"],
+          "description": [
+            "While the main rules for 21 cards rummy are similar to the other Indian <a href='https://www.vpl.live/rummy/types-of-rummy'>Rummy variants</a>, however the rules of declaring the cards are a little different. Here is a list of 21 card rummy game rules you must remember to declare a show:"
+          ],
+          "declareGameList": [
+            "You need to have at least 3 pure sequences, and the rest of the cards can be arranged in sets or sequences. A tunnela is also treated as a pure sequence.",
+            "You need at least 3 tunnelas in separate groups, and other cards can be arranged or clubbed in a single group or can be left as it is.",
+            "You need at least 8 dublees, and the remaining cards can be left alone. Each pair should be arranged in individual groups during declaration.",
+            "You have to declare 8 jokers in a single group. There is no need to arrange them in any order. Every joker should be arranged in one group during declaration."
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H2Header",
+              "data": {
+                "header": "How to Calculate Value Card Score and Calculation of Maximum Loss in Points?"
+              }
+            },
+            {
+              "name": "Description",
+              "data": [
+                "Value card proposition is the most confusing idea of the 21 cards rummy game. We will sivplify this further for you. Take a look:"
+              ]
+            },
+            {
+              "name": "TabularDataRummyComponent",
+              "width": "100%",
+              "striped": "none",
+              "border": "none",
+              "data": [
+                ["Value cards", "Single card", "Two cards", "Three cards"],
+                ["Lower joker", "10", "30", "50"],
+                ["Upper joker", "10", "30", "50"],
+                ["Same suit joker", "10", "30", "50"]
+              ]
+            },
+            {
+              "name": "Description",
+              "data": []
+            },
+            {
+              "name": "H3Header",
+              "data": {
+                "header": "Point Calculation for Marriage or Jackpot"
+              }
+            },
+            {
+              "name": "Description",
+              "data": ["Here is the calculation break up for your winnings:"]
+            },
+            {
+              "name": "WithShapeListRows",
+              "data": [
+                "1 Upper + 1 Same Suit + 1 Lower = 100 points",
+                "2 Upper + 2 Same Suit + 3 Lower = 300 points",
+                "3 Upper + 3 Same Suit + 3 Lower = 500 points"
+              ]
+            },
+            {
+              "name": "Description",
+              "data": []
+            },
+            {
+              "name": "H3Header",
+              "data": {
+                "header": "Calculation of Points for Different Combinations of Value Cards"
+              }
+            },
+            {
+              "name": "WithShapeListRows",
+              "data": [
+                "2 Upper Jokers – 30 points ",
+                "1 upper Joker & 1 Lower Joker – 20 points",
+                "2 Upper Jokers & 1 Lower joker – 40 points",
+                "2 Same Suit Joker & 2 Lower Jokers – 60 points"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H2Header",
+              "data": {
+                "header": "21 Cards Rummy Tricks & Tips to Win."
+              }
+            },
+            {
+              "name": "Description",
+              "data": [
+                "Understanding the <a href='https://www.vpl.live/rummy/rules-of-rummy'>rummy rules</a> and the terms involved in understanding 21 cards rummy games is just the first step in mastering the game. Your next step is to understand a few tricks of the trade to make sure that you win your next game effortlessly. Take a look at a few important ones below:"
+              ]
+            },
+            {
+              "name": "FaqsComponent",
+              "data": [
+                {
+                  "header": "Group it right",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "Arrange your cards right while you receive them in your hands. It will be a task for you if you do not consider arranging them. Making pure sequences is the first step in winning the game of rummy. Meld your cards in the right sequences to win the game faster."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Observe closely",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "When you are playing in a group at the table, you have to keep an eye on your opponents. Observe the cards they pick from the open deck and discard. You should avoid discarding cards that will help your opponent."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Play smart",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "Smart play is the number one quality of the people who are experts at rummy. Be it online or offline, having smart cards in hand and using them effectively is an art you will master with time. If you have a 6 of hearts, you can meld it as 4,5,6 or 5,6,7, or 6,7,8. There are three possibilities. So, keep these clues in mind."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H2Header",
+              "data": {
+                "header": "How Is the Winner of the Game Decided?"
+              }
+            },
+            {
+              "name": "Description",
+              "data": [
+                "Each card carries certain points, which are discussed below:"
+              ]
+            },
+            {
+              "name": "WithShapeListRows",
+              "data": [
+                "J, Q, K, A of any suit carry 10 points each.",
+                "The number cards have the same value as their face value. So, 9 of any suit carries 9 points.",
+                "Joker cards have zero points."
+              ]
+            },
+            {
+              "name": "Description",
+              "data": [
+                "As discussed earlier, once any player on the table makes a valid declaration, that player wins the game. Once it is done, the scores for all the other players are calculated in the following manner:"
+              ]
+            },
+            {
+              "name": "WithShapeListRows",
+              "data": [
+                "If a player goes for the first drop, he/she loses 30 points.",
+                "If a player goes for a middle drop, he/she loses 70 points.",
+                "The player who makes a valid declaration gets a score that is the sum of scores of all losing players.",
+                "The player who wins the game gets positive points in the ‘points won’ section."
+              ]
+            },
+            {
+              "name": "H3Header",
+              "data": {
+                "header": "Who Is a Non-Winning Player?"
+              }
+            },
+            {
+              "name": "Description",
+              "data": [
+                "Here are the rules listed down to calculate non-winning players:",
+                "When the game ends, the points of all the players are calculated by adding the value of cards that are not melded. However, there might be some changes based on a few circumstances:"
+              ]
+            },
+            {
+              "name": "WithShapeListRows",
+              "data": [
+                "If there are no pure sequences, then all the cards’ value is counted.",
+                "If there are only 2 pure sequences against the rule of three, the melded sequences will be considered before calculating the score.",
+                "If there are 3 pure sequences, the sequences and sets melded with jokers will also be considered before calculating the lost points."
+              ]
+            },
+            {
+              "name": "Description",
+              "data": [
+                "When all this is done, the ‘points won’ section of every player is filled up. If the points in that list are negative, the player is a losing player. If those points are positive, then the player is winning."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H2Header",
+              "data": {
+                "header": "How to Calculate Winning Amount in 21 Card Points Rummy?"
+              }
+            },
+            {
+              "name": "Description",
+              "data": [
+                "The total winnings of the 21-card points rummy are decided using the following formula:"
+              ]
+            },
+            {
+              "name": "Description",
+              "data": [
+                "<strong>Winning amount = Positive score of the winner x the point value – Rake amount applicable</strong>"
+              ]
+            },
+            {
+              "name": "Description",
+              "data": [
+                "<b>Exavple:</b> For instance, 5 players are playing a game with INR 3 per point. If a player makes a valid show, and the other players get -5, -15, -25, and -35 points."
+              ]
+            },
+            {
+              "name": "Description",
+              "data": [
+                "In this case, the winning player will win a cash prize as follows: 3 x (5+15+25+35) = ₹ 225. After deducting the rake as per classic rummy rules from this amount, the final winnings will be transferred to your wallet."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H2Header",
+              "data": {
+                "header": "How does the drop work?"
+              }
+            },
+            {
+              "name": "Description",
+              "data": [
+                "Drop is crucial within the game if you want to play safe. But how does the drop option really work? "
+              ]
+            },
+            {
+              "name": "Description",
+              "data": [
+                "Every player is offered an option to drop out from the game after every round. The type of drop depends on whether the player has picked a card from the open or closed deck. There are two types of drops available:"
+              ]
+            },
+            {
+              "name": "WithShapeListRows",
+              "data": [
+                "<b>First drop:</b> When a player drops from the game during the very first round without picking up any card from any pile, it is called the first drop. It makes the player lose 30 points.",
+                "<b>Middle drop:</b> When a player drops from the game after picking up one or more cards from the discard or draw pile, that player loses 70 points."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get the Best-In-Class Gaming Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-1.webp",
+                "png": "/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "6 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-2.webp",
+                "png": "/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-3.webp",
+                "png": "/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-4.webp",
+                "png": "/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "Proud Sponsors of",
+          "classList": ["sponsers"],
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/RCB.png",
+                "png": "/static/2x/RCB.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "Sponsors"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/KKR.png",
+                "png": "/static/2x/KKR.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "Sponsors"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/bboss.png",
+                "png": "/static/2x/bboss.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "Sponsors"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/trf-logo.webp",
+                "png": "/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/aigf-logo.webp",
+                "png": "/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/iamai-logo.webp",
+                "png": "/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "/static/social_icons/yt.webp",
+                "png": "/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "/static/social_icons/tw.webp",
+                "png": "/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "/static/social_icons/ig.webp",
+                "png": "/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Carrom Game",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Auto Raja Game",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Fantasy Cricket App",
+              "link": "https://www.vpl.live/fantasy-cricket/app"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog/"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "https://www.vpl.live/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            },
+            {
+              "text": "Fruit Dart",
+              "link": "https://www.vpl.live/fruit-dart-game"
+            },
+            {
+              "text": "Weekly Esports Arena",
+              "link": "https://www.vpl.live/esports/arena"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ],
+          "readMore": {}
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

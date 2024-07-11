@@ -1,0 +1,2346 @@
+{
+  "pageName": "fruit-dart-game",
+  "head": {
+    "title": "Play Fruit Dart Game Online & Earn Real Cash with vpl",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/fruit-dart-game",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Play Fruit dart game online on vpl with friends to earn real cash with instant money transfers. Just download the vpl Fruit Dart app, choose the battle & start winning."
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/fruit-dart-game"
+      },
+      {
+        "property": "og:title",
+        "content": "Play Fruit Dart Game Online & Earn Real Cash with vpl"
+      },
+      {
+        "property": "og:description",
+        "content": "Play Fruit dart game online on vpl with friends to earn real cash with instant money transfers. Just download the vpl Fruit Dart app, choose the battle & start winning."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsmsipl",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "inputFieldBackgroundColor": "white-20",
+          "successCss": "white--color",
+          "sendingCss": "white--color"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/hamburger/vpl-logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy-games"
+          },
+          "menuList": [{}],
+          "desktopHeaderLinks": [
+            {
+              "name": "vpl Games",
+              "link": false,
+              "css": "normal--link show--more"
+            },
+            {
+              "name": "vpl Esports",
+              "link": true,
+              "css": "menu--button normal--link ",
+              "url": "https://www.vpl.live/esports"
+            },
+            {
+              "name": "About",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://about.vpl.live/"
+            },
+            {
+              "name": "Blog",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://www.vpl.live/blog/"
+            },
+            {
+              "name": "FAQs",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://help.vpl.live/faq/"
+            },
+            {
+              "name": "Help",
+              "link": true,
+              "url": "https://help.vpl.live/",
+              "css": "help--button",
+              "imgUrl": {
+                "png": "/static/hamburger/help_icon.png",
+                "alt": "help icon",
+                "sizeInBytes": 20000
+              }
+            }
+          ],
+          "menuListDesktop": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/fantasy_games_icon.png",
+                  "alt": "fantays games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/card_games_desktop.png",
+                  "alt": "card games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/sports_games_icon.png",
+                  "alt": "Sports games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/casual_games_desktop.png",
+                  "alt": "casual games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/arcade_games_desktop.png",
+                  "alt": "arcade games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/brain_games_desktop.png",
+                  "alt": "brain games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Quiz",
+                    "link": "https://www.vpl.live/quiz"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Puzzle Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/puzzle_games_desktop.png",
+                  "alt": "puzzle games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ]
+          ],
+          "menuListMobile": [
+            {
+              "gameType": "Fantasy",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/fantasy.png",
+                "alt": "fantays image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fantasy Cricket",
+                  "link": "https://www.vpl.live/fantasy-cricket",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-cricket.png",
+                    "alt": "fantays cricket image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Football",
+                  "link": "https://www.vpl.live/fantasy-football",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-football.png",
+                    "alt": "fantays football image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Basketball",
+                  "link": "https://www.vpl.live/fantasy-basketball",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-basketball.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Games",
+                  "link": "https://www.vpl.live/fantasy-games",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy_icon.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Card Skill",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/card-skill.png",
+                "alt": "card skill image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Rummy",
+                  "link": "https://www.vpl.live/rummy",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-5.png",
+                    "alt": "rummy image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Poker",
+                  "link": "https://www.vpl.live/poker",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-1.png",
+                    "alt": "poker image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Call Break",
+                  "link": "https://www.vpl.live/call-break-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container.png",
+                    "alt": "call break image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Sports Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/sport_games.png",
+                "alt": "sports games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Wcc2",
+                  "link": "https://www.vpl.live/world-cricket-championship-wcc2",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-10.png",
+                    "alt": "wcc2",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Arcade Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/arcade_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fruit Dart",
+                  "link": "https://www.vpl.live/fruit-dart-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-12.png",
+                    "alt": "fruit dart",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fruit Chop",
+                  "link": "https://www.vpl.live/fruit-chop",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-14.png",
+                    "alt": "fruti chop",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Casual Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/casual_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Carrom",
+                  "link": "https://www.vpl.live/carrom",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-4.png",
+                    "alt": "Carrom image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Pool",
+                  "link": "https://www.vpl.live/pool",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-9.png",
+                    "alt": "Pool image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Ludo",
+                  "link": "https://www.vpl.live/ludo",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-8.png",
+                    "alt": "Ludo image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Runner No.1",
+                  "link": "https://www.vpl.live/runner-no1",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-11.png",
+                    "alt": "Runner No.1 image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Monster Truck",
+                  "link": "https://www.vpl.live/monster-truck",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-13.png",
+                    "alt": "monster image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Go Ride",
+                  "link": "https://www.vpl.live/go-ride",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-15.png",
+                    "alt": "go ride image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Brain Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/brain_games.png",
+                "alt": "brain games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Quiz",
+                  "link": "https://www.vpl.live/quiz",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-3.png",
+                    "alt": "quiz dart",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Speed Chess",
+                  "link": "https://www.vpl.live/chess",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-7.png",
+                    "alt": "Speed Chess image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Puzzle Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/puzzle_games.png",
+                "alt": "Puzzle Games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Bubble Shooter",
+                  "link": "https://www.vpl.live/bubble-shooter",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-2.png",
+                    "alt": "Bubble Shooter image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Build Up",
+                  "link": "https://www.vpl.live/build-up-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-6.png",
+                    "alt": "build up image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "vpl Esports",
+              "expandable": false,
+              "newGame": true,
+              "link": "https://www.vpl.live/esports",
+              "imgUrl": {
+                "png": "/static/hamburger/vpl-esports.png",
+                "alt": "vpl Esports image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "About us",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://about.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/about-us.png",
+                "alt": "About us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Blog",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://www.vpl.live/blog/",
+              "imgUrl": {
+                "png": "/static/hamburger/blog.png",
+                "alt": "Blog image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "FAQs",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://help.vpl.live/faq/",
+              "imgUrl": {
+                "png": "/static/hamburger/contact-us.png",
+                "alt": "Contact us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Help",
+              "expandable": false,
+              "newGame": false,
+              "cssClassList": "",
+              "link": "https://help.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/help.png",
+                "alt": "Help image",
+                "sizeInBytes": 10000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "bannerimageipl",
+        "isParent": true,
+        "data": {
+          "showDownload": true,
+          "showEmail": true,
+          "defaultHiddenHeaderComponent": true,
+          "cssClasses": "banner-container full-width-banner-header fantasy-cricket-banner",
+          "mobileImageurl": {
+            "webp": "/static/banners/banner_mobile_fruit_dart.webp",
+            "png": "/static/banners/banner_mobile_fruit_dart.png",
+            "alt": "vpl Fruit slice mobile",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/banner_desktop_fruit_dart.webp",
+            "png": "/static/banners/banner_desktop_fruit_dart.png",
+            "alt": "vpl Fruit slice desktop",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "cssClasses": "action-link--banner--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "cssClasses": "download-btn-android download-btn-android--banner",
+            "showDownload": true,
+            "buttonPosition": "top"
+          },
+          "contentTextMobile": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "h1",
+                "cssClasses": "white-header",
+                "text": "PLAY FRUIT DART ON vpl"
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "cssClasses": "white-sub-header",
+                "text": "Slice Fruits and Win Real Money"
+              }
+            }
+          ],
+          "contentTextDesktop": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "h1",
+                "text": "PLAY FRUIT DART <br>ON vpl",
+                "cssClasses": "white-header text-align-left"
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "Slice Fruits and Win Real Money",
+                "cssClasses": "white-sub-header"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "rewardsbarsliding",
+        "isParent": true,
+        "data": {
+          "cssClasses": "",
+          "styles": {
+            "color": "#33FF66",
+            "background": "#230046"
+          },
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!",
+          "page": "home"
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings with",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom payments"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/paytm.png",
+                "alt": "Paytm Wallet",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/upi.png",
+                "alt": "UPI",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "UPI"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/amazon_pay.png",
+                "alt": "Amazon Pay",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/bank_transfer.png",
+                "alt": "Bank Transfer",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "SingleLineText",
+        "isParent": true,
+        "data": {
+          "text": "Play over 60+ Games and Win Cash!",
+          "cssClassList": [
+            "text-align-center",
+            "trim-Regular",
+            "m-0",
+            "mt-4",
+            "top--games"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": [""],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/top-games/fruit_dart.png",
+                "alt": "fruit dart img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/fruit-dart-game",
+              "text": "Fruit Dart"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/wcc.png",
+                "alt": "WCC img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2",
+              "text": "WCC"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/pool.png",
+                "alt": "Pool img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/pool",
+              "text": "Pool"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/speed_chess.png",
+                "alt": "speed chess img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/chess",
+              "text": "Speed Chess"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/fantasy_cricket.png",
+                "alt": "Fantasy Crickets img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/fantasy-cricket",
+              "text": "Fantasy Cricket"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/quiz.png",
+                "alt": "Quiz img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/quiz",
+              "text": "Quiz"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/fruit_chop.png",
+                "alt": "Fruit Chop img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/fruit-chop",
+              "text": "Fruit Chop"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/runner_no1.png",
+                "alt": "Runner No. 1 img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/runner-no1",
+              "text": "Runner No. 1"
+            }
+          ]
+        }
+      },
+      {
+        "name": "MiddleDownloadBut",
+        "isParent": true,
+        "data": {
+          "cssClassList": "margin--m-top section__margin--bottom",
+          "androidMiddleBtnLabel": "DOWNLOAD TO PLAY",
+          "androidDownloading": "DOWNLOADING ...",
+          "iosAlt": "Download IOS App",
+          "buttonPosition": "middle",
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/1x/download_icon_left.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosBlackIcon": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          }
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "About Fruit Dart Game",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Fruit Dart is a fun online dart game available on the vpl app. The objective of the game is to throw knives and slice the fruits popping up on the screen. The player has to touch anywhere on the screen to release the darts. With every fruit sliced, the player scores points, and the score is updated instantly. If the player hits two or more fruits with the same knife, the player is rewarded with extra points.",
+                  "This exciting game is a combination of thrill and entertainment as you have to avoid hitting the occasional bombs and slice maximum fruits within a time limit. You can also collect the power-ups that come up along with the fruits. Fruit Dart is a game that involves the coordination of vision and reflexes. If you want to score higher points, you have to be quick but careful not to hit the bomb.",
+                  "You can play this popular game on vpl in a 1v1 battle mode or challenge yourself by playing tournaments and win real cash prizes. Just remember, if you shoot the dart at a bomb, it’s Game Over!"
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Fruit Dart is a fun online dart game available on the vpl app. The objective of the game is to throw knives and slice the fruits popping up on the screen. The player has to touch anywhere on the screen to release the darts."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Steps to Play Fruit Dart",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": " text-align-center",
+                "description": [
+                  "Can’t wait to play Fruit Dart online? Once you have understood the Fruit Dart rules, you can play this amazing game on vpl with these easy steps:"
+                ]
+              }
+            },
+            {
+              "name": "StepsComponent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top",
+                "steps": [
+                  {
+                    "title": "STEP 1",
+                    "info": "Tap anywhere on the screen to release the knife and slice fruits.",
+                    "imgUrl": {
+                      "png": "/static/fruit-dart/step-1.png",
+                      "webp": "/static/fruit-dart/step-1.webp",
+                      "alt": "step1",
+                      "width": 128,
+                      "height": 128,
+                      "sizeInBytes": 100000
+                    }
+                  },
+                  {
+                    "title": "STEP 2",
+                    "info": "Slice multiple fruits with one knife for bonus points.",
+                    "imgUrl": {
+                      "png": "/static/fruit-dart/step-2.png",
+                      "webp": "/static/fruit-dart/step-2.webp",
+                      "alt": "step1",
+                      "width": 128,
+                      "height": 128,
+                      "sizeInBytes": 100000
+                    }
+                  },
+                  {
+                    "title": "STEP 3",
+                    "info": "Hit the power-ups to increase your score.",
+                    "imgUrl": {
+                      "png": "/static/fruit-dart/step-3.png",
+                      "webp": "/static/fruit-dart/step-3.webp",
+                      "alt": "step1",
+                      "width": 128,
+                      "height": 128,
+                      "sizeInBytes": 100000
+                    }
+                  },
+                  {
+                    "title": "STEP 4",
+                    "info": "Missing fruits won’t end your game; hitting bombs will. Avoid hitting bombs, or you will lose the game.",
+                    "imgUrl": {
+                      "png": "/static/fruit-dart/step-4.png",
+                      "webp": "/static/fruit-dart/step-4.webp",
+                      "alt": "step1",
+                      "width": 128,
+                      "height": 128,
+                      "sizeInBytes": 100000
+                    }
+                  },
+                  {
+                    "title": "STEP 5",
+                    "info": "Slice as many fruits as possible with the 3-minute timer.",
+                    "imgUrl": {
+                      "png": "/static/fruit-dart/step-5.png",
+                      "webp": "/static/fruit-dart/step-5.webp",
+                      "alt": "step1",
+                      "width": 128,
+                      "height": 128,
+                      "sizeInBytes": 100000
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Can’t wait to play Fruit Dart online? Once you have understood the Fruit Dart rules, you can play this amazing game on vpl with these easy steps:"
+                ]
+              }
+            },
+            {
+              "name": "StepsComponent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top",
+                "steps": [
+                  {
+                    "title": "STEP 1",
+                    "info": "Tap anywhere on the screen to release the knife and slice fruits.",
+                    "imgUrl": {
+                      "png": "/static/fruit-dart/step-1.png",
+                      "webp": "/static/fruit-dart/step-1.webp",
+                      "alt": "step1",
+                      "width": 128,
+                      "height": 128,
+                      "sizeInBytes": 100000
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "How to play Fruit Dart on vpl?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Fruit Dart is available in both 1v1 battle mode and tournaments format on vpl. You can select any of the formats to play the Fruit Dart game and win exciting cash prizes."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "BoxShowMore",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top margin__bottom--comp grey_background-mobile",
+          "showMore": true,
+          "header": "1v1 Battle",
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-center",
+                "description": [
+                  "Open Fruit Dart game on the vpl app, and you can select the preferred battle from a wide range of options. All the battles involve two players, hence the name - 1v1 Battles. Firstly, you have to pay the entry fee required to join a battle. Once you have entered the battle, you are matched with an opponent, and the game begins. Start slicing the fruits until the timer ticks off or until you or the opponent hit the bomb and lose the game. The player with a higher score in the battle takes the winning amount (if the timer goes off and no player hits the bomb)."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": []
+        }
+      },
+      {
+        "name": "BoxShowMore",
+        "isParent": true,
+        "data": {
+          "cssClassList": "margin__bottom--comp grey_background-mobile",
+          "showMore": true,
+          "header": "Tournaments",
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-center",
+                "description": [
+                  "You can also enter different tournaments hosted on the vpl app for Fruit Dart. Select your preferred tournament from the various options. Once the fee to enter the contest is deducted, you can start playing the Fruit Dart game. You can play numerous times till the tournament is live and try your best to get a higher score. After the tournament is over, the winners are decided as per their scores and the final ranking."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": []
+        }
+      },
+      {
+        "name": "BoxShowMore",
+        "isParent": true,
+        "data": {
+          "cssClassList": " section__margin--bottom grey_background-mobile",
+          "showMore": true,
+          "header": "Use Power-ups",
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-center",
+                "description": [
+                  "Whether you are playing a 1v1 battle or a tournament, don’t forget to use the power-ups to gain higher bonus points. vpl Fruit Dart offers five power-ups: "
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "description": [
+                  {
+                    "content": ["Shield"]
+                  },
+                  {
+                    "content": ["2x Speed"]
+                  },
+                  {
+                    "content": ["Shuriken"]
+                  },
+                  {
+                    "content": ["Small Knife"]
+                  },
+                  {
+                    "content": ["Long Knife"]
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": []
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Fruit Dart Rules and Game Play",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "The Fruit Dart rules are quite similar to the <a href='/fruit-chop' class='link'>Fruit Chop game</a> with subtle differences. The gameplay involves hitting the fruits with a knife by tapping anywhere on the screen. Your aim is to score points higher than your opponent to increase your chances of winning the game. If you miss the fruits, you won’t lose a life. The timer for each game is set to 3 minutes, within which you can score points. The game also features occasional bombs and power-ups."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "The Fruit Dart rules are quite similar to the <a href='/fruit-chop' class='link'>Fruit Chop game</a> with subtle differences. The gameplay involves hitting the fruits with a knife by tapping anywhere on the screen."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "BoxShowMore",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top margin__bottom--comp grey_background-mobile",
+          "showMore": true,
+          "header": "Gameplay",
+          "components": [
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "description": [
+                  {
+                    "content": ["Slice fruits with the darts."]
+                  },
+                  {
+                    "content": ["Aim for fruit combos to gain bonus points."]
+                  },
+                  {
+                    "content": ["Use power-ups to increase the score."]
+                  },
+                  {
+                    "content": ["Avoid bombs at any cost."]
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": []
+        }
+      },
+      {
+        "name": "BoxShowMore",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--bottom grey_background-mobile",
+          "showMore": true,
+          "header": "Rules",
+          "components": [
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "description": [
+                  {
+                    "content": ["Slice maximum fruits within 3 minutes."]
+                  },
+                  {
+                    "content": [
+                      "Play until the time ends or the opponent loses."
+                    ]
+                  },
+                  {
+                    "content": ["Hitting bombs ends the game."]
+                  },
+                  {
+                    "content": [
+                      "The player with maximum points wins (if that player doesn’t hit the bomb)."
+                    ]
+                  },
+                  {
+                    "content": ["Each fruit is worth 5 points."]
+                  },
+                  {
+                    "content": [
+                      "Fruit Combo shot is worth 12 points for slicing 2 fruits, 20 points for 3 fruits, and 30 points for 4 fruits."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "The power-ups last for a few seconds when hit with a knife."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "You lose the first power-up if you hit another one instantly."
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": []
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "How to Download vpl Fruit Dart",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": " text-align-center",
+                "description": [
+                  "You can enjoy this fantastic game from anywhere at any time, without any skills or practice. The fruit dart app is available for iOS and Android users through vpl. You can sivply download the vpl app from the Play Store or App Store and find the fruit dart game on the app. Alternatively, you can also receive a download link on your mobile number. Here are the steps to follow to receive the link via SMS:"
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": ["Visit on your mobile device."]
+                  },
+                  {
+                    "content": ["Enter your mobile number in the box"]
+                  },
+                  {
+                    "content": ["Click on Get SMS with Download Link"]
+                  },
+                  {
+                    "content": [
+                      "Tap on the link in the SMS, and the link will open in your browser."
+                    ]
+                  },
+                  {
+                    "content": ["Tap on Download vpl app"]
+                  },
+                  {
+                    "content": [
+                      "Install the app and start playing vpl Fruit Dart"
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "You can enjoy this fantastic game from anywhere at any time, without any skills or practice. The fruit dart app is available for iOS and Android users through vpl."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Why play Fruit Dart on vpl?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": " text-align-center",
+                "description": [
+                  "Fruit Dart is one of the most addictive arcade games on the vpl app, besides Fruit Slice. The game doesn’t require many skills or tactics. The game is pretty straightforward yet offers a thrilling experience.",
+                  "Apart from the usual slicing fruits and staying away from the bombs, the game also features impressive power-ups to boost your score with bonus points. Here’s why you must try Fruit Dart on vpl:"
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": ["Safe & Secure"]
+                  },
+                  {
+                    "content": ["Fast-Paced"]
+                  },
+                  {
+                    "content": ["Real Cash Winnings"]
+                  },
+                  {
+                    "content": ["Instant Withdrawals"]
+                  },
+                  {
+                    "content": ["100% Legal"]
+                  },
+                  {
+                    "content": ["24x7 Support"]
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Fruit Dart is one of the most addictive arcade games on the vpl app, besides Fruit Slice. The game doesn’t require many skills or tactics. The game is pretty straightforward yet offers a thrilling experience."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "FAQs",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "FaqsComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": [
+            "section__margin--bottom",
+            "section__margin--top",
+            "desktop--padding-24"
+          ],
+          "content": [
+            {
+              "name": "How to score high points in Fruit Dart?",
+              "description": [
+                "In the Fruit Dart game, you score points every time the knife slices the fruits. You can score high points in Fruit Dart by slicing more than one fruit with the same knife. When you slice multiple fruits with the same dart, it’s considered a fruit combo that scores more points. You can also increase your points by hitting the power-ups."
+              ]
+            },
+            {
+              "name": "How to win the Fruit Dart game on vpl?",
+              "description": [
+                "When you play Fruit Dart on vpl, you are competing for points against a random opponent. To win against your opponent, you need a higher score than the opponent. Aim for fruit combo shots to multiply your score and ensure you don’t hit any bombs. If you slice a bomb, you lose the game. The power-up in the game will also help you increase your score and win the Fruit Dart game."
+              ]
+            },
+            {
+              "name": "How can I win cash from Fruit Dart?",
+              "description": [
+                "You can win real cash by playing the Fruit Dart game on the vpl app. Just download the vpl Fruit Dart app and choose the battle you want to enter in. When you score higher points than your opponent in a particular battle, you win the game and receive instant cash prizes. You can also enter into tournaments"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Best-In-Class Gaming Experience",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom great--expi"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/user_icon.png",
+                "alt": "Mega Events",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "6 Crore+",
+              "subText": "Users"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/secure_icon.png",
+                "alt": "Legal",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "100% Secure",
+              "subText": "& Legal"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/support_icon.png",
+                "alt": "Customer Support",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "24 x 7",
+              "subText": "Customer Support"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/cashback_icon.png",
+                "alt": "Cashback",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Cashback",
+              "subText": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sponsor",
+        "isParent": true,
+        "data": {
+          "header": "Proud Sponsor of",
+          "imgList": [
+            {
+              "imgUrl": {
+                "png": "/static/sponsors/rcb_logo.png",
+                "width": 158,
+                "height": 160,
+                "alt": "rcb img"
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/sponsors/kkr_logo.png",
+                "width": 158,
+                "height": 160,
+                "alt": "kkr img"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": ["section__margin--bottom vpl--is--member"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/aigf.png",
+                "alt": "Mega Events",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/ficci.png",
+                "alt": "Legal",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/trf.png",
+                "alt": "Customer Support",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/IAMAI.png",
+                "alt": "Cashback",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Know us better",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom know--us"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/fb.png",
+                "alt": "facebook img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/ig.png",
+                "alt": "instagram img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.instagram.com/playvpl/"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/tw.png",
+                "alt": "twitter img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://twitter.com/Playvpl"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/yt.png",
+                "alt": "youtube img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            }
+          ],
+          "mobileFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Quiz",
+                    "link": "https://www.vpl.live/quiz"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://www.facebook.com/Playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://www.instagram.com/playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ]
+          ],
+          "desktopFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Quiz",
+                    "link": "https://www.vpl.live/quiz"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://www.facebook.com/Playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://www.instagram.com/playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ]
+          ],
+          "aboutUsLinks": [
+            {
+              "name": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "name": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "name": "Terms & Condition",
+              "link": "https://about.vpl.live/terms/"
+            }
+          ],
+          "copyRight": "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+        }
+      },
+      {
+        "name": "H4header",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "styles": {
+            "color": "rgba(25, 10, 40, 0.6)"
+          },
+          "header": "DISCLAIMER",
+          "cssClassList": [
+            "m-0",
+            "margin--m-top",
+            "ternary--header",
+            "trim-Regular",
+            "desktop-white-background",
+            "text-align-left"
+          ]
+        }
+      },
+      {
+        "name": "TextualContentComponent",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "paraStyle": {
+            "color": "rgba(25, 10, 40, 0.3)"
+          },
+          "cssClassList": [
+            "m-0",
+            "text-align-left",
+            "margin--xs-top",
+            "desktop-white-background",
+            "disclaimer-container",
+            "margin--disclaimer-bottom",
+            "copyright-section"
+          ],
+          "showMore": true,
+          "firstContentToShow": "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+          "description": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided \"AS IS\" and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats. vpl is available only to people above 18 years of age. vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App"
+          ]
+        }
+      },
+      {
+        "name": "stickySection",
+        "isParent": true,
+        "data": {
+          "show": true,
+          "showRewards": true,
+          "rewardsBar": {
+            "cssClasses": "",
+            "styles": {
+              "color": "#33FF66",
+              "background": "#230046"
+            },
+            "joiningBonusText": "Joining Bonus: Get",
+            "currency": "₹",
+            "tokenFreeText": "vpl Tokens Free!",
+            "freeText": " Free!",
+            "page": "home"
+          },
+          "showDeviceDownloadButton": true,
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "cssClasses": "action-link--footer--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "cssClasses": "download-btn-android download-btn-android--footer",
+            "showDownload": true,
+            "buttonPosition": "top",
+            "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+            "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also"
+          },
+          "cssClasses": "sticky-section",
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      }
+    ]
+  }
+}

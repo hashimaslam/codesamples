@@ -1,0 +1,793 @@
+{
+  "pageName": "chess/how-to-play-chess",
+  "head": {
+    "title": "How to Play Chess Online & Win Real Money",
+    "canonical": "https://www.vpl.live/chess/how-to-play-chess",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Chess is a strategy game played between two-players. Learn how to play chess online on an vpl app and win real money daily"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/chess/how-to-play-chess"
+      },
+      {
+        "property": "og:title",
+        "content": "How to Play Chess Online & Win Real Money"
+      },
+      {
+        "property": "og:description",
+        "content": "Chess is a strategy game played between two-players. Learn how to play chess online on an vpl app and win real money daily"
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png."
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "SMS have been sent on your mobile number",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "https://www.vpl.live/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Auto Raja",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Learn How to Play Chess",
+          "subheader": "Play Chess on vpl & Win Cash Prizes",
+          "cssAddDarkGradient": true,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/img_speedchess_mobile.webp",
+            "png": "/static/banners/img_speedchess_mobile.png",
+            "alt": "vpl Chess",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/banner_desktop_chess.webp",
+            "png": "/static/banners/banner_desktop_chess.png",
+            "alt": "vpl Chess",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          }
+        }
+      },
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings Instantly with",
+          "paymentList": [
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/paytm.webp",
+                "png": "/static/withdraw/paytm.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/upi.webp",
+                "png": "/static/withdraw/upi.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/amazon-pay.webp",
+                "png": "/static/withdraw/amazon-pay.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/bank-transfer.webp",
+                "png": "/static/withdraw/bank-transfer.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "subheader": "Play over 50+ games and win cash!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/4cf12fbc83e54a41ac75d7f2015fb383.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "https://www.vpl.live/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "https://www.vpl.live/runner-no1",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "How To Play Chess",
+          "H1Header": true,
+          "contentList": [
+            "Chess is a strategy game that is played between two players on a chequered board. Each player starts with 16 pieces, where the movement of every single piece on the board is governed by specific  <a href=\"https://www.vpl.live/chess/rules-of-chess\">rules of chess</a>. The primary objective of chess is to attack the opponent’s king in such a manner that the king has no move to escape. This play is also called checkmate. A game of chess ends when one player checkmates his opponent."
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H2Header",
+              "data": {
+                "header": "Understanding Chess Gameplay"
+              }
+            },
+            {
+              "name": "OutSideDescription",
+              "data": [
+                "The first thing you should do to improve your game is to understand the chess gameplay."
+              ]
+            },
+            {
+              "name": "FaqsComponent",
+              "data": [
+                {
+                  "header": "The Board",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "The chequered chess board is made of 64 squares (8X8), alternating between white and black spaces. The board is placed in such a manner that there should always be a white square at the right-hand corner for both players, irrespective of the colour the pieces are assigned."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "The Pieces",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "There are a total of 32 pieces in chess (16 assigned to each player). The pieces can be strategically moved across the board to capture the opponent’s pieces and setting traps to attack the opponent’s king. Pieces cannot move through another piece on the board. They can, however, be moved to occupy a square that was occupied by one of the opponent’s pieces. The latter gets captured when this happens.",
+                        "Any chess gameplay begins with one king, one queen, two each of rooks, bishops & knights and eight pawns. Pieces are arranged the same way every time you start a new game. The first row, i.e. the closest row to the player, occupies the rooks in the two corners. The knights are placed next to the rook and the bishops next to the knights. The queen is always placed on a square that is the same as her colour. The king occupies the last remaining square on the first row. The eight pawns occupy the second row.",
+                        "As per chess gameplay, the king is considered to be the most important piece in chess. The objective of the player is to defend their own king and to attack the opponent’s king. When the king is attacked by one of the opponent’s pieces, it is called ‘check’. While the king is the most important piece in the game, it is also considered the weakest. It can only move one square in any direction - up, down, to the sides, and diagonally.",
+                        "The queen is the most valuable asset for a player. In one turn, the queen can move any number of squares in any one straight direction, including diagonally.",
+                        "The rooks can move any number of squares but only in a straight direction, excluding diagonally.",
+                        "The bishop can move any number of squares but only in diagonal lines in any direction. The bishop remains on the same coloured square for the entire game; the two bishops move diagonally across the black and white spaces, respectively.",
+                        "Knights are the only piece in the game whose movement is not hindered by one of his own pieces, meaning they can “jump” off the board to move past a different piece. The knight basically moves in a ‘L’, which means they move two squares in any direction (forward, backward and side-to-side) followed by one square to the left or right.",
+                        "Pawns only move forward. A pawn can either move one or two squares at the most on the first chance, post which it moves one square to the front. All other pieces in the game capture other pieces that are placed on their path. A pawn can capture pieces by moving one space forward, diagonally. Pawns are also the only pieces that can be promoted to one of the other aforementioned ranks (except king) if it reaches the opposite side of the board."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "How to play Chess on vpl?",
+          "contentList": [
+            "Players can now enjoy the game of  <a href=\"https://www.vpl.live/chess\">chess online</a> where they can compete with thousands of players and win some handsome rewards. On the vpl App, players can play ‘Speed Chess’, which is nothing but a fast-paced alternative to playing chess on a traditional board.The basics of the game remain the same, although you will have a limited time to make your move. Every move grants bonus time to the player, which, in turn, helps with the time needed to make a different move. In a nutshell, in Speed Chess, players are rewarded for their fast decision making, which is a reflection of how fast they make their moves.",
+            "To play Speed Chess on vpl, one must have the vpl App installed on their device. vpl App is available free to download from the App Store on iOS. Meanwhile, Android users can download the ‘vpl Pro’ App by visiting the official website. Once installed on the device, players can register on the app for free. Speed Chess can be found under the section ‘vpl Games’. Before you start playing online chess on vpl, we recommend that you first learn a few important  <a href=\"https://www.vpl.live/chess/tips-to-play-chess\">chess tips & tricks</a> to play the game efficiently."
+          ]
+        }
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-1.webp",
+                "png": "/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-2.webp",
+                "png": "/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-3.webp",
+                "png": "/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-4.webp",
+                "png": "/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/trf-logo.webp",
+                "png": "/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/aigf-logo.webp",
+                "png": "/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/iamai-logo.webp",
+                "png": "/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "/static/social_icons/yt.webp",
+                "png": "/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "/static/social_icons/tw.webp",
+                "png": "/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "/static/social_icons/ig.webp",
+                "png": "/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Auto Raja Game",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            {
+              "text": "Fantasy Cricket App",
+              "link": "https://www.vpl.live/fantasy-cricket/app"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "https://www.vpl.live/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "Joining Bonus: Get 50 tokens!",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

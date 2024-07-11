@@ -1,0 +1,674 @@
+{
+  "pageName": "fairplay",
+  "head": {
+    "title": "vpl: Play Fantasy Cricket this T20 season & win over ₹1 Crore daily",
+    "canonical": "https://www.vpl.live/lp/fairplay",
+    "noindex": true,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Create your teams & play Fantasy Cricket, Fantasy Football on vpl App. Win amazing cash prizes daily. Avail Instant winnings credit & unlimited withdrawals."
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/lp/fairplay"
+      },
+      {
+        "property": "og:title",
+        "content": "vpl: Play Fantasy Cricket this T20 season & win over ₹1 Crore daily"
+      },
+      {
+        "property": "og:description",
+        "content": "Create your teams & play Fantasy Cricket, Fantasy Football on vpl App. Win amazing cash prizes daily. Avail Instant winnings credit & unlimited withdrawals."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "inputFieldBackgroundColor": "white-20"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "https://cledge.vpl.live/pb/website/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            },
+            {
+              "text": "Blog",
+              "link": "/blog"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "",
+          "subheader": "",
+          "showDownload": false,
+          "showPlayNow": true,
+          "cssAddDarkGradient": true,
+          "showSMS": false,
+          "mobileImageurl": {
+            "webp": "/static/banners/fairplay-banner-mobile.webp",
+            "png": "/static/banners/fairplay-banner-mobile.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/fairplay-banner-desktop.webp",
+            "png": "/static/banners/fairplay-banner-desktop.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "showRewards": false
+        }
+      },
+      {
+        "name": "InfoWithImage",
+        "isParent": true,
+        "data": {
+          "header": "What is Cheating?",
+          "infoImageList": [
+            {
+              "title": "",
+              "description": "Hacking in any form, including misusing bugs or  using third party tools",
+              "imageurl": {
+                "png": "/static/2x/person.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "",
+              "description": "Using multiple accounts or teaming up with players to raise scores",
+              "imageurl": {
+                "png": "/static/2x/persons.svg",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "StepsBoxImg",
+        "isParent": true,
+        "data": {
+          "header": "How does vpl punish Cheating ?",
+          "alignContentToLeft": true,
+          "stepList": [
+            {
+              "title": "1st offence",
+              "description": "Banned from vpl for 1 day",
+              "imageurl": {
+                "png": "/static/2x/vpl-bann-info-1.png",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+
+            {
+              "title": "2nd offence",
+              "description": "Banned from vpl for 7 days",
+              "imageurl": {
+                "png": "/static/2x/vpl-bann-info-2.png",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            },
+            {
+              "title": "3rd offence",
+              "description": "Banned from vpl permanently",
+              "imageurl": {
+                "png": "/static/2x/vpl-bann-info-3.png",
+                "width": 144,
+                "height": 144,
+                "sizeInBytes": 40000
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "",
+          "cssContentClassList": ["center-align"],
+          "contentList": [
+            "You will not be able to play games or withdraw cash in the banned period. You will lose your winnings from the games where cheating has been done. You will be permanently blocked if you are caught cheating in any game, promoting hacks or violating other terms of use at vpl’s discretion. In case of a permanent block, any balances on your vpl Wallets will be forfeited by vpl."
+          ]
+        }
+      },
+      {
+        "name": "RummyFaqs",
+        "isParent": true,
+        "data": {
+          "header": "Fairplay Measures",
+          "cssClassList": ["white-backgound"],
+          "faqsList": [
+            {
+              "header": "vpl Security",
+              "subParagraphes": [
+                "vpl uses best in class data security practices and tools to ensure the security and privacy of user data. All our systems are regularly tested using automated and manual processes for security not just by vpl but by external security experts as well. At vpl we give data protection the highest priority and ensure there are no gaps in protecting our users’ security and privacy."
+              ]
+            },
+            {
+              "header": "Secure payments",
+              "subParagraphes": [
+                "All information is stored in a secure environment and is not shared with any untrusted third party. We work with trusted third party payment gateways to ensure safety and security of all financial transactions. We do not store your credit/debit card details with us. Prompt response is provided for any issues identified or reported."
+              ]
+            },
+            {
+              "header": "Game fraud detection",
+              "subParagraphes": [
+                "vpl has automated detection systems to identify fraudulent behaviour in games. Anti-collusion measures are taken in card games during the gameplay."
+              ]
+            },
+            {
+              "header": "Disconnection",
+              "subParagraphes": [
+                "Users disconnected due to poor internet connectivity will be declared lost. Please check your internet connection before you start playing. vpl is not responsible for internet connections of individual players. We strongly recommend testing your internet connection by playing free/token tournaments before registering yourself on paid tournaments. "
+              ]
+            },
+            {
+              "header": "Profanity and Abuse ",
+              "subParagraphes": [
+                "vpl does not permit usage of profane, vulgar or abusive language in chat or usernames or otherwise."
+              ]
+            }
+          ],
+          "cssFaqsClassList": ["radius-reactangle"]
+        }
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-1.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-2.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-3.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-4.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/2x/trf-logo.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/2x/aigf-logo.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/2x/iamai-logo.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/social_icons/fb.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/social_icons/yt.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/social_icons/tw.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/social_icons/ig.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "Call Break Game",
+              "link": "/call-break-game"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "/rogue-heist-shooter-game"
+            },
+            {
+              "text": "Blog",
+              "link": "/blog"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "Return, Refund & Cancellation",
+              "link": "https://about.vpl.live/returnpolicy/"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "downloadImageurl": {
+            "png": "https://cledge.vpl.live/pb/website/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          },
+          "rewardText": "Joining Bonus: Get 50 tokens!",
+          "showDownload": true,
+          "buttonPosition": "bottom"
+        }
+      }
+    ]
+  }
+}

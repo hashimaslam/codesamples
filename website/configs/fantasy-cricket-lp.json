@@ -1,0 +1,470 @@
+{
+  "pageId": 108,
+  "langId": 1,
+  "pageJson": {
+    "pageName": "lp/fantasy-cricket",
+    "head": {
+      "title": "Play Fantasy Cricket Online & Win Real Cash | vpl",
+      "canonical": "https://www.vpl.live/fantasy-cricket",
+      "noindex": false,
+      "metaTags": [
+        {
+          "name": "description",
+          "content": "Play fantasy cricket league matches to win real money daily on the vpl Pro app. Win crores of money with instant transfers via paytm, UPI & bank transfers."
+        },
+        {
+          "name": "keywords",
+          "content": "fantasy cricket app, new fantasy cricket app, fantasy cricket, india fantasy cricket, play fantasy cricket and win cash daily"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.vpl.live/fantasy-cricket"
+        },
+        {
+          "property": "og:title",
+          "content": "Play Fantasy Cricket Online & Win Real Cash | vpl"
+        },
+        {
+          "property": "og:description",
+          "content": "Play fantasy cricket league matches to win real money daily on the vpl Pro app. Win crores of money with instant transfers via paytm, UPI & bank transfers."
+        },
+        {
+          "property": "og:image",
+          "content": "https://www.vpl.live/static/OG_vpl.png."
+        },
+        {
+          "property": "og:image:alt",
+          "content": "Play Games and Win Money"
+        }
+      ]
+    },
+    "body": {
+      "components": [
+        {
+          "name": "DownloadButton",
+          "isParent": false,
+          "data": {
+            "androidBtnLabel": "Download the vpl App",
+            "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+            "androidDownloading": "DOWNLOADING ...",
+            "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+            "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+            "iosAlt": "Download IOS App",
+            "androidIcon": {
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/android-icon.png",
+                "width": 52,
+                "height": 48,
+                "sizeInBytes": 2000
+              },
+              "altText": "download vpl Android APP"
+            },
+            "downArrowIcon": {
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/download_24px.png",
+                "width": 38,
+                "height": 46,
+                "sizeInBytes": 1000
+              },
+              "altText": "download vpl Android APP"
+            },
+            "downArrowGreenIcon": {
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/top_games_android_download.png",
+                "width": 28,
+                "height": 34,
+                "sizeInBytes": 1000
+              },
+              "altText": "download vpl Android APP"
+            },
+            "iosWhiteIcon": {
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/btn_download_ios.png",
+                "width": 224,
+                "height": 56,
+                "sizeInBytes": 8000
+              },
+              "altText": "download vpl IOS APP"
+            },
+            "iosBlackIcon": {
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/top_games_download_ios.png",
+                "width": 224,
+                "height": 56,
+                "sizeInBytes": 8000
+              },
+              "altText": "download vpl IOS APP"
+            },
+            "notificationBottomIcon": {
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/android-icon-downloaded.png",
+                "width": 280,
+                "height": 230,
+                "sizeInBytes": 4000
+              },
+              "altText": "android notification icon"
+            },
+            "notificationDownloadIcon": {
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/android-icon-downloaded-arrow.png",
+                "width": 24,
+                "height": 24,
+                "sizeInBytes": 1000
+              },
+              "altText": "android notification icon"
+            }
+          }
+        },
+        {
+          "name": "sendsms",
+          "isParent": false,
+          "data": {
+            "defaultBtnLabel": "Get SMS with Download link",
+            "sentBtnLabel": "SMS SENT",
+            "mobileTxtboxPlaceholder": "Enter mobile number",
+            "sentText": "SMS have been sent on your mobile number",
+            "countryMobileCode": "+91",
+            "defaultSMSLinkText": "DEFAULT",
+            "inputFieldBackgroundColor": "white-20"
+          }
+        },
+        {
+          "name": "rewardsbar",
+          "isParent": false,
+          "data": {
+            "joiningBonusText": "Joining Bonus: Get ",
+            "currency": "₹",
+            "tokenFreeText": "",
+            "freeText": ""
+          }
+        },
+        {
+          "name": "header",
+          "isParent": true,
+          "data": {
+            "hideSideMenu": true,
+            "disableLogoURL": true,
+            "hideDownload": true,
+            "logoImageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/vpl_Logo.png",
+              "width": 574,
+              "height": 120,
+              "sizeInBytes": 10000
+            },
+            "logoAlt": "vpl Logo",
+            "headerDownloadbtnLabel": "Download App",
+            "headerDownloadingbtnLabel": "DOWNLOADING ...",
+            "menuFirstLink": {
+              "text": "Play",
+              "pagename": "Fantasy",
+              "pageurl": "/fantasy-games"
+            },
+            "menuList": [
+              {
+                "text": "Bubble Shooter",
+                "link": "https://www.vpl.live/bubble-shooter"
+              },
+              {
+                "text": "Fantasy Cricket",
+                "link": "https://www.vpl.live/fantasy-cricket"
+              },
+              {
+                "text": "Fantasy Football",
+                "link": "https://www.vpl.live/fantasy-football"
+              },
+              {
+                "text": "Rummy",
+                "link": "https://www.vpl.live/rummy"
+              },
+              {
+                "text": "Ludo",
+                "link": "https://www.vpl.live/ludo"
+              },
+              {
+                "text": "Fruit Slice",
+                "link": "https://www.vpl.live/fruit-slice"
+              },
+              {
+                "text": "Fruit Chop",
+                "link": "https://www.vpl.live/fruit-chop"
+              },
+              {
+                "text": "Runner No- 1",
+                "link": "https://www.vpl.live/runner-no1"
+              },
+              {
+                "text": "8 Ball Pool",
+                "link": "https://www.vpl.live/pool"
+              },
+              {
+                "text": "Speed Chess",
+                "link": "https://www.vpl.live/chess"
+              },
+              {
+                "text": "WCC 2",
+                "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+              },
+              {
+                "text": "Quiz",
+                "link": "https://www.vpl.live/quiz"
+              },
+              {
+                "text": "Build Up",
+                "link": "https://www.vpl.live/build-up-game"
+              },
+              {
+                "text": "Monster Truck",
+                "link": "https://www.vpl.live/monster-truck"
+              },
+              {
+                "text": "Call Break",
+                "link": "https://www.vpl.live/call-break-game"
+              },
+              {
+                "text": "Go Ride",
+                "link": "https://www.vpl.live/go-ride"
+              },
+              {
+                "text": "Auto Raja",
+                "link": "https://www.vpl.live/auto-raja-game"
+              },
+              {
+                "text": "Carrom Online",
+                "link": "https://www.vpl.live/carrom"
+              },
+              {
+                "text": "Fantasy Basketball",
+                "link": "https://www.vpl.live/fantasy-basketball"
+              },
+              {
+                "text": "More Games",
+                "link": "https://www.vpl.live/more-games"
+              },
+              {
+                "text": "Blog",
+                "link": "https://www.vpl.live/blog/"
+              },
+              {
+                "text": "College Premier League",
+                "link": "https://www.vpl.live/esports/cpl"
+              },
+              {
+                "text": "Fruit Dart",
+                "link": "https://www.vpl.live/fruit-dart-game"
+              },
+              {
+                "text": "vpl Esports",
+                "link": "https://www.vpl.live/esports"
+              }
+            ]
+          }
+        },
+        {
+          "name": "BannerImage",
+          "isParent": true,
+          "data": {
+            "header": "WIN EXCITING PRIZES EVERYDAY",
+            "subheader": "Make Your Team Now!",
+            "cssAddDarkGradient": false,
+            "showDownload": false,
+            "mobileImageurl": {
+              "webp": "https://www.vpl.live/cledge.vpl.live/pb/website/static/74b03dd6e6454c3dabadf8786e3d395e.webp",
+              "png": "https://www.vpl.live/cledge.vpl.live/pb/website/static/dbce39a21261416e8d1581bfed277ab9.png",
+              "width": 720,
+              "height": 800,
+              "sizeInBytes": 200000
+            },
+            "desktopImageurl": {
+              "webp": "https://www.vpl.live/cledge.vpl.live/pb/website/static/4b88c62017e14040930750daadaf066c.webp",
+              "png": "https://www.vpl.live/cledge.vpl.live/pb/website/static/bad7ca8176614f06943e6b5622eb90f9.png",
+              "width": 1920,
+              "height": 712,
+              "sizeInBytes": 300000
+            },
+            "classList": ["ipl-page"]
+          }
+        },
+        {
+          "name": "ImageContainer",
+          "isParent": true,
+          "data": {
+            "imageurl": {
+              "webp": "/static/banners/rating.webp",
+              "png": "/static/banners/rating.png",
+              "width": 1920,
+              "height": 712,
+              "sizeInBytes": 300000
+            }
+          }
+        },
+        {
+          "name": "MoneyWithdraw",
+          "isParent": true,
+          "data": {
+            "header": "Withdraw Winnings with",
+            "paymentList": [
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/withdraw/paytm.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/withdraw/paytm.png",
+                  "width": 96,
+                  "height": 96,
+                  "sizeInBytes": 8000
+                },
+                "text": "Paytm Wallet"
+              },
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/withdraw/upi.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/withdraw/upi.png",
+                  "width": 96,
+                  "height": 96,
+                  "sizeInBytes": 8000
+                },
+                "text": "UPI"
+              },
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/withdraw/amazon-pay.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/withdraw/amazon-pay.png",
+                  "width": 96,
+                  "height": 96,
+                  "sizeInBytes": 8000
+                },
+                "text": "Amazon Pay"
+              },
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/withdraw/bank-transfer.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/withdraw/bank-transfer.png",
+                  "width": 96,
+                  "height": 96,
+                  "sizeInBytes": 8000
+                },
+                "text": "Bank Transfer"
+              }
+            ]
+          }
+        },
+        {
+          "name": "aboutSection",
+          "isParent": true,
+          "data": {
+            "header": "Get a Great Experience on vpl",
+            "trustList": [
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-1.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-1.png",
+                  "width": 80,
+                  "height": 80,
+                  "sizeInBytes": 10000
+                },
+                "title": "4 Crore+",
+                "subTitle": "Users"
+              },
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-2.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-2.png",
+                  "width": 80,
+                  "height": 80,
+                  "sizeInBytes": 10000
+                },
+                "title": "100% Secure",
+                "subTitle": "& Legal"
+              },
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-3.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-3.png",
+                  "width": 80,
+                  "height": 80,
+                  "sizeInBytes": 10000
+                },
+                "title": "24x7",
+                "subTitle": "Customer Support"
+              },
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-4.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-4.png",
+                  "width": 80,
+                  "height": 80,
+                  "sizeInBytes": 10000
+                },
+                "title": "Cashback",
+                "subTitle": "Offers"
+              }
+            ]
+          }
+        },
+        {
+          "name": "membership",
+          "isParent": true,
+          "data": {
+            "header": "vpl is a Member of",
+            "membershipList": [
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/2x/trf-logo.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/2x/trf-logo.png",
+                  "width": 158,
+                  "height": 72,
+                  "sizeInBytes": 5000
+                },
+                "altText": "vpl membership"
+              },
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/2x/aigf-logo.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/2x/aigf-logo.png",
+                  "width": 158,
+                  "height": 72,
+                  "sizeInBytes": 5000
+                },
+                "altText": "vpl membership"
+              },
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/2x/iamai-logo.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/2x/iamai-logo.png",
+                  "width": 158,
+                  "height": 72,
+                  "sizeInBytes": 5000
+                },
+                "altText": "vpl membership"
+              },
+              {
+                "imageurl": {
+                  "webp": "https://cledge.vpl.live/pb/website/static/2x/FICCI_Logo_High_Res.webp",
+                  "png": "https://cledge.vpl.live/pb/website/static/2x/FICCI_Logo_High_Res.png",
+                  "width": 158,
+                  "height": 72,
+                  "sizeInBytes": 5000
+                },
+                "altText": "vpl membership"
+              }
+            ]
+          }
+        },
+        {
+          "name": "stickyButton",
+          "isParent": true,
+          "data": {
+            "rewardText": "Joining Bonus: Get 50 tokens!",
+            "showDownload": true,
+            "buttonPosition": "bottom",
+            "alwaysVisible": true,
+            "downloadImageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/ic_download_white_24d.png",
+              "width": 48,
+              "height": 48,
+              "sizeInBytes": 4000
+            }
+          }
+        }
+      ]
+    }
+  }
+}

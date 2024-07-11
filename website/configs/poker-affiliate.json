@@ -1,0 +1,743 @@
+{
+  "pageName": "poker-affiliate",
+  "head": {
+    "title": "Join vpl Poker Affiliate Program & Earn Big Commission",
+    "canonical": "https://www.vpl.live/poker-affiliate",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Become a Poker Affiliate with vpl Poker Affiliate Program & get the best-in-industry commission."
+      },
+      {
+        "name": "keywords",
+        "content": ""
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/poker-affiliate"
+      },
+      {
+        "property": "og:title",
+        "content": "Join vpl Poker Affiliate Program & Earn Big Commission"
+      },
+      {
+        "property": "og:description",
+        "content": "Become a Poker Affiliate with vpl Poker Affiliate Program & get the best-in-industry commission."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          },
+          "signupOfferAndroidIcon": {
+            "imageurl": {
+              "png": "/static/2x/signupoffer-androidicon.svg",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!",
+          "showRewards": false
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "https://www.vpl.live/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Auto Raja",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            {
+              "text": "",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Calling all the Poker Influencers out there! Here’s your chance to make money!",
+          "subheader": "Get your network of Poker players & earn in Lakhs every month",
+          "cssAddDarkGradient": true,
+          "showDownload": false,
+          "showSMS": false,
+          "mobileImageurl": {
+            "webp": "/static/banners/img_poker_mobile.webp",
+            "png": "/static/banners/img_poker_mobile.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/img_poker_desktop.webp",
+            "png": "/static/banners/img_poker_desktop.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "inactiveUserMobileImageurl": {
+            "webp": "/static/banners/inactive-user-banner-mobile.png",
+            "png": "/static/banners/inactive-user-banner-mobile.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "inactiveUserDesktopImageurl": {
+            "webp": "/static/banners/inactive-user-banner-desktop.png",
+            "png": "/static/banners/inactive-user-banner-desktop.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          }
+        }
+      },
+      {
+        "name": "heading",
+        "isParent": true,
+        "data": {
+          "title": "Register for vpl Poker Affiliate Program",
+          "cssClassList": ["section-header poker-affiliate"]
+        }
+      },
+      {
+        "name": "pokerAffiliateForms",
+        "isParent": true,
+        "data": {
+          "sucessMessage": "  Submitted Sucessfully ",
+          "header": "What do you and your friend get?",
+          "h3Title": "What you get?",
+          "cssClassList": ["list-para-normal"],
+          "declareGameList": [
+            "₹75 Bonus Cash when your friend joins vpl",
+            "Get 30% of your friend's first deposit, up to a maximum of Rs. 30 Bonus Cash."
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "The vpl Poker Affiliate Program",
+          "cssClassList": [""],
+          "contentList": [
+            "Want to be a poker affiliate for one of India's leading online poker platforms? You have come to the right place! vpl poker affiliate program offers the top-notch benefits to its poker affiliates. Starting new as a poker affiliate might be daunting, but we are here to make your journey smooth and rewarding."
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Who is a poker affiliate?",
+          "cssClassList": ["how-to-play-info"],
+          "contentList": [
+            "A poker affiliate is a person who actively brings new players to an online poker website in exchange for affiliate commission/payment. By being our poker affiliate, you can earn extra money by promoting vpl Online Poker within your network and bringing new players to our online poker rooms. "
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Are you eligible to be an vpl poker affiliate? ",
+          "cssClassList": [""],
+          "contentList": [
+            "If you are a poker influencer or have a big network of active poker players, then we are looking for you!"
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Why Join Us?",
+          "cssClassList": ["how-to-play-info"],
+          "contentList": [
+            "vpl Poker directly partners with its poker affiliates by cutting out the middlemen to save you time, money and hassle. All you need to do is to engage with your network and motivate players to play vpl Poker, one of the most trusted brands in the online poker industry.",
+            "We will provide you with everything you need to promote our brand successfully. Be it design assets, tournament feeds, special offers or daily reports, we will promptly address all your needs."
+          ]
+        }
+      },
+      {
+        "name": "ListPoints",
+        "isParent": true,
+        "data": {
+          "header": "What can you expect by joining the vpl Poker Affiliate Program?",
+          "h3Title": "",
+          "cssClassList": ["list-para-normal"],
+          "declareGameList": [
+            "The best-in-industry commission/Rakeback ",
+            "The more players you bring onboard, the more you will earn.",
+            "Quick & timely payments",
+            "Live poker affiliate dashboard to track your earnings and check the progress of your players",
+            "Extensive support from our affiliate management team"
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "About vpl Poker",
+          "cssClassList": ["how-to-play-info"],
+          "contentList": [
+            "vpl is India's largest online gaming app, with over 6 million users. vpl Poker is one of the most trusted online poker platforms, which provides a fun and exciting online poker experience to its users. vpl currently offers three Poker game formats on its app: NL Holdem, PL Omaha, and PL Omaha 5."
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "How to sign up for the poker affiliate program?",
+          "cssClassList": ["how-to-play-info"],
+          "contentList": [
+            "Signing up for our poker affiliate program won't take more than a few minutes. Just send us a request by filling up the vpl poker affiliate program form. Once you have submitted the form, sit back, relax, and let us process your request. Someone from our team will reach out to enrol you as our poker affiliate.",
+            "We look forward to hearing from you!"
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "Playing Poker on the vpl app",
+          "cssClassList": [""],
+          "contentList": [
+            "Download the vpl app from www.vpl.live. Select ‘Poker’ from the list of games. Choose your format and buy-in lobby, and you are all set to play Poker games online! "
+          ]
+        }
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-1.webp",
+                "png": "/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-2.webp",
+                "png": "/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-3.webp",
+                "png": "/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-4.webp",
+                "png": "/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/trf-logo.webp",
+                "png": "/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/aigf-logo.webp",
+                "png": "/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/iamai-logo.webp",
+                "png": "/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "/static/social_icons/yt.webp",
+                "png": "/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "/static/social_icons/tw.webp",
+                "png": "/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "/static/social_icons/ig.webp",
+                "png": "/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Carrom Game",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Auto Raja Game",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            {
+              "text": "Fantasy Cricket App",
+              "link": "https://www.vpl.live/fantasy-cricket/app"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "https://www.vpl.live/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "Joining Bonus: Get 50 tokens!",
+          "showDownload": false,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      },
+      {
+        "name": "dropDown",
+        "isParent": false,
+        "data": {
+          "optionList": [
+            {
+              "countryName": "India",
+              "countryIcon": "/static/2x/India-Flag.svg",
+              "countryCode": "+91"
+            },
+            {
+              "countryName": "US",
+              "countryIcon": "/static/2x/us-flag-icon.svg",
+              "countryCode": "+1"
+            },
+            {
+              "countryName": "UK",
+              "countryIcon": "/static/2x/uk-flag-icon.svg",
+              "countryCode": "+44"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

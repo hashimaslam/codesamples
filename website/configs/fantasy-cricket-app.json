@@ -1,0 +1,2645 @@
+{
+  "pageName": "fantasy-cricket/app",
+  "head": {
+    "title": "Fantasy Cricket App vpl | Win Rs 1 Crore Daily",
+    "canonical": "https://www.vpl.live/fantasy-cricket/app",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": " Download vpl Fantasy Cricket APP and play with 5+ crore online vpl users to win Rs 1 crore daily. Create your fantasy team now!"
+      },
+      {
+        "name": "keywords",
+        "content": ""
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/fantasy-cricket/app"
+      },
+      {
+        "property": "og:title",
+        "content": "Fantasy Cricket App vpl | Win Rs 1 Crore Daily"
+      },
+      {
+        "property": "og:description",
+        "content": " Download vpl Fantasy Cricket APP and play with 5+ crore online vpl users to win Rs 1 crore daily. Create your fantasy team now!"
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Fantasy Cricket vpl App"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsmsipl",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "inputFieldBackgroundColor": "white-20"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/hamburger/vpl-logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy-games"
+          },
+          "menuList": [{}],
+          "desktopHeaderLinks": [
+            {
+              "name": "vpl Games",
+              "link": false,
+              "css": "normal--link show--more"
+            },
+            {
+              "name": "vpl Esports",
+              "link": true,
+              "css": "menu--button normal--link ",
+              "url": "https://www.vpl.live/esports"
+            },
+            {
+              "name": "About",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://about.vpl.live/"
+            },
+            {
+              "name": "Blog",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://www.vpl.live/blog/"
+            },
+            {
+              "name": "FAQs",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://help.vpl.live/faq/"
+            },
+            {
+              "name": "Help",
+              "link": true,
+              "url": "https://help.vpl.live/",
+              "css": "help--button",
+              "imgUrl": {
+                "png": "/static/hamburger/help_icon.png",
+                "alt": "help icon",
+                "sizeInBytes": 20000
+              }
+            }
+          ],
+          "menuListDesktop": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/fantasy_games_icon.png",
+                  "alt": "fantays games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/card_games_desktop.png",
+                  "alt": "card games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/sports_games_icon.png",
+                  "alt": "Sports games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/casual_games_desktop.png",
+                  "alt": "casual games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/arcade_games_desktop.png",
+                  "alt": "arcade games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/brain_games_desktop.png",
+                  "alt": "brain games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Quiz",
+                    "link": "https://www.vpl.live/quiz"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Puzzle Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/puzzle_games_desktop.png",
+                  "alt": "puzzle games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ]
+          ],
+          "menuListMobile": [
+            {
+              "gameType": "Fantasy",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/fantasy.png",
+                "alt": "fantays image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fantasy Cricket",
+                  "link": "https://www.vpl.live/fantasy-cricket",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-cricket.png",
+                    "alt": "fantays cricket image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Football",
+                  "link": "https://www.vpl.live/fantasy-football",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-football.png",
+                    "alt": "fantays football image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Basketball",
+                  "link": "https://www.vpl.live/fantasy-basketball",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-basketball.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Games",
+                  "link": "https://www.vpl.live/fantasy-games",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy_icon.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Card Skill",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/card-skill.png",
+                "alt": "card skill image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Rummy",
+                  "link": "https://www.vpl.live/rummy",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-5.png",
+                    "alt": "rummy image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Poker",
+                  "link": "https://www.vpl.live/poker",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-1.png",
+                    "alt": "poker image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Call Break",
+                  "link": "https://www.vpl.live/call-break-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container.png",
+                    "alt": "call break image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Sports Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/sport_games.png",
+                "alt": "sports games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Wcc2",
+                  "link": "https://www.vpl.live/world-cricket-championship-wcc2",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-10.png",
+                    "alt": "wcc2",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Arcade Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/arcade_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fruit Dart",
+                  "link": "https://www.vpl.live/fruit-dart-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-12.png",
+                    "alt": "fruit dart",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fruit Chop",
+                  "link": "https://www.vpl.live/fruit-chop",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-14.png",
+                    "alt": "fruti chop",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Casual Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/casual_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Carrom",
+                  "link": "https://www.vpl.live/carrom",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-4.png",
+                    "alt": "Carrom image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Pool",
+                  "link": "https://www.vpl.live/pool",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-9.png",
+                    "alt": "Pool image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Ludo",
+                  "link": "https://www.vpl.live/ludo",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-8.png",
+                    "alt": "Ludo image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Runner No.1",
+                  "link": "https://www.vpl.live/runner-no1",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-11.png",
+                    "alt": "Runner No.1 image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Monster Truck",
+                  "link": "https://www.vpl.live/monster-truck",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-13.png",
+                    "alt": "monster image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Go Ride",
+                  "link": "https://www.vpl.live/go-ride",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-15.png",
+                    "alt": "go ride image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Brain Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/brain_games.png",
+                "alt": "brain games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Quiz",
+                  "link": "https://www.vpl.live/quiz",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-3.png",
+                    "alt": "quiz dart",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Speed Chess",
+                  "link": "https://www.vpl.live/chess",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-7.png",
+                    "alt": "Speed Chess image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Puzzle Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/puzzle_games.png",
+                "alt": "Puzzle Games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Bubble Shooter",
+                  "link": "https://www.vpl.live/bubble-shooter",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-2.png",
+                    "alt": "Bubble Shooter image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Build Up",
+                  "link": "https://www.vpl.live/build-up-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-6.png",
+                    "alt": "build up image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "vpl Esports",
+              "expandable": false,
+              "newGame": true,
+              "link": "https://www.vpl.live/esports",
+              "imgUrl": {
+                "png": "/static/hamburger/vpl-esports.png",
+                "alt": "vpl Esports image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "About us",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://about.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/about-us.png",
+                "alt": "About us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Blog",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://www.vpl.live/blog/",
+              "imgUrl": {
+                "png": "/static/hamburger/blog.png",
+                "alt": "Blog image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "FAQs",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://help.vpl.live/faq/",
+              "imgUrl": {
+                "png": "/static/hamburger/contact-us.png",
+                "alt": "Contact us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Help",
+              "expandable": false,
+              "newGame": false,
+              "cssClassList": "",
+              "link": "https://help.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/help.png",
+                "alt": "Help image",
+                "sizeInBytes": 10000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "bannerimageipl",
+        "isParent": true,
+        "data": {
+          "showDownload": true,
+          "showEmail": true,
+          "defaultHiddenHeaderComponent": true,
+          "cssClasses": "banner-container full-width-banner-header fantasy-cricket-banner",
+          "styles": {
+            "background-color": "white"
+          },
+          "mobileImageurl": {
+            "webp": "https://www.vpl.live/cledge.vpl.live/pb/website/static/878632f4a8b04ee6bc1c32f3218c9e5c.webp",
+            "png": "https://www.vpl.live/cledge.vpl.live/pb/website/static/1ec7bcbffb2f46b9bd2ec43d1dc165cf.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "https://www.vpl.live/cledge.vpl.live/pb/website/static/930e9f0edcd14f939a39bfc69632f0a6.webp",
+            "png": "https://www.vpl.live/cledge.vpl.live/pb/website/static/a7e374fa37d244d5bd4cdaa80401ff36.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "cssClasses": "action-link--banner--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "cssClasses": "download-btn-android download-btn-android--banner",
+            "showDownload": true,
+            "buttonPosition": "top"
+          },
+          "contentTextMobile": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "h1",
+                "cssClasses": "white-header",
+                "text": "DOWNLOAD FANTASY CRICKET APP"
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "India’s No 1 Fantasy Cricket App - vpl",
+                "cssClasses": "white-sub-header"
+              }
+            }
+          ],
+          "contentTextDesktop": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "h1",
+                "text": "DOWNLOAD FANTASY <br>CRICKET APP",
+                "cssClasses": "white-header text-align-left"
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "India’s No 1 Fantasy Cricket App - vpl",
+                "cssClasses": "white-sub-header"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "rewardsbarsliding",
+        "isParent": true,
+        "data": {
+          "cssClasses": "",
+          "styles": {
+            "color": "#33FF66",
+            "background": "#230046"
+          },
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings with",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom payments"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/paytm.png",
+                "alt": "Paytm Wallet",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/upi.png",
+                "alt": "UPI",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "UPI"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/amazon_pay.png",
+                "alt": "Amazon Pay",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/bank_transfer.png",
+                "alt": "Bank Transfer",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "SingleLineText",
+        "isParent": true,
+        "data": {
+          "text": "Play over 60+ Games and Win Cash!",
+          "cssClassList": [
+            "text-align-center",
+            "trim-Regular",
+            "m-0",
+            "mt-4",
+            "top--games"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": [""],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/top-games/fruit_dart.png",
+                "alt": "fruit dart img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/fruit-dart-game",
+              "text": "Fruit Dart"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/wcc.png",
+                "alt": "WCC img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2",
+              "text": "WCC"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/pool.png",
+                "alt": "Pool img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/pool",
+              "text": "Pool"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/speed_chess.png",
+                "alt": "speed chess img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/chess",
+              "text": "Speed Chess"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/fantasy_cricket.png",
+                "alt": "Fantasy Crickets img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/fantasy-cricket",
+              "text": "Fantasy Cricket"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/quiz.png",
+                "alt": "Quiz img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/quiz",
+              "text": "Quiz"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/fruit_chop.png",
+                "alt": "Fruit Chop img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/fruit-chop",
+              "text": "Fruit Chop"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/top-games/runner_no1.png",
+                "alt": "Runner No. 1 img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.vpl.live/runner-no1",
+              "text": "Runner No. 1"
+            }
+          ]
+        }
+      },
+      {
+        "name": "MiddleDownloadBut",
+        "isParent": true,
+        "data": {
+          "cssClassList": "margin--m-top section__margin--bottom",
+          "androidMiddleBtnLabel": "DOWNLOAD TO PLAY",
+          "androidDownloading": "DOWNLOADING ...",
+          "iosAlt": "Download IOS App",
+          "buttonPosition": "middle",
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/1x/download_icon_left.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosBlackIcon": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          }
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "The Best New Fantasy Cricket App",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Cricket! What would we be without it? Cricket in India is so much more than just a sport. It is an emotion, a binding force that brings communities together. In almost every household in the country, you can find at least one cricket fan who holds cricket knowledge at the back of his hand.",
+                  "Online Fantasy games on the vpl app give its players an option to create their online fantasy cricket team and translate this cricket knowledge.Win real cash without even venturing out of your home comfort.",
+                  "With fantasy cricket in India taking giant strides in the last few years, there are a plethora of fantasy cricket apps that have come up.What makes vpl the best fantasy cricket app is the user - friendly interface, instant withdrawals, and the sivple fact that it is entirely safe.In addition to the above features:"
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "description": [
+                  {
+                    "content": [
+                      "All fantasy cricket players get a 5 % entry fee back, up to INR 5, 000 deposit cash every time they play a match."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "vpl is the only platform that allows unlimited real cash withdrawals.There is no limit to how much of their winnings people can withdraw.The amount is credited almost instantly to their accounts.This makes it both quicker and better than other fantasy sports platforms."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Players who compete in a confirmed fantasy sports game on vpl can win cash and other prizes daily."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Winnings are credited instantly to the users ' accounts soon after the scoring is done for a match."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": " secondary-componet--margin-top text-align-center",
+                "description": [
+                  "What are you waiting for ? Download the vpl <a href='https://www.vpl.live/fantasy-cricket' class='link'>Fantasy Cricket</a> app on your Android or iOS device and start playing the fantasy cricket game for free.Experience playing your favourite game on one of the best fantasy cricket apps now!"
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Cricket! What would we be without it? Cricket in India is so much more than just a sport. It is an emotion, a binding force that brings communities together. In almost every household in the country, you can find at least one cricket fan who holds cricket knowledge at the back of his hand."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "How to download vpl Fantasy Cricket App?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "The vpl fantasy cricket gaming platform is free and supported on Android (versions 5.1 and above) and iOS devices. Play now on vpl & have an unparalleled fantasy sports experience. Here are the steps to download the best fantasy sports app on your phone. "
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top ",
+                "headerCss": "text-align-center subheader--large",
+                "text": "On Android 5.1 and above"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": " secondary-componet--margin-top text-align-left margin--xs-bottom",
+                "description": [
+                  "If you have an Android phone, you need to download the vpl cricket fantasy sports app from your browser. "
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": [
+                      "Go to your browser and set <a href='https://vpl.live' class='link'>https://vpl.live</a> in your URL box."
+                    ]
+                  },
+                  {
+                    "content": ["Click on the 'Download the vpl App' banner."]
+                  },
+                  {
+                    "content": [
+                      "On the next screen, you will get a pop-up that reads, This type of file can harm your device. Do you want to keep vpl-pro-v117.apk anyway? Select OK."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Downloading the vpl app is 100% safe, and it will not harm your device in any manner."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Once you download the app, click on the Open button and subsequently the Install button.The application will be installed on your android device."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Once the app is installed, click on the Open button"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "To sign up for the app, you will need to enter your registered number."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Once you do that, a dialog box will appear, stating, \"My age is 18 years or older, and I am not playing from the following states - Assam, Nagaland, Orissa, Sikkim, Telangana, and Andhra Pradesh.\""
+                    ]
+                  },
+                  {
+                    "content": [
+                      "If you agree with the terms and conditions, click the 'I agree' button."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "You will then receive a 6-digit OTP via SMS on your registered mobile number"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Enter the correct 6 - digit OTP, which takes you to the landing page to choose the fantasy cricket option."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left margin--xs-top",
+                "description": [
+                  "Explore the world of fantasy sports, <a href='https://www.vpl.live/fantasy-football' class='link'>fantasy football</a>, <a href='https://www.vpl.live/fantasy-basketball' class='link'>fantasy basketball</a>, fantasy cricket on the vpl app and participate in various matches and win real cash.You get a seamless gaming experience with all information at your disposal."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top ",
+                "headerCss": "text-align-center subheader--large",
+                "text": "On iOS"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": " secondary-componet--margin-top text-align-center",
+                "description": [
+                  "The vpl fantasy cricket league app is available for download on the Apple app store for free.iOS users can <a href='itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8' class='link'>click here to download</a> the app on their respective devices."
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "text-align-left desktop--padding-24 margin--xs-top",
+                "description": [
+                  {
+                    "content": [
+                      "Once you download the vpl fantasy cricket app on your iOS device, you need to install it."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "On covpletion of the installation process, click on the Open button"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "To sign up for the app, you will need to enter your registered phone number"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "You will then receive a 6-digit OTP via SMS on your registered mobile number"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Enter the correct 6 - digit OTP, which takes you to the home page of the vpl app, where you can choose the fantasy cricket option"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "And voila! You can now explore the exciting world of fantasy cricket on the vpl app"
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "The vpl fantasy cricket gaming platform is free and supported on Android (versions 5.1 and above) and iOS devices. Play now on vpl & have an unparalleled fantasy sports experience. Here are the steps to download the best fantasy sports app on your phone. "
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "How to Play Fantasy Cricket on the vpl app?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "vpl is one of the finest fantasy cricket apps in India that provides a clean user interface and seamless gaming experience. It is easy, slick, and anyone with their skills and knowledge of cricket can win big. With a host of T20 leagues like the Indian Premier League, domestic and international matches on, you have the option of building multiple fantasy cricket teams for each cricket match and win cash prizes.",
+                  "Once the vpl app is <a href='https://www.vpl.live/fantasy-cricket/how-to-play' class='link'>downloaded on your device</a> , click on the fantasy cricket option. This takes you to the vpl fantasy cricket match page, which has the schedule of all the upcoming cricket matches from across the globe.",
+                  "Under the \"Upcoming Matches\" section, choose any match that you want to play. Once you click on a particular fantasy cricket game, you will be redirected to a page where you can see the prize pool and the relevant entry fees for various fantasy games. You can participate in several contests such as Grand League (Contests with 100+ slots) and Small League (Contests with 2-100 slots). There are various Head to Head contests where you can play fantasy cricket match amongst your friends' limited number.",
+                  "You are allowed to create multiple teams for a single cricket match, which varies per the contest category. Your probability of winning will increase manifold if you put out more teams in a given contest.",
+                  "If you are playing a fantasy cricket match for the first time, there are free contests in-place where you can get a feel of how the new fantasy cricket app works. Once you get in the groove, you can go ahead and play fantasy cricket match contests and win real money.",
+                  "At vpl, we have also gone a step further in ensuring our users get all the information about the relevant cricket matches on one platform. Through our dedicated blog, you can get <a href='https://www.vpl.live/fantasy-cricket/tips-and-tricks' class='link'>the best fantasy cricket match tips</a>, match information, pitch analysis, ground details, and expert opinion on whom to select for the upcoming games. "
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "vpl is one of the finest fantasy cricket apps in India that provides a clean user interface and seamless gaming experience. It is easy, slick, and anyone with their skills and knowledge of cricket can win big."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Adding money to vpl wallet",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games",
+                "imgUrl": {
+                  "png": "/static/fantasy/wallet_add_money.png",
+                  "webp": "/static/fantasy/wallet_add_money.webp",
+                  "alt": "add wallet image",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-center",
+                "description": [
+                  "If you are playing cash contests, a good way to move forward before building your fantasy side is to add some money into your vpl app wallet for a smoother process. To do that, click on the wallet icon on the top right corner of the page. You will have a cash balance of INR 20, which is given to you as a sign-up bonus by vpl app. To add more cash, go to the “Add Cash” button and enter the amount you wish to add.",
+                  "Once done, click on the “Proceed to Add Cash'' button, following which you will be redirected to the payment gateway page. There is no cap on the amount you can add to your vpl fantasy cricket app wallet. You can covplete the transaction using your Paytm or Amazon Pay wallet, UPI, or via Net Banking. You can also add cash into your vpl wallet through a debit or credit card.",
+                  "You need not worry about losing your money as all payments made on the vpl app are 100% safe & secure.",
+                  "The higher the amount you add, the chances of you winning a scratch card increases. You can view all the scratch cards, coupons earned, and cash balance on the Wallet page."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games secondary-componet--margin-top",
+                "imgUrl": {
+                  "png": "/static/fantasy/wallet_add_money.png",
+                  "webp": "/static/fantasy/wallet_add_money.webp",
+                  "alt": "add wallet image",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "If you are playing cash contests, a good way to move forward before building your fantasy side is to add some money into your vpl app wallet for a smoother process. To do that, click on the wallet icon on the top right corner of the page."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "How to make your fantasy dream team on vpl Fantasy Cricket App?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "While there are different match contests to be played and various prize pools to be won in fantasy cricket on vpl, the basic rules remain the same, be it a T20 fixture, ODI, or Test match. Once you click on a given match on the vpl app, the entire pool of fantasy gamers taking part in the game opens up their trade order. Wicket-keepers, followed by batsmen, all-rounders, and finally the bowlers.",
+                  "To covplete your fantasy sports 11 for a match, you have to select between 1-4 wicket-keepers, 3-6 batsmen, 1-4 all-rounders, and 3-6 bowlers. This combination should be based on pitch conditions, the two teams playing, venue details, and the players involved.",
+                  "Each user will be assigned set credits based on their stature and current form. These credits might fluctuate on a match by match basis. You will be given a total of 100 credits to make a fantasy cricket team, from which you have to select a fantasy 11 consisting of players from both the teams taking part in the match. The credits counter will be running on the right side of your screen and will keep reducing as you pick the fantasy players. You can select a maximum of 7 players from one particular team.",
+                  "Remember, you can't fill your fantasy playing 11 team with just the big-ticket players. There has to be a right balance of experience and youth in-keeping with the conditions where the particular match is being held.",
+                  "Once you have finished choosing the best 11 players in your team from the two sides, click on the Next button. You will then be asked to select a captain and vice captain, which is a critical step as whomever you choose will go a long way in ultimately deciding the fate of your fantasy dream team. The captain that you select gets 2x the points while the vice captain gets 1.5x the points.",
+                  "Tip: Do thorough research while selecting the captain and vice captain for a match. Select in-form players or players who can earn points in all departments.",
+                  "Once you have finished selecting the captain and vice captain of your fantasy playing 11 team, click on the \"Save Team button\" and subsequently the \"Register Team\" button, and you are good to go. You can make as many changes to your fantasy 11 till the first ball of the match has been delivered. So, it is a good idea to keep a lookout for the toss and remove any players from your team who are not part of the fixture."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "While there are different match contests to be played and various prize pools to be won in fantasy cricket on vpl, the basic rules remain the same, be it a T20 fixture, ODI, or Test match. Once you click on a given match on the vpl app, the entire pool of fantasy gamers taking part in the game opens up their trade order. Wicket-keepers, followed by batsmen, all-rounders, and finally the bowlers."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Fantasy Cricket features and app screen guide",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Here is a look at some of the main features of the vpl fantasy cricket app that will help you understand the app's look and feel."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "BoxShowMore",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top grey_background-mobile margin__bottom--comp",
+          "showMore": true,
+          "header": "Upcoming Matches",
+          "components": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games secondary-componet--margin-top",
+                "imgUrl": {
+                  "png": "/static/fantasy/fantasy-app-screen-guide.png",
+                  "webp": "/static/fantasy/fantasy-app-screen-guide.webp",
+                  "alt": "paypal payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "description": [
+                  "Under forthcoming matches, you can find a schedule of all the games that will be played in the coming days. You can plan your calendar accordingly and start building your fantasy side well in advance."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games secondary-componet--margin-top",
+                "imgUrl": {
+                  "png": "static/fantasy/fantasy-app-screen-guide.png",
+                  "webp": "/static/fantasy/fantasy-app-screen-guide.webp",
+                  "alt": "paypal payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "BoxShowMore",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top grey_background-mobile margin__bottom--comp",
+          "showMore": true,
+          "header": "Cash and Practice Contests",
+          "components": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games secondary-componet--margin-top",
+                "imgUrl": {
+                  "png": "/static/fantasy/fantasy-app-screen-guide-2.png",
+                  "webp": "/static/fantasy/fantasy-app-screen-guide-2.webp",
+                  "alt": "paypal payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "description": [
+                  "After selecting a particular match in the Upcoming Matches section, you will find an area where all the contests are listed. If you are at an advanced stage, you can play fantasy cricket match contests. For beginners, there is a free practice contest where you can create teams and get to know the app before you delve into the cash contests."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games secondary-componet--margin-top",
+                "imgUrl": {
+                  "png": "static/fantasy/fantasy-app-screen-guide-2.png",
+                  "webp": "/static/fantasy/fantasy-app-screen-guide-2.webp",
+                  "alt": "paypal payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "BoxShowMore",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top grey_background-mobile margin__bottom--comp",
+          "showMore": true,
+          "header": "Private Contest",
+          "components": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games secondary-componet--margin-top",
+                "imgUrl": {
+                  "png": "/static/fantasy/fantasy-match-guide.png",
+                  "webp": "/static/fantasy/fantasy-match-guide.webp",
+                  "alt": "paypal payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "description": [
+                  "There is also a private contest tab under the matches section where you can either host your contest and invite your friends and family to play or join a contest that has been created by your friends via the invite code."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games secondary-componet--margin-top",
+                "imgUrl": {
+                  "png": "static/fantasy/fantasy-match-guide.png",
+                  "webp": "/static/fantasy/fantasy-match-guide.webp",
+                  "alt": "paypal payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "BoxShowMore",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top grey_background-mobile section__margin--bottom",
+          "showMore": true,
+          "header": "My matches",
+          "components": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games secondary-componet--margin-top",
+                "imgUrl": {
+                  "png": "/static/fantasy/fantasy-match-guide.png",
+                  "webp": "/static/fantasy/fantasy-match-guide.webp",
+                  "alt": "paypal payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "description": [
+                  "On this page, you can look at all the matches you have already created a team for. If the game has not started yet, you can see the game under the Upcoming tab. You can still make any last-minute changes to your fantasy team here.",
+                  "Under the <span style='color:#190A28;'>Live</span> tab, you can look at the scores and the performances of the players you have picked.",
+                  "Under the <span style='color:#190A28;'>results</span> tab, you can view past matches that you took part in."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "VerticalImg",
+              "data": {
+                "cssClassList": "fantasy-games secondary-componet--margin-top",
+                "imgUrl": {
+                  "png": "static/fantasy/fantasy-match-guide.png",
+                  "webp": "/static/fantasy/fantasy-match-guide.webp",
+                  "alt": "paypal payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Points scoring system on vpl Fantasy Cricket App",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "You should know the points system at the back of your hand as they hold the key to your fantasy team. The players are awarded points based on their performances, which defines how your fantasy team ranks. vpl's effective points system is one of the best across all fantasy apps in India. <a href='https://www.vpl.live/blog/fantasy-cricket-points-system-explained/' class='link'>Here is how the points scoring system</a> on the vpl fantasy app works"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Benefits of playing Fantasy Cricket Games on vpl app",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "As we mentioned earlier, there is no shortage of fantasy cricket game apps in India. Still, its easy-to-use interface and ever-evolving innovations make vpl one of the best fantasy cricket apps going around. The most significant and most important benefit of playing fantasy cricket on vpl is that it is entirely safe and secure. All transactions happen in real-time, which means you can instantly withdraw your earnings into your bank account. Here are some of the other benefits of playing fantasy cricket on vpl."
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>Detailed pre-match predictions and analysis:  </span>In any field, proper research about the subject becomes vital, and fantasy cricket is no different. How the surface where the match is being played will behave, who are the players that can do well, injury updates, probable XIs - we have everything covered, every time! Just head over to our blog, where you will find relevant news and updates along with analysis for each match in detail."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>A place for Rookies and Experienced Players: </span>Is it your first time playing fantasy cricket, or are you a seasoned campaigner who knows the trade's ins and outs and are now looking to win big? The vpl fantasy app is a one-stop destination for both such players. Beginners can join the free practice contests in a bid to get accustomed to the app before moving on to the cash contests. On the other hand, the experienced players can straightaway deposit a nominal sum and start playing the various leagues on the vpl fantasy cricket app."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>Rewards galore: </span> There are many games on the vpl app that give you an instant entry fee back. Suppose you enter such matches and join a league, after investing money. In that case, vpl will deposit a certain percentage of the entry fee back into your wallet. Apart from this, you get rewards for referrals and regular scratch cards, coupons, and offers."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>Why shouldn't you show-off when you are good at something?: </span>When you know something in abundance, you should be able to show-off, and at vpl, you can earn bragging right over your friends. There are various head to head contests on the vpl fantasy cricket app where you can play with your friends and gain the upper hand amongst your peers."
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "As we mentioned earlier, there is no shortage of fantasy cricket game apps in India. Still, its easy-to-use interface and ever-evolving innovations make vpl one of the best fantasy cricket apps going around. "
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Blogs",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "In the dedicated blog section of the vpl website, you can find expert tips and tricks, key analysis and player battles among others. If you are confused who to pick in your fantasy side for the upcoming matches, you can find all your answers <a href='https://www.vpl.live/blog/fantasy/cricket/' class='link'>here</a> .  Be it the pitch conditions, player injury updates or historical details, we lay it all out for you, so that you need not venture anywhere else. In addition, you can also find out al the latest news and headlines of what's going on in the cricket world, right here."
+                ]
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left margin--xs-top",
+                "description": [
+                  "<a href='https://www.vpl.live/blog/5-tips-to-select-the-best-team-to-win-in-fantasy-cricket/' class='link'>5 Tips to Select the Best Team to Win in Fantasy Cricket</a>",
+                  "<a href='https://www.vpl.live/blog/how-does-ipl-fantasy-league-work/' class='link'>How does T20 fantasy League work</a>",
+                  "<a href='https://www.vpl.live/blog/ipl-fantasy-cricket-strategies/' class='link'>T20 Fantasy Cricket Strategies</a>",
+                  "<a href='https://www.vpl.live/blog/indian-t20-fantasy-premier-league/' class='link'> Indian T20 Fantasy Premier League</a>",
+                  "<a href='https://www.vpl.live/blog/todays-match-prediction/' class='link'>Todays Match Prediction</a>"
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "In the dedicated blog section of the vpl website, you can find expert tips and tricks, key analysis and player battles among others. If you are confused who to pick in your fantasy side for the upcoming matches, you can find all your answers <a href='https://www.vpl.live/blog/fantasy/cricket/' class='link'>here</a> . "
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "FAQs related to Top Fantasy Cricket App",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "FaqsComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": [
+            "section__margin--bottom",
+            "section__margin--top",
+            "desktop--padding-24"
+          ],
+          "content": [
+            {
+              "name": "What are some tips and tricks to win more cash prizes on the vpl app?",
+              "description": [
+                "While playing fantasy cricket, some basic rules need to be remembered that will increase your point earning capacity. They are :",
+                "Keep a look out for the toss before the start of a game. Remember that if a player in your fantasy team does not make the playing XI for his side in the real game, you will not get any points from the player for that match in your fantasy team. You are, then, effectively playing with just ten players, and you can bid your chances of winning goodbye. On vpl, you can change your fantasy teams till the first ball is bowled, which gives you avple time to check the toss, the final squads and the list of injuries before finalizing the team.",
+                "Keep a track on injuries. Often, a cricketer who bats and bowls or keeps wickets might have an injury and can only take the field in one role. For exavple, Andre Russell often does not bowl in matches because of his nagging knee injury. Keep a track of the history of injuries, and whether the player you have selected is the best option.",
+                "Picking top order battsmen in the side is a good idea. It is a fact that players who bat in the top four have the maximum impact in a game. They have maximum overs to bat, and have a higher chance of getting a big knock. A player like Shikhar Dhawan or Rohit Sharma, for exavple, has a higher chance of getting to 150 runs than a player like Rishabh Pant. With strike rates not carrying additional points, it is advisable to pick cricketers who have a chance of scoring more runs than fast runs.",
+                "Choose players based on their form, but do not rule out the opponents or venues. Some players, despite being in a bad patch of form, get back to their best against a particular opponent or if they play at a specific venue. VVS Laxman was a star player against Australia and could always be counted on to get big knocks against them, irrespective of how hisform was. Rohit Sharma has a good record at Eden Gardens in Kolkata, and should be a must-pick in every vpl fantasy team if he plays a match at the stadium.",
+                "Do not miss out on the weather and the pitch report. A track can be batsmen friendly or bowler friendly, and you need to know which way a game will go so you can stack up your fantasy cricket team accordingly. A dry and a hot day will most likely mean that spinners will have a huge say in the game, while overcast conditions means that swing bowlers and fast bowlers will be among wickets. Pick accordingly.",
+                "Be wise while selecting your captain and vice-captain. Two players can have the exact same team, and the winner will be boiled down to who you pick as the captain and the vice-captain. As mentioned earlier, players who can contribute in at least two departments should be preferred. Top-order players should be preferred as well, and wicket-keepers who open make good picks as captains too.",
+                "Click here to know more fantasy cricket tips and tricks."
+              ]
+            },
+            {
+              "name": "Is fantasy cricket legal in India?",
+              "description": [
+                "You need not worry about breaking laws as fantasy cricket is covpletely safe and legal in India. A High Court ruling had termed fantasy sports as a game of skill, and not just luck, which means that it does not qualify as betting or gambling. Playing and winning on fantasy cricket requires you to use your cricketing knowledge, expertise, strategy, tactics and judgement, which does not make it a game of chance.",
+                "However, users in Nagaland, Assam, Odisha, Sikkim and Telangana cannot play fantasy cricket as the laws in these states in India states that a game of skill that is mixed with a game of chance cannot be played for money, and, hence is illegal.",
+                "A person who is more than 18 years of age can only play on the fantasy cricket app."
+              ]
+            },
+            {
+              "name": "Which fantasy app is best in India?",
+              "description": [
+                "Fantasy cricket has been on the rise and has garnered a vast market in India where cricket needs no introduction whatsoever. While there are plenty of fantasy apps available, vpl scores well above in most areas, be it design, user-interface, or the number of contests a user can play.",
+                "You have a number of games to choose from. Beginners can join practice contests and get used to the app, while the more experienced fantasy players can directly play cash leagues.",
+                "The app runs smoothly without any lag, making it user friendly and a pleasure to use",
+                "Forming teams is sivple; just a few clicks and your fantasy 11 is ready. The rules are also pretty easy to comprehend.",
+                "You can follow the performances of the players you have selected on the go while the scorecard of the match also keeps getting updated. This saves you the time to not go anywhere else to see how the match is progressing.",
+                "A dedicated blog section helps you with experts tips, in-depth analysis, venue conditions and which players to pick for the upcoming match."
+              ]
+            },
+            {
+              "name": "Can I download vpl App from the Play Store or AppStore?",
+              "description": [
+                "Cash contests are not allowed on Google Play Store, which is why you will have to download the vpl app through your browser. Sivply go to your browser and enter http://vpl.live. Click on ‘Download the vpl App’ banner and the apk file will get downloaded on your device. Open the file and follow instructions to install the app on your phone.",
+                "The vpl Fantasy Cricket app, however, is available on the Apple app. IOS users can go to the link below and download the app: <a href='https://apps.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1' class='link'>Download App</a>."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Best-In-Class Gaming Experience",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom great--expi"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/user_icon.png",
+                "alt": "Mega Events",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "6 Crore+",
+              "subText": "Users"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/secure_icon.png",
+                "alt": "Legal",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "100% Secure",
+              "subText": "& Legal"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/support_icon.png",
+                "alt": "Customer Support",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "24 x 7",
+              "subText": "Customer Support"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/cashback_icon.png",
+                "alt": "Cashback",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Cashback",
+              "subText": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sponsor",
+        "isParent": true,
+        "data": {
+          "header": "Proud Sponsor of",
+          "imgList": [
+            {
+              "imgUrl": {
+                "png": "/static/sponsors/rcb_logo.png",
+                "width": 158,
+                "height": 160,
+                "alt": "rcb img"
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/sponsors/kkr_logo.png",
+                "width": 158,
+                "height": 160,
+                "alt": "kkr img"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": ["section__margin--bottom vpl--is--member"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/aigf.png",
+                "alt": "Mega Events",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/ficci.png",
+                "alt": "Legal",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/trf.png",
+                "alt": "Customer Support",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/IAMAI.png",
+                "alt": "Cashback",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Know us better",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom know--us"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/fb.png",
+                "alt": "facebook img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/ig.png",
+                "alt": "instagram img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.instagram.com/playvpl/"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/tw.png",
+                "alt": "twitter img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://twitter.com/Playvpl"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/yt.png",
+                "alt": "youtube img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            }
+          ],
+          "mobileFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Quiz",
+                    "link": "https://www.vpl.live/quiz"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://www.facebook.com/Playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://www.instagram.com/playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ]
+          ],
+          "desktopFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Quiz",
+                    "link": "https://www.vpl.live/quiz"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://www.facebook.com/Playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://www.instagram.com/playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ]
+          ],
+          "aboutUsLinks": [
+            {
+              "name": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "name": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "name": "Terms & Condition",
+              "link": "https://about.vpl.live/terms/"
+            }
+          ],
+          "copyRight": "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+        }
+      },
+      {
+        "name": "H4header",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "styles": {
+            "color": "rgba(25, 10, 40, 0.6)"
+          },
+          "header": "DISCLAIMER",
+          "cssClassList": [
+            "m-0",
+            "margin--m-top",
+            "ternary--header",
+            "trim-Regular",
+            "desktop-white-background",
+            "text-align-left"
+          ]
+        }
+      },
+      {
+        "name": "TextualContentComponent",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "paraStyle": {
+            "color": "rgba(25, 10, 40, 0.3)"
+          },
+          "cssClassList": [
+            "m-0",
+            "text-align-left",
+            "margin--xs-top",
+            "desktop-white-background",
+            "disclaimer-container",
+            "margin--disclaimer-bottom",
+            "copyright-section"
+          ],
+          "showMore": true,
+          "firstContentToShow": "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+          "description": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided \"AS IS\" and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats. vpl is available only to people above 18 years of age. vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App"
+          ]
+        }
+      },
+      {
+        "name": "stickySection",
+        "isParent": true,
+        "data": {
+          "show": true,
+          "showRewards": true,
+          "rewardsBar": {
+            "cssClasses": "",
+            "styles": {
+              "color": "#33FF66",
+              "background": "#230046"
+            },
+            "joiningBonusText": "Joining Bonus: Get",
+            "currency": "₹",
+            "tokenFreeText": "vpl Tokens Free!",
+            "freeText": " Free!",
+            "page": "home"
+          },
+          "showDeviceDownloadButton": true,
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "cssClasses": "action-link--footer--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "cssClasses": "download-btn-android download-btn-android--footer",
+            "showDownload": true,
+            "buttonPosition": "top",
+            "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+            "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also"
+          },
+          "cssClasses": "sticky-section",
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,849 @@
+{
+  "pageName": "carrom/how-to-play-carrom",
+  "head": {
+    "title": "How to Play Carrom Online on vpl",
+    "canonical": "https://www.vpl.live/carrom/how-to-play-carrom",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Carrom is a popular indoor board game. Learn how to play carrom online on vpl and earn real money."
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/carrom/how-to-play-carrom"
+      },
+      {
+        "property": "og:title",
+        "content": "How to Play Carrom Online on vpl"
+      },
+      {
+        "property": "og:description",
+        "content": "Carrom is a popular indoor board game. Learn how to play carrom online on vpl and earn real money.  "
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png."
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "SMS have been sent on your mobile number",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT"
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "https://www.vpl.live/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Auto Raja",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "Learn How to Play Carrom Online",
+          "subheader": "Play Carrom on vpl & Win Real Cash",
+          "cssAddDarkGradient": false,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "/static/banners/carrom_mobile_banner.webp",
+            "png": "/static/banners/carrom_mobile_banner.png",
+            "alt": "vpl Chess",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/carrom_desktop_banner.webp",
+            "png": "/static/banners/carrom_desktop_banner.png",
+            "alt": "vpl Chess",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          }
+        }
+      },
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings Instantly with",
+          "paymentList": [
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/paytm.webp",
+                "png": "/static/withdraw/paytm.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/upi.webp",
+                "png": "/static/withdraw/upi.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/amazon-pay.webp",
+                "png": "/static/withdraw/amazon-pay.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/withdraw/bank-transfer.webp",
+                "png": "/static/withdraw/bank-transfer.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "Top Games on vpl",
+          "subheader": "Play over 50+ games and win cash!",
+          "showDownload": true,
+          "newGamesText": "NEW",
+          "topGameList": [
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/4cf12fbc83e54a41ac75d7f2015fb383.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "https://www.vpl.live/chess",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "https://www.vpl.live/runner-no1",
+              "gameImageurl": {
+                "png": "/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H1Header",
+              "data": {
+                "header": "How to Play Carrom?"
+              }
+            },
+            {
+              "name": "CardImage",
+              "data": {
+                "cssClassList": ["tips_top__image"],
+                "imgUrl": "/static/2x/carrom_how_to_play.png"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "What is Carrom?",
+          "contentList": [
+            "Carrom is a popular indoor game that is also known as a ‘strike and pocket board game’. Traditional carrom is played on a square polished ply board with circular coins (black, white and red) and a circular striker. With the advent of technologies and extensive use of the Internet, the number of people playing <a href=\"https://www.vpl.live/carrom\">carrom online</a> is increasing day by day.  The primary objective in carrom is to use the striker to hit the coins into any of the corner holes to score points."
+          ]
+        }
+      },
+      {
+        "name": "Faqs",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "name": "H2Header",
+              "data": {
+                "header": "Understanding Carrom Gameplay"
+              }
+            },
+            {
+              "name": "FaqsComponent",
+              "data": [
+                {
+                  "header": "The Board",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "The board, as mentioned, is a squared plywood board that has holes in each of the four corners. There are base lines on the four sides, which also form the striking area for the player. The striking area is made up of two parallel lines, connected by two circular areas. There is room above and below the striking area to hit the coins.",
+                        "There is a larger circle in the middle of the board, which features another smaller circle right at the centre. This is where the coins are arranged when you start a new game."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "The Coins",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "There are nine each of black and white coins in carrom. Coins can also be referred to as pucks/carrommen/pieces. There is one red coin, which is called the queen."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "The Striker",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "The player can move the coin on the board with the help of a striker. The striker is slightly larger than the pieces on the board, and is the only weapon at the player’s disposal that can help them win the game."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Arrangement of coins",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "The 19 coins (nine each of black & white, and one queen) will all be arranged – in the larger central circle – in such a manner that the queen is placed in the smaller circle with the other coins placed around it in an alternate arrangement."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": "Objective & Gameplay",
+                  "content": [
+                    {
+                      "name": "Description",
+                      "data": [
+                        "There are two popular variations of carrom available on vpl – Professional and Freestyle. Both are played with two players sitting face-to-face and the board in the middle. In professional carrom, each player is assigned one of the two coloured coins. The objective is to pocket all your coins and the queen before the opponent. To pot the queen, the player needs to score a cover, i.e. pot one of his coloured coins right after he/she scores the queen. This means, if the player pots all his coins, without scoring the queen, he/she will lose the game. It is essential to know and understand <a href=\"https://www.vpl.live/carrom/rules-of-carrom\">rules of carrom</a> before beginning to play.",
+                        "In freestyle carrom, the player is free to pot any coin on the board. The player bags points for each coin he scores. At the end of the game, the player with the most points wins the game. The game ends when all coins on the board have been pocketed. The cover for the queen is also required in freestyle carrom.<br> &nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;  Black: 10 points<br>&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp; White: 20 points<br>&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp; Red: 50 points"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "How to Play Carrom Online on vpl?",
+          "contentList": [
+            "In the professional mode, the platform randomly assigns a colour (black or white) to both players. The player assigned white is the one to start the game. In freestyle mode, the system randomly assigns a player to start the game.",
+            "The first shot of the game, which scatters the arranged pieces all over the board, is called ‘break’. Post the first shot, players take turns to hit their coins.",
+            "On the vpl App, the player can strike a coin by dragging the striker left to right in the strike area. Once the position is set, you can then adjust the power and the direction of the shot by dragging your finger and aiming at the coin you want to strike. The shot is taken when the finger is released.",
+            "It is important to note that the power should be adjusted according to the position of the coin. Too much power can result in the coin flicking back into the board and or the striker being pocketed instead of the coin. Pocketing a striker is deemed as a foul in carrom. This can result in a penalty, where the player must forfeit a turn as well lose one of his scored pieces. In freestyle carrom, the player mandatorily loses a white coin.",
+            "If the player scores a piece of the assigned colour, he/she is rewarded another turn. The turn doesn’t shift to the opponent until the player fails to bag a coin from his shot or one of the opponent's pieces is accidentally pocketed.",
+            "In professional carrom, the player who pots all his/her coins along with the queen is declared the winner. The player can also win the game if they fail to score the queen, but are the first to pocket all their coins on the board. In Freestyle carrom, the player who has the highest score when the board is out of coins is declared as the winner."
+          ]
+        }
+      },
+      {
+        "name": "PageInfoParagraph",
+        "isParent": true,
+        "data": {
+          "header": "How to Download vpl App to Play Carrom?",
+          "contentList": [
+            "Before you start playing online, we recommend you first go through the <a href=\"https://www.vpl.live/carrom/tips-to-play-carrom\">tips to play carrom</a>, which will help you play the game efficiently. To play carrom on <a href=\"https://www.vpl.live/\">vpl</a>, one must have the vpl App installed on their device. vpl App is available free to download from the App Store on iOS. Meanwhile, Android users can download the ‘vpl Pro’ App by visiting the official website. Once installed on the device, players can register on the app for free. Carrom can be found under the section ‘vpl Games’."
+          ]
+        }
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-1.webp",
+                "png": "/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-2.webp",
+                "png": "/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-3.webp",
+                "png": "/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-4.webp",
+                "png": "/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/trf-logo.webp",
+                "png": "/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/aigf-logo.webp",
+                "png": "/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/iamai-logo.webp",
+                "png": "/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "/static/social_icons/yt.webp",
+                "png": "/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "/static/social_icons/tw.webp",
+                "png": "/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "/static/social_icons/ig.webp",
+                "png": "/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Auto Raja Game",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Rogue Heist",
+              "link": "https://www.vpl.live/rogue-heist-shooter-game"
+            },
+            {
+              "text": "Fantasy Cricket App",
+              "link": "https://www.vpl.live/fantasy-cricket/app"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "https://www.vpl.live/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "Joining Bonus: Get 50 tokens!",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "pageName": "esports/league-rules",
+  "head": {
+    "title": "Mobile Premier League (vpl) Game Platform | vpl Live",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/esports/league-rules",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "581e379d1912d965dcce7081ec7cb5b59340939829f47c0ce1929ee636027dac"
+      },
+      {
+        "name": "description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "name": "keywords",
+        "content": "real money earning games, earn money playing games, online money earning games, online cash winning games, win real cash games, win real cash games, play and win cash, play games for cash, win real money games, play and earn money, play fantasy cricket and win cash daily, play fantasy cricket and win real cash"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live"
+      },
+      {
+        "property": "og:title",
+        "content": "Mobile Premier League (vpl) Game Platform | vpl Live"
+      },
+      {
+        "property": "og:description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          },
+          "actionButtonLabel": "Register with College ID",
+          "actionButtonIcon": {
+            "imageurl": {
+              "png": "/static/2x/right-arrow.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "register to vpl Tournament"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "justButtons": false
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            }
+          ]
+        }
+      },
+      {
+        "name": "backButton",
+        "isParent": true,
+        "data": {
+          "showDownload": false,
+          "backButtonImageurl": {
+            "png": "/static/2x/leftArrow.svg",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "infoIconImageurl": {
+            "png": "/static/2x/file.svg",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "infoTitle": "League Rules",
+          "cssClassList": ["top-back-button"],
+          "backButtonUrl": "/esports/cpl"
+        }
+      },
+      {
+        "name": "ListPoints",
+        "isParent": true,
+        "data": {
+          "header": "Registration & Gameplay Rules",
+          "cssClassList": ["esports-points-distribution"],
+          "description": [],
+          "declareGameList": [
+            "1. Every League needs minimum of 8 players. If a League fails to have 8 players, then it will stand cancelled.",
+            "2. In case of a tie, the actual prize may vary. vpl will not be liable in any way for such variation in the prizes and such variation will be at the sole discretion of vpl.",
+            "3. All scores are verified. In the event of a foul play, the participant unequivocally agrees that vpl shall have all rights to penalise including but not limited to immediate disqualification of the participant.",
+            "4. Total tax of 31.2% is applicable on winnings of Rs.10,000 and above - as per Govt. rules.",
+            "5. By taking part in this League, the player irrevocably consents to streaming the gameplay if the player reaches the national level. The player also irrevocably consents and give vpl the right to immediately disqualify in event the player does not cooperate with vpl, its stream partners or agents."
+          ],
+          "summaryList": []
+        }
+      },
+      {
+        "name": "FaqsComponent",
+        "isParent": true,
+        "data": {
+          "header": "Speed Chess",
+          "cssClassList": ["how-to-play-fantasy-cricket"],
+          "contentList": [
+            {
+              "paraTitle": "Gameplay",
+              "text": "Pieces can never move onto a square with one of their own pieces\n Pieces can be moved to take the place of an opponent's piece which is then captured\n Pieces are generally moved into positions where they can capture other pieces (by landing on their square and then replacing them)\n Pieces defend their own pieces in case of capture, or control important squares in the game\n The player with the white pieces always moves first\n Server Decides who will be the White and who will be Black\n The Host (Who has started searching first) becomes the White \n Once the Game starts, White Makes a move and then Black. This process continues until the End of the Game\n 2 seconds is added on every move for both the players"
+            },
+            {
+              "paraTitle": "Ways to draw a game",
+              "text": "Perpetual Check: If an opponent checks the enemy King repeatedly we call this perpetual check bit \n  Insufficient mating material:  When neither side has enough pieces on the board to checkmate the enemy king then the game is drawn. It is impossible to checkmate with: \nJust the two Kings on the board. \nKing and Bishop against a King\nKing and Knight against a King \nKing and two Knights against a King\n Threefold Repetition: If the same position occurs three times in a game then a player may claim a draw. The perpetual check position above is also a draw because the same position occurs three times\nDraw by agreement: Both players may feel that the position on the board is equal and consequently agree to a draw.\n Tap on X button and request for a draw"
+            },
+            {
+              "paraTitle": "Castling",
+              "text": "Castling is not possible if either the King or the Rook has moved \n All of the squares between the King and the Rook must be empty.\n If the King is in check it cannot castle out of check \n The King cannot castle if it has to cross a square which is being attacked by an enemy piece"
+            },
+            {
+              "paraTitle": "Check Scenarios",
+              "text": "If the King is under check, other pieces can be used to either block the check or kill the opponent's piece \n Other pieces shouldn't be able to move to a different location, it should be possible only if it blocks the check or kill the oppopnent's piece"
+            },
+            {
+              "paraTitle": "Game End Scenarios",
+              "text": "There are two scenarios of Game End\n 1. Check Mate \n2. Draw \n3.Timeup \n4.Resign \n \n Check Mate: The purpose of the game is to checkmate the opponent's king. This happens when the king is put into check and cannot get out of check.\n On minimizing the app, the opponent should win \nOn locking the device, the opponent should win \n On sliding down the Control Center/Notification bar, the game should not end  \n On minimizing the app before the match is about to start, the opponent should win \n On disconnecting from the Internet, the opponent should win and the user should get Connection lost popup"
+            },
+            {
+              "paraTitle": "Other Points",
+              "text": "On disconnecting and reconnecting to the Internet, Trying to Connect toast appears followed by Internet Lost toast\n\n When User A disconnects from the internet, 'Network Issue! Trying to reconnect' toast appears followed by 'Connection Lost' popup. User B receives 'Opponent is trying to reconnect' and the Results screen after 40 seconds\n\n User A - Turning Off and reconnecting to the internet immediately, 'Network Issue! Trying to reconnect' toast appears followed by 'Connection Lost' popup. User B receives 'Opponent is trying to reconnect' and the Results screen after 40 seconds\n\n User A - Switches from WiFi to Mobile Data, 'Network Issue! Trying to reconnect' toast appears followed by 'Connection Lost' popup. User B receives 'Opponent is trying to reconnect' and the Results screen after 40 seconds\n\n User A - Switches from Mobile Data to WiFi, 'Network Issue! Trying to reconnect' toast appears followed by 'Connection Lost' popup. User B receives 'Opponent is trying to reconnect' and the Results screen after 40 seconds\n\n On force closing the app during the gameplay, the opponent should win\n User A - Minimize the app and disconnect and reconnect to the internet, the game should end\nUser B will be declared winner.\n\n User A - Minimizes the app and doesn't relaunch for a while.\n User B - Receives the Results screen as a winner and shouldn't get 'Waiting for Opponent' screen\n\n User A - Minimizes and closes the app. User B wins and should stay in the Results UI\n User A - Launches the app and taps on the Find New Match. User B taps on the Find New Match in the Results UI\n By doing so, both should get matched without any error\n"
+            }
+          ]
+        }
+      },
+      {
+        "name": "FaqsComponent",
+        "isParent": true,
+        "data": {
+          "header": "Pool",
+          "cssClassList": ["how-to-play-fantasy-cricket"],
+          "contentList": [
+            {
+              "paraTitle": "Table Setup:",
+              "text": "To start the game, the object balls are placed in a triangular rack\nThe balls in the rack should remain in contact with one another.\n The order of the balls should be random, with the exceptions of the 8 ball, which must be placed in the center of the rack i.e., the middle of the third row\n Two back corner balls, one of which must be a stripe and the other a solid (it does not matter which one is solid or stripe and also which numbered ball).\n The cue ball is placed anywhere the breaker desires behind the head string."
+            },
+
+            {
+              "paraTitle": "Break:",
+              "text": "Any one player is randomly selected to break at the start of the game.\n If no object ball is pocketed on break, opponent gets the 'Ball in Hand’\n Players should not be assigned a group (solid/stripes) in the break shot no matter how many balls they pocket.\n An unsuccessful break will be considered a foul\n"
+            },
+            {
+              "paraTitle": "Fouls in Break",
+              "text": "If fewer than four balls reach the cushions, opponent gets 'Ball in hand\n If cue ball is pocketed on break', opponent gets Ball in hand\n If cue ball doesn’t hit any object ball, opponent gets Ball in hand\n Timer runs out, opponent gets 'Ball in hand"
+            },
+            {
+              "paraTitle": "Selection of the Suit:",
+              "text": "After a legal break in which user pockets an object ball/balls then he is given next turn. \n In next turn if user pockets any object ball either Solid or stripes, user is assigned to a suit If user in his turn pockets more than 1 object ball, then the object ball which is pocketed first, that suit will be assigned to the user\n If user pockets the Cue ball while pocketing an object ball, then opponent will get the turn\n If user pockets the 8-ball, then opponent wins\n If user runs out of time, then opponent gets the turn, and same continues till one is assigned to a suit\n Both user will get text of their respective suit(eg:'You are solid'/'You are stripes’)\n Once the suits are assigned, they remain fixed throughout the game.\n Once the suit are assigned, then user has to pocket the object balls of that suit, pocketing other suit's object balls wil be considered foul\n Only after pocketing all the object balls of that suit, user is allowed to pocket the 8-ball"
+            },
+            {
+              "paraTitle": "Turn-taking:",
+              "text": "A player continues to shoot until committing a foul or failing to legally pocket an object ball.\n Once user commits a foul or fails to pocket an object ball for his suit, opponent gets the turn\n If user runs out of time, then opponent gets the turn\n If cue ball hits the 8-ball first while user strikes then user gets the turn\n"
+            },
+
+            {
+              "paraTitle": "Scenarios to get Ball in hand",
+              "text": "If user pockets the cue ball, opponent gets ball in hand\n If user pockets any onject ball/balls that is not form his suit, opoonent gets ball in hand\n If user runs out of time, opponent gets ball in hand\n If user strikes and the cue ball doesn’t hit any object ball on table\n if cue ball hits the 8 Ball first while striking and then any other object ball/balls, then opponent gets ball in hand"
+            },
+            {
+              "paraTitle": "Winning:",
+              "text": "If user successfully pockets all the object balls from his suit then the 8-ball\n If opponent pockets the 8-ball on break, then user is declared winner\n If opponent pockets the 8-ball before pocketing all other object balls from his suit, then user is declared winner\n If opponent minimises the app and doesn’t maximises the app withinin reconnection timer, then user is declared as winner\n If opponent disconnects the internet and doesn’t reconnects within reconnection timer, then user is declared as winner\n If opponent kills the app, then user is declared as winner\n If opponent backgrounds and foregrounds the app 3 times(configurable), then user is declared as winner"
+            },
+            {
+              "paraTitle": "Match Cancellation:",
+              "text": "If both users get 'Internet disconnection' UI at same time by disconnecting at same time in-game\n If both users get 'Internet disconnection' UI at same time by minimising the app at same time and doesn’t foregrounds the app before reconnection timer ends in-game\n if any user backgrounds the app/ disconnects the internet at anytime during match making\n If one user has 'Internet Disconnection Lost' UI active, and other user kills the app, foregrounds the app or disconnects the internet and doesn’t reconnects before reconnection timer ends in-game"
+            },
+            {
+              "paraTitle": "Game result Screen:",
+              "text": "If user wins, he will get 'You Won' on game result screen\n Winner user's profile will have crown on it, with yellow background\n Winner user's profile will have Score as 1 and #1 in it with the amount won\n If user lose, he will get 'You Lost' on game result screen\n User who lost the match will have Blue coloured background in his profile with #2 and score 0 in it"
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "FaqsComponent",
+        "isParent": true,
+        "data": {
+          "header": "Rogue Heist",
+          "cssClassList": ["how-to-play-fantasy-cricket"],
+          "contentList": [
+            {
+              "paraTitle": "Instructions",
+              "text": "The game shall be played in Brawl Mode. The players are bound to follow the following instructions-\n\n Brawl is a 1vs 9 mode, which means each player against every other player.\n The basic rule of the game is to steal money to win.\n Players need to get to the laptop bag as soon as they spawn.\n To know the location of the Laptop bag, players need to follow the bag marker.\n There are two stages for stealing: picking up the laptop bag & hacking.\n A player who doesn’t hack after picking up the bag doesn’t get any money.\n Money transfer continues for as long as the player holds on the Laptop bag while hacking.\n The only time when the bag marker disappears is when a player has picked up a bag but is still not hacking.\n All players get notified when any player begins hacking, bag marker also appears then.\n Money transfer stops when a player with the bag is killed.\n There’s no in-game scoreboard/leaderboard to depict who has stolen the most money while the game is still on.\n The leaderboard comes when the game finishes.\n The highest stealer wins the Brawl."
+            },
+            {
+              "paraTitle": "Winning Criteria - ",
+              "text": "Player with the highest money stolen wins\n.If the money stolen is the same for players, then the player with more XP wins.\n If the money stolen & XP is the same for players, then the player who has more headshots wins."
+            },
+            {
+              "paraTitle": "Map Selection",
+              "text": "If the number of players is 5 or less then Train yard.\n If the number of players is more than 5 then City Map."
+            },
+            {
+              "paraTitle": "Game Length & Respawn Time",
+              "text": "Game Length: 7 minutes.\n Respawn Time: 4 seconds."
+            },
+            {
+              "paraTitle": "Weapon Selection",
+              "text": "Random Weapon on Every Respawn."
+            }
+          ]
+        }
+      },
+      {
+        "name": "FaqsComponent",
+        "isParent": true,
+        "data": {
+          "header": "World Cricket Championship",
+          "cssClassList": ["how-to-play-fantasy-cricket"],
+          "contentList": [
+            {
+              "paraTitle": "1V1 - Bat & Bowl",
+              "text": ""
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "Table",
+        "isParent": true,
+        "data": {
+          "cssClassList": ["rules-of-rummy"],
+          "contentList": [
+            ["User 1 has more score than opponent user 2", "User 1 wins"],
+            [
+              "User 1 minimise the game during matchmaking/ in-game",
+              "User 2 wins"
+            ],
+            [
+              "User 1 faces internet fluctuation during matchmaking/in-game and fails to reconnect before reconnection timer ends",
+              "User 2 wins"
+            ],
+            [
+              "User 1 faces network switches from wifi to mobile data and vice versa  - fails to reconnect before reconnection timer ends",
+              "User 2 wins"
+            ],
+            [
+              "If user 1 fails to deliver more than 3 deliveries (auto delivery)",
+              "User 2 wins"
+            ],
+            [
+              "If user 1 bowls more than 4 illegal deliveries (extras)",
+              "User 2 wins"
+            ],
+            ["If user 1 takes all wickets of the opponent", "User 1 wins"],
+            [
+              "If both users have same score (irrespective of no.of wickets down)",
+              "TIE"
+            ],
+            ["Both user kills the app same time", "Match cancel"]
+          ]
+        }
+      },
+
+      {
+        "name": "FaqsComponent",
+        "isParent": true,
+        "data": {
+          "header": "",
+          "cssClassList": ["how-to-play-fantasy-cricket"],
+          "contentList": [
+            {
+              "paraTitle": "Scoring",
+              "text": ""
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "Table",
+        "isParent": true,
+        "data": {
+          "cssClassList": ["rules-of-rummy", "esports-league-rules"],
+          "contentList": [
+            ["Boundary -Six", "2400"],
+            ["Boundary - Four", "1600"],
+            ["Singles run", "100"],
+            ["Double runs bonus", "30"],
+            ["Triple runs bonus", "75"],
+            ["Four runs bonus", "110"],
+            ["Grounded shots distance bonus", "11"],
+            ["Six distance bonus (per meter)", "1"],
+            ["Four shot speed bonus (Kph)", "1"],
+            ["Bowled", "-880"],
+            ["Stumping/ Caught & bowled", "-720"],
+            ["LBW/ Run outs", "-560"],
+            ["Dot balls", "-90"]
+          ]
+        }
+      }
+    ]
+  }
+}

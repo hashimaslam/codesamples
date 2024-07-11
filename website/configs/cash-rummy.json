@@ -1,0 +1,2237 @@
+{
+  "pageName": "rummy/types-of-rummy/cash-rummy",
+  "head": {
+    "title": "Play Cash Rummy Games and Win Daily Cash Rewards",
+    "canonical": "https://www.vpl.live/rummy/types-of-rummy/cash-rummy",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Download and play cash rummy games on India’s most trusted platform against real opponents and stand a chance to win real money everyday"
+      },
+      {
+        "name": "keywords",
+        "content": "play Rummy, online Rummy, play Rummy & earn real money, play Rummy online, Rummy games online"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/rummy/types-of-rummy/cash-rummy"
+      },
+      {
+        "property": "og:title",
+        "content": "Play Cash Rummy Games and Win Daily Cash Rewards"
+      },
+      {
+        "property": "og:description",
+        "content": "Download and play cash rummy games on India’s most trusted platform against real opponents and stand a chance to win real money everyday"
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png."
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "head": [
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/hamburger/vpl-logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy-games"
+          },
+          "menuList": [{}],
+          "desktopHeaderLinks": [
+            {
+              "name": "vpl Games",
+              "link": false,
+              "css": "normal--link show--more"
+            },
+            {
+              "name": "vpl Esports",
+              "link": true,
+              "css": "menu--button normal--link ",
+              "url": "https://www.vpl.live/esports"
+            },
+            {
+              "name": "About",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://about.vpl.live/"
+            },
+            {
+              "name": "Blog",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://www.vpl.live/blog/"
+            },
+            {
+              "name": "FAQs",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://help.vpl.live/faq/"
+            },
+            {
+              "name": "Help",
+              "link": true,
+              "url": "https://help.vpl.live/",
+              "css": "help--button",
+              "imgUrl": {
+                "png": "/static/hamburger/help_icon.png",
+                "alt": "help icon",
+                "sizeInBytes": 20000
+              }
+            }
+          ],
+          "menuListDesktop": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/fantasy_games_icon.png",
+                  "alt": "fantays games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/card_games_desktop.png",
+                  "alt": "card games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/sports_games_icon.png",
+                  "alt": "Sports games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/casual_games_desktop.png",
+                  "alt": "casual games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/arcade_games_desktop.png",
+                  "alt": "arcade games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/brain_games_desktop.png",
+                  "alt": "brain games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Sudoku",
+                    "link": "https://www.vpl.live/Sudoku"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Puzzle Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/puzzle_games_desktop.png",
+                  "alt": "puzzle games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ]
+          ],
+          "menuListMobile": [
+            {
+              "gameType": "Fantasy",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/fantasy.png",
+                "alt": "fantays image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fantasy Cricket",
+                  "link": "https://www.vpl.live/fantasy-cricket",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-cricket.png",
+                    "alt": "fantays cricket image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Football",
+                  "link": "https://www.vpl.live/fantasy-football",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-football.png",
+                    "alt": "fantays football image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Basketball",
+                  "link": "https://www.vpl.live/fantasy-basketball",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-basketball.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Games",
+                  "link": "https://www.vpl.live/fantasy-games",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy_icon.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Card Skill",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/card-skill.png",
+                "alt": "card skill image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Rummy",
+                  "link": "https://www.vpl.live/rummy",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-5.png",
+                    "alt": "rummy image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Poker",
+                  "link": "https://www.vpl.live/poker",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-1.png",
+                    "alt": "poker image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Call Break",
+                  "link": "https://www.vpl.live/call-break-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container.png",
+                    "alt": "call break image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Sports Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/sport_games.png",
+                "alt": "sports games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Wcc2",
+                  "link": "https://www.vpl.live/world-cricket-championship-wcc2",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-10.png",
+                    "alt": "wcc2",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Arcade Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/arcade_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fruit Dart",
+                  "link": "https://www.vpl.live/fruit-dart-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-12.png",
+                    "alt": "fruit dart",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fruit Chop",
+                  "link": "https://www.vpl.live/fruit-chop",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-14.png",
+                    "alt": "fruti chop",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Casual Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/casual_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Carrom",
+                  "link": "https://www.vpl.live/carrom",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-4.png",
+                    "alt": "Carrom image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Pool",
+                  "link": "https://www.vpl.live/pool",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-9.png",
+                    "alt": "Pool image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Ludo",
+                  "link": "https://www.vpl.live/ludo",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-8.png",
+                    "alt": "Ludo image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Runner No.1",
+                  "link": "https://www.vpl.live/runner-no1",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-11.png",
+                    "alt": "Runner No.1 image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Monster Truck",
+                  "link": "https://www.vpl.live/monster-truck",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-13.png",
+                    "alt": "monster image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Go Ride",
+                  "link": "https://www.vpl.live/go-ride",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-15.png",
+                    "alt": "go ride image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Brain Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/brain_games.png",
+                "alt": "brain games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Sudoku",
+                  "link": "https://www.vpl.live/Sudoku",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-3.png",
+                    "alt": "Sudoku",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Speed Chess",
+                  "link": "https://www.vpl.live/chess",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-7.png",
+                    "alt": "Speed Chess image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Puzzle Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/puzzle_games.png",
+                "alt": "Puzzle Games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Bubble Shooter",
+                  "link": "https://www.vpl.live/bubble-shooter",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-2.png",
+                    "alt": "Bubble Shooter image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Build Up",
+                  "link": "https://www.vpl.live/build-up-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-6.png",
+                    "alt": "build up image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "vpl Esports",
+              "expandable": false,
+              "newGame": true,
+              "link": "https://www.vpl.live/esports",
+              "imgUrl": {
+                "png": "/static/hamburger/vpl-esports.png",
+                "alt": "vpl Esports image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "About us",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://about.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/about-us.png",
+                "alt": "About us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Blog",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://www.vpl.live/blog/",
+              "imgUrl": {
+                "png": "/static/hamburger/blog.png",
+                "alt": "Blog image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "FAQs",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://help.vpl.live/faq/",
+              "imgUrl": {
+                "png": "/static/hamburger/contact-us.png",
+                "alt": "Contact us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Help",
+              "expandable": false,
+              "newGame": false,
+              "cssClassList": "",
+              "link": "https://help.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/help.png",
+                "alt": "Help image",
+                "sizeInBytes": 10000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "bannerimageipl",
+        "isParent": true,
+        "data": {
+          "showDownload": false,
+          "showEmail": true,
+          "defaultHiddenHeaderComponent": true,
+          "cssClasses": "banner-container banner-small  full-width-banner-header fantasy-cricket-banner",
+          "mobileImageurl": {
+            "webp": "/static/banners/Content_first_Rummy_Mobile.webp",
+            "png": "/static/banners/Content_first_Rummy_Mobile.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/Content_first_Rummy_Desktop.webp",
+            "png": "/tatic/banners/Content_first_Rummy_Desktop.png",
+            "width": 1920,
+            "height": 366,
+            "sizeInBytes": 200000
+          },
+
+          "contentTextMobile": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "h1",
+                "text": "Play Cash Rummy on vpl & Win Real Money",
+                "cssClasses": "dark-header",
+                "styles": {
+                  "color": "#230046",
+                  "text-align": "left"
+                }
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "",
+                "cssClasses": "light-grey-header"
+              }
+            }
+          ],
+          "contentTextDesktop": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "h1",
+                "text": "Play Cash Rummy on vpl & Win Real Money",
+                "cssClasses": "dark-header text_medium",
+                "styles": {
+                  "max-width": "80%"
+                }
+              }
+            }
+          ],
+          "breadCrumbs": {
+            "status": true,
+            "data": [
+              {
+                "link": "https://www.vpl.live/rummy",
+                "title": "Rummy"
+              },
+              {
+                "link": "https://www.vpl.live/rummy/types-of-rummy",
+                "title": "Types of Rummy"
+              },
+              {
+                "link": "https://www.vpl.live/rummy/types-of-rummy/cash-rummy",
+                "title": "Cash Rummy"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsmsipl",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "inputFieldBackgroundColor": "white-20"
+        }
+      },
+      {
+        "name": "stickysidebar",
+        "isParent": true,
+        "data": [
+          {
+            "title": "Rummy Tips",
+            "link": "https://www.vpl.live/rummy/tips-to-play-rummy",
+            "path": "/rummy/tips-to-play-rummy"
+          },
+          {
+            "title": "Indian Rummy ",
+            "link": "https://www.vpl.live/rummy/types-of-rummy/indian-rummy",
+            "path": "/rummy/types-of-rummy/indian-rummy"
+          },
+          {
+            "title": "Points Rummy",
+            "link": "https://www.vpl.live/rummy/types-of-rummy/points-rummy",
+            "path": "/rummy/types-of-rummy/points-rummy"
+          },
+          {
+            "title": "21 Card Rummy",
+            "link": "https://www.vpl.live/rummy/types-of-rummy/21-card-rummy",
+            "path": "/rummy/types-of-rummy/21-card-rummy"
+          },
+          {
+            "title": "Pool Rummy",
+            "link": "https://www.vpl.live/rummy/types-of-rummy/pool-rummy",
+            "path": "/rummy/types-of-rummy/pool-rummy"
+          },
+          {
+            "title": "13-card Rummy",
+            "link": "https://www.vpl.live/rummy/types-of-rummy/13-card-rummy",
+            "path": "/rummy/types-of-rummy/13-card-rummy"
+          },
+          {
+            "title": "Rules of Rummy",
+            "link": "https://www.vpl.live/rummy/rules-of-rummy",
+            "path": "/rummy/rules-of-rummy"
+          },
+          {
+            "title": "Types of Rummy",
+            "link": "https://www.vpl.live/rummy/types-of-rummy",
+            "path": "/rummy/types-of-rummy"
+          },
+          {
+            "title": "Rummy FAQs",
+            "link": "https://www.vpl.live/rummy/faqs",
+            "path": "/rummy/faqs"
+          }
+        ]
+      },
+      {
+        "name": "tableofcontent",
+        "isParent": true,
+        "data": {
+          "data": [
+            {
+              "title": "Introduction"
+            },
+            {
+              "title": "List of Rummy Cash Games Available at vpl to Play Rummy Online"
+            },
+            {
+              "title": "How to Play Real Cash Rummy on vpl?"
+            },
+            {
+              "title": "Rules to play Cash Rummy Games"
+            },
+            {
+              "title": "Steps to Play Cash Rummy Online for Real Money"
+            },
+            {
+              "title": "Cash Rummy Tips & Tricks to Win"
+            },
+            {
+              "title": "Score Calculation in Cash Rummy"
+            },
+            {
+              "title": "Why choose vpl for Cash Rummy?"
+            },
+            {
+              "title": "FAQs"
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "H2header",
+        "id": "Introduction",
+        "isParent": true,
+        "data": {
+          "header": "Introduction",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-left",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top  md_section__margin--bottom",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Cash rummy is gaining popularity day by day. It provides a way for many gaming enthusiasts to enjoy rummy games online and win real cash prizes. Although winning real money through cash rummy games seems impressive, it isn’t that easy. One needs to know these games in and out; the different rummy variants, the gameplay of each variant, rummy rules, strategies, and tips and tricks that can help one crack rummy cash games.",
+
+                  "Here is everything you need to know before playing cash rummy."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "id": "List of Rummy Cash Games Available at vpl to Play Rummy Online",
+        "isParent": true,
+        "data": {
+          "header": "List of Rummy Cash Games Available at vpl to Play Rummy Online",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-left",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top",
+          "showMore": false,
+          "components": [
+            {
+              "name": "HorizontalImg",
+              "data": {
+                "cssClassList": "img-css",
+                "imgUrl": {
+                  "png": "/static/rummy/cash-Rummy/cash_rummy1_desktop.png",
+                  "webp": "/static/rummy/cash-Rummy/cash_rummy1_desktop.png",
+                  "alt": "rummy image payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top  md_section__margin--bottom",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "vpl offers online rummy cash games that are variants of 13-card rummy – Pool Rummy, Points Rummy, and Deals Rummy. All these online rummy games are played on 2 and 5-player tables on vpl.   You can choose to play rummy from a wide range of cash games available for each variant."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Pool Rummy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Pool rummy is played for a fixed entry fee that forms the prize pool. It is the longest variation of Indian Rummy games comprising two-game variants - 101 pool and 201 pool.",
+
+                  "A player with 101 points (in 101 pool rummy) or 201 points (in 201 pool rummy) is eliminated, and the one who survives until the end wins the game. So, the key to ace this game is to lose the high-value cards and keep the scores as low as possible."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Points Rummy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Perhaps, the easiest variant for beginners, Points Rummy is one of the most played variants of cash rummy games in the country. Here the players play for points that have a pre-decided rupee value, and the first one to make a valid declaration with zero points wins the game.",
+
+                  "Like the other variations on 13 Card Rummy, the players have to meld their cards into at least two sequences, including one pure sequence. You can get a maximum of 80 points in this cash rummy variant."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Deals Rummy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Deals rummy is a real cash rummy game with a modified variation of points rummy played for a predefined number of deals. All players receive a fixed number of chips at the starting of the game based on the entry fee paid by each one.",
+
+                  "The objective of this rummy cash game is to make a valid declaration with at least two sequences, including a pure sequence. While making a valid declaration, you must have zero points with no ungrouped cards to win. After the pre-decided deals are played, the one with the highest number of chips wins the game."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "id": "How to Play Real Cash Rummy on vpl?",
+        "isParent": true,
+        "data": {
+          "header": "How to Play Real Cash Rummy on vpl?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-left",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top  md_section__margin--bottom",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Excited to play rummy online games on the vpl mobile app? The app is available for free download for both Android and iOS users. You can also get a download link by entering your mobile number on the vpl website. After downloading the app, click on the rummy online game and select your favorite cash <a href='https://www.vpl.live/rummy/types-of-rummy' class='link'>Rummy variant</a>. You can choose to play online rummy from the three available Indian rummy games and win real money. After selecting the variant, you can select the rummy cash game table of your choice and get started with the cash rummy game."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "id": "Rules to play Cash Rummy Games",
+        "isParent": true,
+        "data": {
+          "header": "Rules to play Cash Rummy Games",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-left",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top",
+          "showMore": false,
+          "components": [
+            {
+              "name": "HorizontalImg",
+              "data": {
+                "cssClassList": "img-css",
+                "imgUrl": {
+                  "png": "/static/rummy/cash-Rummy/cash_rummy2_desktop.png",
+                  "webp": "/static/rummy/cash-Rummy/cash_rummy2_desktop.png",
+                  "alt": "rummy image payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top  md_section__margin--bottom",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Before beginning to play rummy cash game, there are some basic <a href='https://www.vpl.live/rummy/rules-of-rummy' class='link'>rummy rules</a> you must follow to get through the games. When you play rummy online, you should declare at least two sequences - one mandatory pure sequence and an impure sequence, and the remaining cards can be in sets or sequences. A pure sequence is nothing but a sequence without the joker card. You must always double-check their cards before clicking the ‘Declare’ button.",
+
+                  "If the cards are declared in incorrect sequences, the declaration will be considered invalid."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Rules to play pool rummy"
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24 remove-padding-last",
+                "description": [
+                  {
+                    "content": [
+                      "Players join a table by paying a fixed entry fee."
+                    ]
+                  },
+                  {
+                    "content": ["Each person is dealt 13 cards randomly."]
+                  },
+                  {
+                    "content": [
+                      "Players can’t use a joker to covplete a pure sequence."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Middle drop points are 40 in 101 pool and 50 in 201 pool."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Wrong declaration points are capped at a maximum of 80 points."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "All games have two types of Joker - Printed Joker and Wild Card joker"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Players that reach 101 points (in 101 pool) or 201 points (in 201 pool) are eliminated."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Rules to play points rummy"
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24 remove-padding-last",
+                "description": [
+                  {
+                    "content": [
+                      "The players play for points that have a pre-decided rupee value in this rummy cash game."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "The round ends when someone makes a valid declaration with zero points."
+                    ]
+                  },
+                  {
+                    "content": ["Each person is dealt 13 cards randomly."]
+                  },
+                  {
+                    "content": [
+                      "The first card from the Draw Pile is the joker of the game."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Players can’t use a joker to covplete a pure sequence."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "All rummy games have two types of Joker - Printed Joker and Wild Card joker"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Players must meld their cards in at least two sequences and bring their score to zero to declare."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "One deck of cards is used on 2-player tables, and two decks are used on 5-player tables."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Rules to play deals rummy"
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24 remove-padding-last",
+                "description": [
+                  {
+                    "content": [
+                      "Players play for a pre-decided number of deals in this rummy cash game."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Each person is allocated a fixed number of chips."
+                    ]
+                  },
+                  {
+                    "content": ["Each person is dealt 13 cards randomly."]
+                  },
+                  {
+                    "content": [
+                      "All rummy games have two types of Joker - Printed Joker and Wild Card joker."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "The first drop leads to the loss of 20 chips, and the middle drop leads to the loss of 40 chips."
+                    ]
+                  },
+                  {
+                    "content": ["You cannot drop out on a 2-player table."]
+                  },
+                  {
+                    "content": [
+                      "The one with the maximum number of chips at the end of the deals is declared the winner."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "The winner of a hand gets all chips lost by other players."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "id": "Steps to Play Cash Rummy Online for Real Money",
+        "isParent": true,
+        "data": {
+          "header": "Steps to Play Cash Rummy Online for Real Money",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-left",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top  md_section__margin--bottom",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Cash Rummy is easy to understand, learn, and play for real money. The gameplay is sivple and straightforward. To begin playing rummy online games for real cash prizes, you will have to download the vpl app on your mobile or tablet and register. Choose the cash rummy games variant you want to play and follow these steps to win real money."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Step 1: Dealing"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "At the beginning of the rummy cash game, each person is dealt 13 cards in random order."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Step 2: Drawing and discarding cards in rummy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "All online cash rummy games have a Draw Pile (closed deck) and a Discard Pile (open deck). The first card from the draw pile is the joker of the game and is placed face-up at the bottom of the discard pile. The second card from the draw pile is placed face-up at the center of the table to form the discard pile. When the game begins, you can pick cards from either pile to form your sets and sequences. Each time you pick a card from the discard or draw pile, you must discard one card from your hand to the discard pile."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Step 3: Melding Cards"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "While you discard and draw cards, you need to simultaneously meld all the 13 cards into at least two sequences, including a pure sequence and the rest of the cards in any sequence or set. The objective and gameplay of each online rummy game will depend on the variant you are playing."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "m-subheader subheader--h3",
+                "text": "Step 4: Declaring the rummy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "After arranging the cards in valid sequences and sets, you can declare the game. You will be allotted a time frame to declare cards, after which the cards are validated, and the score and winnings are calculated. If you make an invalid declaration, you get penalty points that may be added or deducted based on the online rummy variant being played.",
+
+                  "Play cash rummy games and grab your chance to win exciting cash prizes."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "id": "Cash Rummy Tips & Tricks to Win",
+        "isParent": true,
+        "data": {
+          "header": "Cash Rummy Tips & Tricks to Win",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-left",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top  md_section__margin--bottom",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "While it’s easy to understand rummy rules and learn the games, winning the online rummy game can be tricky. That is why you need to know several tips and tricks to win the rummy cash games. By following these cash rummy tricks and tips and playing several practice games, you can certainly ace these real cash rummy games."
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24 remove-padding-last",
+                "description": [
+                  {
+                    "content": [
+                      "<b>Prioritize Pure Sequence:</b> Since all the rummy cash games require at least one pure sequence, make it your priority to first form a pure sequence over an impure sequence or set."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<b>Use the joker card wisely:</b> Be mindful of the rule that the joker card cannot be used to create a pure sequence. Use your joker cards to form impure sequences or sets."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<b>Keep an eye on the discarded cards:</b> Especially on a 2-player table, this trick will help you predict your opponent’s sequences and help you avoid discarding a card that may be useful for the opponent."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<b>Choose your drop wisely:</b> If you plan to drop out in the initial phases due to a weak hand or any other reason, it’s recommended to go for the First Drop over a Middle Drop to avoid more penalty points."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<b>Don’t hold on to high-value cards:</b> In the cash rummy variants where you require a zero score, it is wise to get rid of the high-value cards at the earliest if they do not fit in a sequence or set. This will help you reduce your points and perhaps win rummy cash games."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "id": "Score Calculation in Cash Rummy",
+        "isParent": true,
+        "data": {
+          "header": "Score Calculation in Cash Rummy",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-left",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top md_section__margin--bottom",
+          "showMore": false,
+          "components": [
+            {
+              "name": "HorizontalImg",
+              "data": {
+                "cssClassList": "img-css",
+                "imgUrl": {
+                  "png": "/static/rummy/cash-Rummy/cash_rummy_3_desktop.png",
+                  "webp": "/static/rummy/cash-Rummy/cash_rummy_3_desktop.png",
+                  "alt": "rummy image payment",
+                  "width": 488,
+                  "height": 884,
+                  "sizeInBytes": 150000
+                }
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24 remove-padding-last",
+                "description": [
+                  {
+                    "content": [
+                      "Every card has a certain number of points. For instance,",
+
+                      ".  King, Queen, Jack, and Ace carry 10 points each.",
+
+                      ".  All numbered cards carry the same points as their face value.",
+
+                      ".  Jokers carry zero points."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "The winning player gets zero rummy points. The player who loses gets points based on the total value of all ungrouped cards in their hand, and scoring is done accordingly."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "If they can’t make the two sequences, including a pure, the value of all cards is added and capped at 80 points."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "If the player has formed two sequences, including a pure, the point value of cards not in any combination is calculated."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "If the player finishes without covpleting the objective, the player loses the card game, and the value of all the cards in their hand is calculated irrespective of whether the player has formed a pure sequence or not."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "If a player misses three turns consecutively, the player loses the game, and the point value of all cards in their hand is calculated."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "id": "Why choose vpl for Cash Rummy?",
+        "isParent": true,
+        "data": {
+          "header": "Why choose vpl for Cash Rummy?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-left",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "md_section__margin--top md_section__margin--bottom",
+          "showMore": false,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Playing cash rummy games on vpl helps one engage in a friendly competition. <a href='https://www.vpl.live/' class='link'>vpl</a> provides a platform for beginners as well as experts in rummy to hone their skills. The ease of accessibility makes it a popular gaming platform amongst budding gaming enthusiasts. Here’s why you must choose vpl for Cash Rummy:"
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24 remove-padding-last",
+                "description": [
+                  {
+                    "content": ["Instant Cash Withdrawals"]
+                  },
+                  {
+                    "content": ["Fairplay Protect"]
+                  },
+                  {
+                    "content": ["RNG Certified"]
+                  },
+                  {
+                    "content": ["100% Secure"]
+                  },
+                  {
+                    "content": ["No Bots Allowed"]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Play online rummy now on vpl and win real money!"
+                ]
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "H2header",
+        "isParent": true,
+        "id": "FAQs",
+        "data": {
+          "header": "FAQs",
+          "styles": {
+            "color": "#230046",
+            "padding-top": "24px"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "FaqsComponent",
+        "id": "FAQs",
+        "isParent": true,
+        "data": {
+          "cssClassList": ["section__margin--top"],
+          "content": [
+            {
+              "name": "Can I play for free, or is every game a cash game?",
+              "description": [
+                "When you play rummy on the vpl online rummy platform, all the rummy game variations are cash games. If you are playing rummy online for the first time, it's advisable to try out the free rummy games to improve your rummy skills. Once you are confident enough, you can directly start playing rummy cash games to win real money."
+              ]
+            },
+            {
+              "name": "What is the range of entry fees for cash rummy games ?",
+              "description": [
+                "The real cash rummy games are available for rummy players with varied skills and experience. The entry fee for playing online rummy on vpl usually ranges between Rs. 1 to Rs. 10,000. You can choose a cash game based on your rummy skills and experience. "
+              ]
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "sociallinks",
+        "isParent": true,
+        "data": {
+          "iconLinks": [
+            {
+              "link": "https://www.facebook.com/sharer/sharer.php?u=https://vpl.live/rummy/types-of-rummy/cash-rummy",
+              "imgUrl": {
+                "png": "/static/facebook_light.svg",
+                "alt": "fb icon",
+                "sizeInBytes": 20000
+              }
+            },
+            {
+              "link": "https://twitter.com/intent/tweet?url=https://vpl.live/rummy/types-of-rummy/cash-rummy",
+              "imgUrl": {
+                "png": "/static/twitter_light.svg",
+                "alt": "tw icon",
+                "sizeInBytes": 20000
+              }
+            },
+            {
+              "link": "http://www.linkedin.com/shareArticle?mini=true&url=https://www.vpl.live/rummy/types-of-rummy/cash-rummy",
+              "imgUrl": {
+                "png": "/static/linkedin_light.svg",
+                "alt": "li icon",
+                "sizeInBytes": 20000
+              }
+            }
+          ],
+          "header": "Play Rummy, Win Real Money"
+        }
+      },
+      {
+        "name": "mobilelinks",
+        "isParent": true,
+        "data": {
+          "links": [
+            {
+              "title": "Rummy Tips",
+              "link": "https://www.vpl.live/rummy/tips-to-play-rummy"
+            },
+            {
+              "title": "Indian Rummy ",
+              "link": "https://www.vpl.live/rummy/types-of-rummy/cash-rummy"
+            },
+            {
+              "title": "Points Rummy",
+              "link": "https://www.vpl.live/rummy/types-of-rummy/points-rummy"
+            },
+            {
+              "title": "21 Card Rummy",
+              "link": "https://www.vpl.live/rummy/types-of-rummy/21-card-rummy"
+            },
+            {
+              "title": "Pool Rummy",
+              "link": "https://www.vpl.live/rummy/types-of-rummy/pool-rummy"
+            },
+            {
+              "title": "13-card Rummy",
+              "link": "https://www.vpl.live/rummy/types-of-rummy/13-card-rummy"
+            },
+            {
+              "title": "Rules of Rummy",
+              "link": "https://www.vpl.live/rummy/rules-of-rummy"
+            },
+            {
+              "title": "Types of Rummy",
+              "link": "https://www.vpl.live/rummy/types-of-rummy"
+            },
+            {
+              "title": "Rummy FAQs",
+              "link": "https://www.vpl.live/rummy/faqs"
+            }
+          ]
+        }
+      },
+      {
+        "name": "articles",
+        "isParent": true,
+        "data": {
+          "content": [
+            {
+              "title": "Rummy Cash Withdrawal Process – vpl's Instant Money Withdrawal",
+              "description": "Online gaming platform vpl helps you play rummy online without any worries & offers a seamless rummy cash withdrawal process.",
+              "desktopImg": "/static/banners/rummy_withdrawl.webp",
+              "mobileImg": "/static/banners/rummy_withdrawl.webp",
+              "href": "https://www.vpl.live/blog/rummy-cash-withdrawal-process-know-about-vpls-instant-money-withdrawal/"
+            },
+            {
+              "title": "Rummy Tournament Strategies",
+              "description": "As rummy is a skill-based game, here are some useful rummy tournament strategies that will help you win games and succeed.",
+              "desktopImg": "/static/banners/article3_indian_rummy.webp",
+              "mobileImg": "/static/banners/article3_indian_rummy.webp",
+              "href": "https://www.vpl.live/blog/rummy-tournament-strategies/"
+            },
+            {
+              "title": "Top Rummy Game Tricks to Sharpen Your Rummy Skills",
+              "description": "As you play more rummy games, your rummy skills will sharpen. Here are top rummy game tricks to upgrade your skills.",
+              "desktopImg": "/static/banners/article3_cash_rummy.webp",
+              "mobileImg": "/static/banners/article3_cash_rummy.webp",
+              "href": "https://www.vpl.live/blog/top-rummy-game-tricks-to-sharpen-your-rummy-skills/"
+            }
+          ]
+        }
+      }
+    ],
+    "footer": [
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            }
+          ],
+          "mobileFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Sudoku",
+                    "link": "https://www.vpl.live/Sudoku"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://www.facebook.com/Playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://www.instagram.com/playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ]
+          ],
+          "desktopFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Sudoku",
+                    "link": "https://www.vpl.live/Sudoku"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://www.facebook.com/Playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://www.instagram.com/playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ]
+          ],
+          "aboutUsLinks": [
+            {
+              "name": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "name": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "name": "Terms & Condition",
+              "link": "https://about.vpl.live/terms/"
+            }
+          ],
+          "copyRight": "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+        }
+      },
+      {
+        "name": "H4header",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "styles": {
+            "color": "rgba(25, 10, 40, 0.6)"
+          },
+          "header": "DISCLAIMER",
+          "cssClassList": [
+            "m-0",
+            "margin--m-top",
+            "ternary--header",
+            "trim-Regular",
+            "desktop-white-background",
+            "text-align-left"
+          ]
+        }
+      },
+      {
+        "name": "TextualContentComponent",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "paraStyle": {
+            "color": "rgba(25, 10, 40, 0.3)"
+          },
+          "cssClassList": [
+            "m-0",
+            "text-align-left",
+            "margin--xs-top",
+            "desktop-white-background",
+            "disclaimer-container",
+            "margin--disclaimer-bottom",
+            "copyright-section"
+          ],
+          "showMore": true,
+          "firstContentToShow": "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+          "description": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided \"AS IS\" and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats. vpl is available only to people above 18 years of age. vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App"
+          ]
+        }
+      },
+      {
+        "name": "stickySection",
+        "isParent": true,
+        "data": {
+          "show": true,
+          "showRewards": true,
+          "rewardsBar": {
+            "cssClasses": "",
+            "styles": {
+              "color": "#33FF66",
+              "background": "#230046"
+            },
+            "joiningBonusText": "Joining Bonus: Get",
+            "currency": "₹",
+            "tokenFreeText": "vpl Tokens Free!",
+            "freeText": " Free!",
+            "page": "home"
+          },
+          "showDeviceDownloadButton": true,
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "cssClasses": "action-link--footer--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "cssClasses": "download-btn-android download-btn-android--footer",
+            "showDownload": true,
+            "buttonPosition": "top",
+            "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+            "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also"
+          },
+          "cssClasses": "sticky-section",
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      }
+    ]
+  }
+}

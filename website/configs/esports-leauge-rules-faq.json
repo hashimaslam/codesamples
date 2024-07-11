@@ -1,0 +1,456 @@
+{
+  "pageName": "esports/league-rules-faqs",
+  "head": {
+    "title": "Mobile Premier League (vpl) Game Platform | vpl Live",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/esports/league-rules-faqs",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "581e379d1912d965dcce7081ec7cb5b59340939829f47c0ce1929ee636027dac"
+      },
+      {
+        "name": "description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "name": "keywords",
+        "content": "real money earning games, earn money playing games, online money earning games, online cash winning games, win real cash games, win real cash games, play and win cash, play games for cash, win real money games, play and earn money, play fantasy cricket and win cash daily, play fantasy cricket and win real cash"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live"
+      },
+      {
+        "property": "og:title",
+        "content": "Mobile Premier League (vpl) Game Platform | vpl Live"
+      },
+      {
+        "property": "og:description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          },
+          "actionButtonLabel": "Register with College ID",
+          "actionButtonIcon": {
+            "imageurl": {
+              "png": "/static/2x/right-arrow.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "register to vpl Tournament"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "justButtons": false
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            }
+          ]
+        }
+      },
+      {
+        "name": "backButton",
+        "isParent": true,
+        "data": {
+          "showDownload": false,
+          "backButtonImageurl": {
+            "png": "/static/2x/leftArrow.svg",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "infoIconImageurl": {
+            "png": "/static/2x/question.svg",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "infoTitle": "Help & FAQs",
+          "cssClassList": ["top-back-button"],
+          "backButtonUrl": "/esports/cpl"
+        }
+      },
+
+      {
+        "name": "RummyFaqs",
+        "isParent": true,
+        "data": {
+          "header": "FAQs",
+          "H1Header": true,
+          "cssClassList": ["esports-leauge-rules-faq"],
+          "faqsList": [
+            {
+              "header": "Can I participate in multiple games?",
+              "subParagraphes": [
+                "Yes, the participants can take part in all the four games. Please check-in the respective games you wish to participate in, via the registration link. "
+              ]
+            },
+            {
+              "header": "How many players can participate per college?",
+              "subParagraphes": [
+                "There is strictly no limit on the number of participants per college. More the participation, higher the chances for the college to earn more points."
+              ]
+            },
+            {
+              "header": "In case of a tie of points, how will the League winner be determined?",
+              "subParagraphes": [
+                "The team having more 1st position finishes will be deemed as the winner. In case of a tie, the second position holder, semi finalists, quarter fianlists (in that order) will be looked into in this order to determine the final winner."
+              ]
+            },
+            {
+              "header": "Where would the tournament be organised?",
+              "subParagraphes": [
+                "The tournament will be in Single Elimination Knockout Format. "
+              ]
+            },
+            {
+              "header": "Which IDs can I use to register?",
+              "subParagraphes": [
+                "For purposes of registration, your college identity card shall be required. Additionally, you shall be required to produce a Government Identity Card for your KYC Verification."
+              ]
+            },
+            {
+              "header": "Who are eligible to take part in CPL?",
+              "subParagraphes": [
+                "The Event is open for participation to individuals who are  enrolled and are bona fide students studying in colleges of any discipline that have been invited to participate in CPL, including but not limited to students pursuing undergraduate and postgraduate courses in such colleges."
+              ]
+            },
+            {
+              "header": "Can I take part in CPL if my college is not invited?",
+              "subParagraphes": [
+                "Generally, you cannot take part unless your college is invited to take part in CPL. In such cases, you can email your interest to take part in the next season to tournaments@vplgaming.com. However, if the organising team is able to accomodate, then your intent to register may be considered in exceptional circumstances only."
+              ]
+            },
+            {
+              "header": "Can the eligibility criterias vary without giving me a prior notification?",
+              "subParagraphes": [
+                "Yes, the eligibility criterias may be revised, modified and changed without any prior notification to the Participant and vpl reserves the sole discretion to do so."
+              ]
+            },
+            {
+              "header": "When can the participants be disqualified?",
+              "subParagraphes": [
+                "While vpl reserves the sole discretion to revise, modify and alter the disqualifications at any given point in time, there are three instances which result in immediate disqualification which are as follows-  i)Adopting unfair means either before or during  the course of the event or therereafter. ii)Participants using multiple user accounts. iii) Participants creating user account using false information or impersonating another."
+              ]
+            },
+            {
+              "header": "If before or during the course of the tournament I face a connectivity issue or I get disconnected who shall be liable?",
+              "subParagraphes": [
+                "It shall be the sole responsibility of the participants to take part in the tournament using a stable internet connection and vpl shall not be responsible for any disruption or inability of the participant to finish the game.  "
+              ]
+            },
+
+            {
+              "header": "How do I get to know the results of the game?",
+              "subParagraphes": [
+                "Once the tournament stage is over, the game wise results shall be visible on the CPL leaderboard within the app."
+              ]
+            },
+
+            {
+              "header": "If my user account was banned earlier, can I still take part in CPL?",
+              "subParagraphes": [
+                "If vpl is satisfied and is willing to reopen the account for purposes of CPL then you can take part. However, vpl reserves  the sole right to decide in these cases."
+              ]
+            },
+
+            {
+              "header": "For any queries pertaining to CPL, how can I get them resolved?",
+              "subParagraphes": [
+                "If you have any queries which you need to clairfy you can write to the official email id for CPL, i.e. tournaments@vplgaming.com."
+              ]
+            },
+            {
+              "header": "Can I register from personal id?",
+              "subParagraphes": [
+                "You can't register from your personal email ID. To verify that you belong to the college you mentioned, you need to register using either the college email ID or college ID card."
+              ]
+            },
+
+            {
+              "header": "Can I register if i have IOS?",
+              "subParagraphes": [
+                "Currently, CPL is open only to the android users. Therefore, it is not possible to register for CPL if you have iOS. We advise you to find any android device to register for CPL."
+              ]
+            },
+            {
+              "header": "Should I be on the latest version of the app?",
+              "subParagraphes": [
+                "For the smooth functioning of CPL, you should have the latest version of the app. The link provided to you will download the latest version of the app. After that if you receive any update for the app, you need to install that accordingly."
+              ]
+            },
+            {
+              "header": "Is there any entry fee for the registration in CPL?",
+              "subParagraphes": [
+                "We are not charging any entry fee for the registration in CPL. All students can register in CPL for free."
+              ]
+            },
+
+            {
+              "header": "How do I withdraw money from my vpl account?",
+              "subParagraphes": [
+                "You can withdraw money only from the winnings account in your account once your account is KYC verified. This verification is a one-time process which doesn’t need to be repeated unless you wish to make changes to your account. Once your account is verified, you can withdraw money from your vpl account."
+              ]
+            },
+            {
+              "header": "Prize distribution: how will it happen, when will it happen?",
+              "subParagraphes": [
+                "Once the particular tournament is covplete, winnings amount will be credited to your vpl account. You can easily withdraw the winnings amount from vpl account and transfer it to your bank account."
+              ]
+            },
+            {
+              "header": "Scholarship? Who will get it? How much?",
+              "subParagraphes": [
+                "Winner and Finalist of National stage tournaments of each game stand a chance to win scholarship.\n Winner will get scholarship of Rs. 1.5 Lakhs and finalist will get scholarship of Rs. 1 Lac."
+              ]
+            },
+            {
+              "header": "How to join the game after registration?",
+              "subParagraphes": [
+                "User can see Tournament schedule in 'College Premier League' after registration is covplete. User should join the tournament at the mentioned time by clicking there. User will also receive an SMS and notification as a reminder to join the tournament at the mentioned time"
+              ]
+            },
+            {
+              "header": "What is a Knock Out tournament?",
+              "subParagraphes": [
+                "Knock Out Tournament is a traditional format where players will be able to move to higher rounds and win higher money prizes by winning against other players and eliminating them. After registering, join the match at the specified time and defeat your opponent and get qualified to the next round, all the way till finals. The more rounds you win, the better cash prizes you get."
+              ]
+            },
+            {
+              "header": "Who is going to be my opponent?",
+              "subParagraphes": [
+                "You will be matched with another vpl user playing in the same battle room and we evploy algorithms to match players with your skill level; hence, increasing your chances to win."
+              ]
+            },
+            {
+              "header": "Once the game has started, where I can see my score and my opponent's score?",
+              "subParagraphes": [
+                "Your opponent's screen is visible: \n On the top of the screen, if you are currently playing. \n On the game over screen, if your game has ended and the opponent is still playing."
+              ]
+            },
+            {
+              "header": "What happens if I get disconnected while playing the game?",
+              "subParagraphes": [
+                "We try to reconnect you. At the end of 10 seconds, if you are not back, your game will end. You might win or lose based on your last recorded score."
+              ]
+            },
+            {
+              "header": "What happens if I minimise the app while playing the game?",
+              "subParagraphes": [
+                "Your game will end. You might win or lose based on your last recorded score."
+              ]
+            },
+            {
+              "header": "How do I pause the game in the middle?",
+              "subParagraphes": [
+                "You will not be able to pause the game in the middle"
+              ]
+            },
+            {
+              "header": "Do I need to be connected to the internet while playing the game?",
+              "subParagraphes": [
+                "Yes, you need to have a good internet connection for playing the game."
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

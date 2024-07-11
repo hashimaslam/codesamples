@@ -1,0 +1,39 @@
+{
+  "pageName": "lp/offer",
+  "head": {
+    "title": "Play Rummy Game Online & Earn Real Cash with vpl",
+    "faviconImageUrl": "https://www.vpl.live/static/favicon.ico",
+    "canonical": "https://www.vpl.live/lp/offer",
+    "noindex": false
+  },
+  "body": {
+    "components": [
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "",
+          "subheader": "",
+          "cssAddDarkGradient": true,
+          "showDownload": true,
+          "signupoffer_rummy_abc_mobileImageurl": {
+            "webp": "/static/banners/signupoffer_rummy_abc.png",
+            "png": "/static/banners/signupoffer_rummy_abc.png",
+            "alt": "vpl banner mobile",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "signupoffer_rummy_abc_desktopImageurl": {
+            "webp": "/static/banners/signupoffer_rummy_abc_desktop.png",
+            "png": "/static/banners/signupoffer_rummy_abc_desktop.png",
+            "alt": "/static/banners/vpl banner desktop",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2980 @@
+{
+  "pageName": "rummy",
+  "head": {
+    "title": "Play Rummy Game Online & Earn Real Cash with vpl",
+    "canonical": "https://www.vpl.live/rummy",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "description",
+        "content": "Play Indian rummy games online with friends to earn real cash with instant money transfers. 5 million rummy players online to win Rs 2 crores daily."
+      },
+      {
+        "name": "keywords",
+        "content": "play rummy, online rummy, play rummy & earn real money, play rummy online, rummy games online"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/rummy"
+      },
+      {
+        "property": "og:title",
+        "content": "Play Rummy Game Online & Earn Real Cash with vpl"
+      },
+      {
+        "property": "og:description",
+        "content": "Play Indian rummy games online with friends to earn real cash with instant money transfers. 5 million rummy players online to win Rs 2 crores daily."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png."
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App-----Global Test",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete ---- global test",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsmsipl",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "inputFieldBackgroundColor": "white-20"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/hamburger/vpl-logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy-games"
+          },
+          "menuList": [{}],
+          "desktopHeaderLinks": [
+            {
+              "name": "vpl Games",
+              "link": false,
+              "css": "normal--link show--more"
+            },
+            {
+              "name": "vpl Esports",
+              "link": true,
+              "css": "menu--button normal--link ",
+              "url": "https://www.vpl.live/esports"
+            },
+            {
+              "name": "About",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://about.vpl.live/"
+            },
+            {
+              "name": "Blog",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://www.vpl.live/blog/"
+            },
+            {
+              "name": "FAQs",
+              "link": true,
+              "css": "normal--link",
+              "url": "https://help.vpl.live/faq/"
+            },
+            {
+              "name": "Help",
+              "link": true,
+              "url": "https://help.vpl.live/",
+              "css": "help--button",
+              "imgUrl": {
+                "png": "/static/hamburger/help_icon.png",
+                "alt": "help icon",
+                "sizeInBytes": 20000
+              }
+            }
+          ],
+          "menuListDesktop": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/fantasy_games_icon.png",
+                  "alt": "fantays games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/card_games_desktop.png",
+                  "alt": "card games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/sports_games_icon.png",
+                  "alt": "Sports games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/casual_games_desktop.png",
+                  "alt": "casual games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/arcade_games_desktop.png",
+                  "alt": "arcade games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/brain_games_desktop.png",
+                  "alt": "brain games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Quiz",
+                    "link": "https://www.vpl.live/quiz"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Puzzle Games",
+                "gameTypeIcon": {
+                  "png": "/static/hamburger/puzzle_games_desktop.png",
+                  "alt": "puzzle games",
+                  "sizeInBytes": 20000
+                },
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ]
+          ],
+          "menuListMobile": [
+            {
+              "gameType": "Fantasy",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/fantasy.png",
+                "alt": "fantays image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fantasy Cricket",
+                  "link": "https://www.vpl.live/fantasy-cricket",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-cricket.png",
+                    "alt": "fantays cricket image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Football",
+                  "link": "https://www.vpl.live/fantasy-football",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-football.png",
+                    "alt": "fantays football image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Basketball",
+                  "link": "https://www.vpl.live/fantasy-basketball",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy-basketball.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fantasy Games",
+                  "link": "https://www.vpl.live/fantasy-games",
+                  "imgUrl": {
+                    "png": "/static/hamburger/fantasy_icon.png",
+                    "alt": "fantays basketball image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Card Skill",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/card-skill.png",
+                "alt": "card skill image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Rummy",
+                  "link": "https://www.vpl.live/rummy",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-5.png",
+                    "alt": "rummy image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Poker",
+                  "link": "https://www.vpl.live/poker",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-1.png",
+                    "alt": "poker image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Call Break",
+                  "link": "https://www.vpl.live/call-break-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container.png",
+                    "alt": "call break image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Sports Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/sport_games.png",
+                "alt": "sports games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Wcc2",
+                  "link": "https://www.vpl.live/world-cricket-championship-wcc2",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-10.png",
+                    "alt": "wcc2",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Arcade Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/arcade_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Fruit Dart",
+                  "link": "https://www.vpl.live/fruit-dart-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-12.png",
+                    "alt": "fruit dart",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Fruit Chop",
+                  "link": "https://www.vpl.live/fruit-chop",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-14.png",
+                    "alt": "fruti chop",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Casual Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/casual_games.png",
+                "alt": "arcade games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Carrom",
+                  "link": "https://www.vpl.live/carrom",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-4.png",
+                    "alt": "Carrom image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Pool",
+                  "link": "https://www.vpl.live/pool",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-9.png",
+                    "alt": "Pool image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Ludo",
+                  "link": "https://www.vpl.live/ludo",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-8.png",
+                    "alt": "Ludo image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Runner No.1",
+                  "link": "https://www.vpl.live/runner-no1",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-11.png",
+                    "alt": "Runner No.1 image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Monster Truck",
+                  "link": "https://www.vpl.live/monster-truck",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-13.png",
+                    "alt": "monster image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Go Ride",
+                  "link": "https://www.vpl.live/go-ride",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-15.png",
+                    "alt": "go ride image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Brain Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/brain_games.png",
+                "alt": "brain games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Quiz",
+                  "link": "https://www.vpl.live/quiz",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-3.png",
+                    "alt": "quiz dart",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Speed Chess",
+                  "link": "https://www.vpl.live/chess",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-7.png",
+                    "alt": "Speed Chess image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "Puzzle Games",
+              "expandable": true,
+              "imgUrl": {
+                "png": "/static/hamburger/puzzle_games.png",
+                "alt": "Puzzle Games image",
+                "sizeInBytes": 10000
+              },
+              "games": [
+                {
+                  "text": "Bubble Shooter",
+                  "link": "https://www.vpl.live/bubble-shooter",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-2.png",
+                    "alt": "Bubble Shooter image",
+                    "sizeInBytes": 20000
+                  }
+                },
+                {
+                  "text": "Build Up",
+                  "link": "https://www.vpl.live/build-up-game",
+                  "imgUrl": {
+                    "png": "/static/hamburger/game_icon_container-6.png",
+                    "alt": "build up image",
+                    "sizeInBytes": 20000
+                  }
+                }
+              ]
+            },
+            {
+              "gameType": "vpl Esports",
+              "expandable": false,
+              "newGame": true,
+              "link": "https://www.vpl.live/esports",
+              "imgUrl": {
+                "png": "/static/hamburger/vpl-esports.png",
+                "alt": "vpl Esports image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "About us",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://about.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/about-us.png",
+                "alt": "About us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Blog",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://www.vpl.live/blog/",
+              "imgUrl": {
+                "png": "/static/hamburger/blog.png",
+                "alt": "Blog image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "FAQs",
+              "expandable": false,
+              "newGame": false,
+              "link": "https://help.vpl.live/faq/",
+              "imgUrl": {
+                "png": "/static/hamburger/contact-us.png",
+                "alt": "Contact us image",
+                "sizeInBytes": 10000
+              }
+            },
+            {
+              "gameType": "Help",
+              "expandable": false,
+              "newGame": false,
+              "cssClassList": "",
+              "link": "https://help.vpl.live/",
+              "imgUrl": {
+                "png": "/static/hamburger/help.png",
+                "alt": "Help image",
+                "sizeInBytes": 10000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "bannerimageipl",
+        "isParent": true,
+        "data": {
+          "showDownload": true,
+          "showEmail": true,
+          "defaultHiddenHeaderComponent": true,
+          "cssClasses": "banner-container full-width-banner-header  center-header",
+          "styles": {
+            "background-color": "white"
+          },
+          "mobileImageurl": {
+            "webp": "https://www.vpl.live/cledge.vpl.live/pb/website/static/f1cea448af804e93a17059906ae58828.webp",
+            "png": "https://www.vpl.live/cledge.vpl.live/pb/website/static/9196560f099441e39860015d22c8e473.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "https://www.vpl.live/cledge.vpl.live/pb/website/static/b2e83805acd749d995010eaaa00309af.webp",
+            "png": "https://www.vpl.live/cledge.vpl.live/pb/website/static/c499a3a24c4b40dc943dc0e5b80a3a9b.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "cssClasses": "action-link--banner--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "cssClasses": "download-btn-android download-btn-android--banner",
+            "showDownload": true,
+            "buttonPosition": "top"
+          },
+          "contentTextMobile": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "h1",
+                "text": "Play Online Rummy on vpl",
+                "cssClasses": "grey-header"
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "<p style='margin-top:-12px;'>Play Rummy on vpl & Win real cash daily</p>",
+                "cssClasses": "light-grey-header"
+              }
+            }
+          ],
+          "contentTextDesktop": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "h1",
+                "text": "Play Online Rummy on vpl",
+                "cssClasses": "grey-header--main desktop-header"
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "Play Rummy on vpl & Win real cash daily",
+                "cssClasses": "light-grey-header"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "rewardsbarsliding",
+        "isParent": true,
+        "data": {
+          "cssClasses": "temp-class",
+          "styles": {
+            "color": "#33FF66",
+            "background": "#230046"
+          },
+          "joiningBonusText": "Joining Bonus: Get upto",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!",
+          "page": "home"
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Why play Rummy online on vpl",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "BoxComponent",
+        "isParent": "true",
+        "data": {
+          "header": "Why play Rummy online on vpl?",
+          "cssClasses": "section__margin--top section__margin--bottom",
+          "dataList": [
+            {
+              "imageData": {
+                "url": "/static/rummy/security.png",
+                "alt": "Top Notch Security"
+              },
+              "title": "Top Notch Security",
+              "infoList": ["RNG Certified Games", "SSL Secured System"]
+            },
+            {
+              "imageData": {
+                "url": "/static/rummy/fair_play.png",
+                "alt": "vpl Fair Play"
+              },
+              "title": "vpl Fair Play",
+              "infoList": [
+                "24x7 LIVE monitoring of all games",
+                "vpl Anti-Cheat AI to detect fraud"
+              ]
+            },
+            {
+              "imageData": {
+                "url": "/static/rummy/offer_bonuses.png",
+                "alt": "Best Offers & Bonuses"
+              },
+              "title": "Best Offers & Bonuses",
+              "infoList": [
+                "Use Bonus cash directly, no need to unlock",
+                "Win upto ₹ 3.6 crore every month via leaderboards"
+              ]
+            },
+            {
+              "imageData": {
+                "url": "/static/rummy/fastest_withdrawls.png",
+                "alt": "Fastest Withdrawls"
+              },
+              "title": "Fastest Withdrawls",
+              "infoList": [
+                "24x7 Withdrawal Support",
+                "Blazing Fast & Secured Withdrawal Processing"
+              ]
+            },
+            {
+              "imageData": {
+                "url": "/static/rummy/best_experience.png",
+                "alt": "Best in Class rummy Experience"
+              },
+              "title": "Best in Class rummy Experience",
+              "infoList": [
+                "Almost zero wait time",
+                "Play Points, Pool & Deals variants of Rummy"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "cssClasses": "",
+          "header": "Trusted by 6 Crore+ Indians",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "TestimonialDynamic",
+        "isParent": true,
+        "data": {
+          "header": "About the vpl Gaming App",
+          "H1Header": false,
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "contentList": [
+            {
+              "name": "Charan",
+              "address": "Meerat,UP",
+              "amountInfo": "WON ₹25K",
+              "comments": "My name is Charan Mantri, I have been playing Rummy on vpl and won ₹25,000. I spent these prize  money to pay my examination fees and for daily expenses.",
+              "imageUrl": {
+                "png": "/static/rummy-testimonial/user_epicenter-2.png",
+                "webp": "/static/rummy-testimonial/user_epicenter-2.png"
+              }
+            },
+            {
+              "name": "Ganesh",
+              "address": "Faridabad, Haryana",
+              "amountInfo": "WON ₹75K",
+              "comments": "My name is Ganesh, I have been playing Rummy on vpl and won ₹75,000. Becoming  an Actor   is very difficult, but playing on vpl is very easy.",
+              "imageUrl": {
+                "png": "/static/rummy-testimonial/user_epicenter-1.png",
+                "webp": "/static/rummy-testimonial/user_epicenter-1.png"
+              }
+            },
+            {
+              "name": "Ramesh",
+              "address": "Darbangha, Bihar",
+              "amountInfo": "WON ₹35K",
+              "comments": "My name is Ramesh, I have been playing Rummy on vpl and won ₹15,000, gifted  phone to my wife with the prize money.",
+              "imageUrl": {
+                "png": "/static/rummy-testimonial/user_epicenter.png",
+                "webp": "/static/rummy-testimonial/user_epicenter.png"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Play Rummy Online & Win Real Money ",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Indian Rummy is by far one of the most entertaining card games in the country. <a href='https://www.vpl.live/rummy/types-of-rummy/indian-rummy' class='link'>Indian Rummy </a>is a game that resides in India's culture and has become an integral part of the online gaming industry. The classic rummy game is a covplete package of fun, entertainment, and challenges that provides a refreshing gaming experience.",
+                  "vpl brings this classic rummy card game, a game of skill, coupled with the benefits of a secure platform, fast gameplay, and advanced graphics to rummy players across the country. The vpl Rummy platform is entirely safe and ensures a seamless experience for every Indian Rummy player. You can enjoy the card game at any time and play against thousands of players, round the clock. Just pick the <a href='https://www.vpl.live/rummy/types-of-rummy/cash-rummy' class='link'> cash rummy </a>game of your choice and experience the thrill of the online multiplayer game. Play Rummy Online Now!",
+                  "The multiplayer environment enables playing multiple rummy cash games with different players at the same time. Players can find various rummy online cash games running simultaneously on our platform and play multi-tables in a fast-paced gaming atmosphere",
+                  "vpl is one of the fastest-growing and most reliable platforms to play rummy online in India. We are a dedicated team of industry veterans who place players at the heart of everything we do. We believe that online rummy gaming experience should be fun and exciting. We provide our users with a secure platform where they can enjoy the classic rummy games they love. Join the action today and take advantage of all we have to offer. ",
+                  "Don't worry if you're new to the rummy card game; check out our blog and tutorials to get started. It is a game of skill, the more you play, the more you learn.",
+                  "Wondering <a href='https://www.vpl.live/rummy/how-to-play-rummy' class='link'>how to play rummy </a>online on vpl? All you need to do is to download our rummy mobile app, create an account, select a username, and play! You can play the real money online rummy game on vpl & win exciting real cash prizes"
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Indian Rummy is by far one of the most entertaining card games in the country. <a href='https://www.vpl.live/rummy/types-of-rummy/indian-rummy' class='link'>Indian Rummy </a> is a game that resides in India's culture and has become an integral part of the online gaming industry. The classic rummy game is a covplete package of fun, entertainment, and challenges that provides a refreshing gaming experience."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "How to Play Rummy Online on vpl?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "The main objective of Rummy is to organize the 13 cards that each player gets invalid sets and sequences. To win the classic rummy games, you will have to make a minimum of two sequences, of which one must be a pure sequence while the rest can be any valid sequence sets. Without a pure sequence, an online Rummy declaration is said to be invalid. Learn more about <a href='https://www.vpl.live/blog/how-to-win-indian-rummy-a-qa-guide/' class='link'>how to win rummy everytime</a> by mastering these tips."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 subheader--medium",
+                "text": "Making sequences in Rummy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "In rummy card game, a sequence is formed when 3 or more consecutive cards of the same suit are grouped together. There are two types of sequences in online Rummy - pure sequence and impure sequence."
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>Pure Sequence:  </span> The grouping of 3 or more consecutive cards of the same suit without a joker."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>Impure Sequence:  </span> These online Rummy sequences contain jokers"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>First Life:  </span> The first pure sequence is called the First Life"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'> Second Life:  </span>Second  The Second Life is a second pure sequence or the first impure sequence"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>Sets in Indian Rummy:  </span> Sets are a group of 3 or 4 cards with the same rank but different suits. Sets can contain Jokers."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>Score:  </span> In Rummy online, a player’s score is the sum of the value of all the cards that are not part of a valid sequence or set. The objective is to reduce your score to 0 by forming valid sequences and sets. The King, Queen, Jack and Ace are valued at 10 in Rummy. The values of the rest of the cards are equal to their ranks. <br/>Remember: In Rummy online, Lower score is always better "
+                    ]
+                  },
+                  {
+                    "content": [
+                      "<span style='color:#190A28;'>Remember:  </span> In Rummy online, a lower score is always better."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "section__margin--top text-align-left",
+                "description": [
+                  "It is paramount to have a basic understanding of <a href='https://www.vpl.live/rummy/rules-of-rummy' class='link' >rummy rules </a> in order to compete against players online and win the prize money."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 subheader--medium",
+                "text": "How to declare the game?"
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": [
+                      "All 13 of your cards should be arranged in proper sequences and sets."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Now you have rummy card game at your fingertips that will give you a great, seamless, and exciting experience. Compete and pit your skills against millions of online players at a place and time of your choosing!"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Select the card you want to remove and click on ‘Declare’ instead of Discard. You can also drag the card you want to declare to the centrally located DECLARE frame on the table in vpl’s online rummy game."
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "The main objective of Rummy is to organize the 13 cards that each player gets invalid sets and sequences. To win the classic rummy games, you will have to make a minimum of two sequences, of which one must be a pure sequence while the rest can be any valid sequence sets. Without a pure sequence, an online Rummy declaration is said to be invalid. Learn more about <a href='https://www.vpl.live/blog/how-to-win-indian-rummy-a-qa-guide/' class='link'>how to win rummy everytime</a> by mastering these tips."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "What Are the Various Forms of Online Rummy Games?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "With online rummy games ruling the hearts of the people across the country, providing variations of the game make it ideal for different groups of people to understand and play their favorite card game. Variations have kept the game alive, making it more interesting at every step.",
+                  "When you play rummy online on vpl, you get to pick your preferred rummy variant. Each variant features minor changes in the rules, but the objective remains similar. You can play different variants of rummy online to identify the best variant suited to your skills. Just download the vpl mobile app and get started right away.",
+                  "vpl offers three of the most popular Indian <a href='https://www.vpl.live/rummy/types-of-rummy' class='link'> rummy variations </a>- Points Rummy, Deals Rummy, and Pool Rummy. In addition, there are also <a href='https://www.vpl.live/rummy/types-of-rummy/13-card-rummy' class='link'>   13 card rummy </a> and <a href='https://www.vpl.live/rummy/types-of-rummy/21-card-rummy' class='link' > 21 card rummy </a>, which are different variants of your favourite card games."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 subheader--large",
+                "text": "Points Rummy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "<a href='https://www.vpl.live/rummy/types-of-rummy/points-rummy' class='link' > Points rummy </a>is the most basic and fastest rummy games online version in India. It is the ideal rummy variant for beginners as the game finishes in only one round. So, if you're looking to play a faster game, this is the right one for you. vpl rummy is played between 2 to 5 players with one or two standard card decks and one Joker per deck. Each game is based on a single hand with a point value pre-determined in a cash rummy game along with the cash rewards. All the winnings/cash rewards are credited to the winners' accounts."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "How are Points Calculated in Points Rummy?"
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": [
+                      "Jacks, Queens, Kings, and Aces have 10 points each."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "All the other cards have the same value as their face number, e.g., 7 has 7 points, and 3 carries 3 points."
+                    ]
+                  },
+                  {
+                    "content": ["All Joker cards carry zero points."]
+                  },
+                  {
+                    "content": [
+                      "Every round of point rummy is one game. Once the cards are distributed, the game continues unless a winner is declared. "
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 subheader--large",
+                "text": "Deals Rummy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Deals Rummy is a unique variant of cards rummy online, offering a challenging format between 2 to 5 players. As the name suggests, the game is played for a fixed number of deals, i.e., 2,3,4, or 6. Each player receives a defined number of an equal number of scores at the start of every deal. For instance, for two deals the score is 160 and for three deals the score is 240. The winner of the game is the player with the highest number of scores at the end of the game."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "Point Structure in Deals Rummy"
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": [
+                      "The winning calculation is done by the following methodology."
+                    ]
+                  },
+                  {
+                    "content": ["Winnings = Points sum of every opponent"]
+                  },
+                  {
+                    "content": [
+                      "For instance, if there are 5 players in a Deals Rummy and Player 1 declares and the other players lose 10, 20, 30,20 respectively. The winners score count will be 10 + 20 + 30 + 20 that is 80 scores."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 subheader--large",
+                "text": "Pool Rummy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "<a href='https://www.vpl.live/rummy/types-of-rummy/pool-rummy' class='link'> Pool Rummy </a>is one of the most played card rummy game variants on vpl. It is generally available in two formats - 101 and 201 (coming soon on vpl). This rummy game is played for a fixed entry fee that makes up the prize pool. When playing these formats, the players that hit 101 or 201 rummy points are eliminated from the game, and the last player is the winner. "
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "Point Structure in Pool Rummy"
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": [
+                      "The winner will have no points while the loser receives the points based on the cards in their hand. All Jacks, Queens, Kings, and Aces carry 10 points each, while other cards have their face value. All Jokers have no points."
+                    ]
+                  },
+                  {
+                    "content": [
+                      "You can find many online rummy games on vpl, so what's the wait about? Play cards rummy variations now, and test your skills."
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "With online rummy games ruling the hearts of the people across the country, providing variations of the game make it ideal for different groups of people to understand and play their favorite card game. Variations have kept the game alive, making it more interesting at every step.",
+                  "When you play rummy online on vpl, you get to pick your preferred rummy variant. Each variant features minor changes in the rules, but the objective remains similar. You can play different variants of rummy online to identify the best variant suited to your skills. Just download the vpl mobile app and get started right away."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Rummy Leaderboard ",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "vpl Rummy Leaderboard contests are a cherry on the cake. Leaderboard gives players a chance to win big amounts of cash prizes, on top of their winnings, when they play online rummy on vpl.",
+                  "At vpl, Rummy leaderboards are categorized according to formats (Points Rummy or Pool Rummy) and entry fees. To participate in any particular contest, all you need to do is play Rummy on those tables with entry fees.",
+                  "You can get all the information about leaderboards inside our Rummy game on the Home screen. Find a tab called 'Leaderboards'. Just click on it to view where you rank. Play rummy & grab your spot on the leaderboard today!",
+                  "Contact our customer support or write to us on our email for any query. We're with you at every step of your rummy card game journey here at vpl."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "vpl Rummy Leaderboard contests are a cherry on the cake. Leaderboard gives players a chance to win big amounts of cash prizes, on top of their winnings, when they play online rummy on vpl."
+                ]
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Why play Rummy on vpl?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "vpl is one of India's most trusted gaming platforms to play rummy online, which offers a world-class experience to all users who love playing card games. A team of industry veterans has created the vpl online rummy platform to provide a high-end gaming experience with advanced graphics and seamless gameplay."
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": ["Fair Play"]
+                  },
+                  {
+                    "content": [
+                      "RNG Certified rummy games by iTech Gaming Labs"
+                    ]
+                  },
+                  {
+                    "content": ["vpl Anti-Cheat AI to detect fraud"]
+                  },
+                  {
+                    "content": [
+                      "24x7 Live monitoring of all card games and other games"
+                    ]
+                  },
+                  {
+                    "content": ["Top-Notch Security"]
+                  },
+                  {
+                    "content": ["Level playing field"]
+                  },
+                  {
+                    "content": ["SSL Secured System"]
+                  },
+                  {
+                    "content": ["KYC Verification"]
+                  },
+                  {
+                    "content": ["Covplete data security and identity privacy"]
+                  },
+                  {
+                    "content": ["Random seating"]
+                  },
+                  {
+                    "content": ["Additional software usage restricted"]
+                  },
+                  {
+                    "content": ["No unfair advantage"]
+                  },
+                  {
+                    "content": ["Best offers & cash bonuses"]
+                  },
+                  {
+                    "content": ["₹10 crores daily winnings in rummy"]
+                  },
+                  {
+                    "content": ["Earn referral bonus"]
+                  },
+                  {
+                    "content": ["Use bonus cash directly"]
+                  },
+                  {
+                    "content": ["Fastest and Instant withdrawals"]
+                  },
+                  {
+                    "content": ["24x7 cash payment requests"]
+                  },
+                  {
+                    "content": ["Best-in-class gaming experience"]
+                  },
+                  {
+                    "content": ["Almost zero wait time"]
+                  },
+                  {
+                    "content": ["Fastest rummy game tables"]
+                  },
+                  {
+                    "content": ["High-speed rummy game mobile app"]
+                  },
+                  {
+                    "content": ["24x7 customer support"]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 subheader--large",
+                "text": "What you get by playing rummy on vpl?"
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "A Level Playing Field"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Our Rummy games platform does not allow any player to use any additional software. This means you can play safely in the knowledge that your opponents don't have an unfair advantage. Moreover, our quick seat cash game lobby ensures that all players are seated randomly."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "Secure Transactions"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "A secure environment for its users lies at the heart of vpl. We make sure all your account information is covpletely safe and only for you to access. We have added KYC verification as an added filter. Once KYC is covpleted, you can withdraw your cash prizes instantly."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "Fair Play"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "We are RNG (Random Number Generator) certified for rummy and other games like poker that require covplete randomness in cards. Our team monitors all games round the clock with vpl AI cheat detection system to identify frauds. Our players play on rummy cash tables without a worry.",
+                  "So what are you waiting for? All you need is to create an account on vpl and play cards rummy on vpl!"
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "vpl is one of India's most trusted gaming platforms to play rummy online, which offers a world-class experience to all users who love playing card games. A team of industry veterans has created the vpl online rummy platform to provide a high-end gaming experience with advanced graphics and seamless gameplay."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Playing Rummy Online on vpl is 100% Safe & Secure. ",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "We understand that security is the biggest concern for online rummy players; therefore, our platform is SSL-secured, ensuring highest protection level. We have a fair play policy and AI cheat detection to provide a fair opportunity for everyone to win in real money rummy games."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "RNG Certification"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "All the Rummy games on vpl are RNG certified by iTech Labs to ensure fair and unbiased gameplay. The Random Number Generator is used for thorough shuffling and random dealing of cards."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "Responsible Gaming"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "We are all in for a safe gaming environment facilitated by our responsible gaming policy. Our platform limits the daily and monthly deposits of players. Players can also set their deposit limits to play responsibly."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "Fair Play Policy"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Our fair play policy ensures that all players have a fair and equal opportunity to win at card rummy online. Our platform ensures that players are seated randomly and uses an algorithm to monitor any suspicious activity of collusion on each and every table"
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "SSL Secured System"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "vpl uses an SSL secured system to protect the identity and personal information of every player. The personal information, including transaction details of players, is fully encrypted to prevent security and data breaches."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "Anti-Fraud System"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "The team at vpl monitors every game using the vpl AI cheat detection to identify and eliminate frauds. Our anti-fraud system puts all rummy tables under constant scrutiny to offer a safe gaming experience for all players."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "KYC Verification"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "The KYC verification feature ensures that all the platform players are verified. Verification is the first step towards withdrawal."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "Safe and Secure Payment Gateways"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Our platform incorporates secure payment gateways to facilitate safe deposits and withdrawals. We offer multiple payment options, including Paytm, UPI ID, and bank account transactions, for players to enjoy a seamless online rummy experience."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "24x7 customer support team"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "We offer round the clock customer support to resolve all queries of online rummy players. You can reach out to us through the vpl Helpdesk and receive prompt responses from our support team."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "We understand that security is the biggest concern for online rummy players; therefore, our platform is SSL-secured, ensuring highest protection level. We have a fair play policy and AI cheat detection to provide a fair opportunity for everyone to win in real money rummy games."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Online Rummy is 100% Legal...",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "The Honourable Supreme Court of India had declared online money Rummy to be a 'game of skill' in 1968. The game continues to be skill-based in the ensuing judgments of the Supreme Court of India and other State courts. This means that rummy isn't considered a gambling or betting game. Therefore playing online rummy for real cash is 100% legal in all Indian states except Tamil Nadu, Telangana, Odisha, Andhra Pradesh, Nagaland, Assam & Sikkim, owing to the state government ruling on the respective states of India.",
+                  "You can play online rummy games anytime by registering on the vpl app. Select a username, enter your email address and other details to register now and win real money Indian rummy cash games"
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 subheader--large",
+                "text": "Strategy and Skill-based Win"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Indian Rummy card game is entirely based on skills and strategy. Therefore, one needs to plan and strategize throughout the game to win. Players need to form sequences and sets, including one pure sequence, to make a valid declaration. Players without appropriate skills cannot create these combinations. To become a successful online rummy player, one needs to learn strategies and requires good practice."
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 subheader--large",
+                "text": "Legally Covpliant"
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "The online Indian rummy game, is legally covpliant, making it safe and legal to play with cash. Since winning rummy games depends on the players' decision-making skills, strategies, and reasoning, anyone (except players from the restricted Indian states) can legally play rummy cash games and win real cash prizes."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "The Honourable Supreme Court of India had declared online money Rummy to be a 'game of skill' in 1968. The game continues to be skill-based in the ensuing judgments of the Supreme Court of India and other State courts. This means that rummy isn't considered a gambling or betting game. Therefore playing online rummy for real cash is 100% legal in all Indian states except Tamil Nadu, Telangana, Odisha, Andhra Pradesh, Nagaland, Assam & Sikkim, owing to the state government ruling on the respective states of India."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Where can I download the app to play Rummy online?",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "AllTextComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": "section__margin--top section__margin--bottom",
+          "showMore": true,
+          "components": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Now enjoying an uninterrupted online Indian rummy gaming experience is just a few clicks away! All iOS and Android users can easily download the app to play Indian online Rummy. You can go to the App Store to download the vpl app. Alternatively, you can visit the vpl website and enter your mobile number to receive an SMS with an Indian Rummy APK link to download the app.",
+                  "Here are a few sivple steps you can follow:"
+                ]
+              }
+            },
+            {
+              "name": "WithListContent",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left desktop--padding-24",
+                "description": [
+                  {
+                    "content": [
+                      "Visit https://www.vpl.live/ on your smartphone, tablet, or PC"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Fill in the box with your mobile number on the vpl Rummy homepage."
+                    ]
+                  },
+                  {
+                    "content": ["Click on Get SMS with Download Link"]
+                  },
+                  {
+                    "content": [
+                      "When you receive the link via SMS, tap on it, and the link will open in your browser."
+                    ]
+                  },
+                  {
+                    "content": ["Tap on the Download vpl app"]
+                  },
+                  {
+                    "content": [
+                      "Once the Rummy app downloads, install the app on your device"
+                    ]
+                  },
+                  {
+                    "content": [
+                      "Play the most rewarding classic rummy games on vpl anytime, anywhere."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TernaryHeader",
+              "data": {
+                "cssClassList": "secondary-componet--margin-top text-align-left",
+                "headerCss": "trim-SemiBold m-4 header--small",
+                "text": "Essential articles to master the rummy game "
+              }
+            },
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-left",
+                "description": [
+                  "Rummy is a game of skills, and mastering the game requires robust strategies. If you love playing online Rummy, these articles will be of great help to you. You can learn all the <a href='https://www.vpl.live/rummy/tips-to-play-rummy' class='link'> rummy tips </a> and tricks, find the most suitable game and build the best strategies. Check out our online rummy exclusive <a href='https://www.vpl.live/blog/card-games/rummy/' class='link' > blogs </a> to unveil secret strategies, read how-to guides, and the latest news on this exciting game."
+                ]
+              }
+            }
+          ],
+          "componentsShowMore": [
+            {
+              "name": "TextualContent",
+              "data": {
+                "cssClassList": "text-align-center",
+                "description": [
+                  "Now enjoying an uninterrupted online Indian rummy gaming experience is just a few clicks away! All iOS and Android users can easily download the app to play Indian online Rummy. You can go to the App Store to download the vpl app. Alternatively, you can visit the vpl website and enter your mobile number to receive an SMS with an Indian Rummy APK link to download the app."
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "FAQs",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "FaqsComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": ["section__margin--top", "desktop--padding-24"],
+          "content": [
+            {
+              "name": "Is Playing Rummy Legal in India?",
+              "description": [
+                "Yes, it's legal to play Rummy in India. The game had been declared a skill by the Hon'ble Supreme Court of India in 1968, which makes playing rummy for cash 100% legal. Second, games based on skill and strategy aren't considered gambling games, whether they are played for real cash/money or leisure. Therefore, Indian online Rummy is also regarded as legal as it requires approach and skills to win a hand."
+              ]
+            },
+            {
+              "name": "Why is vpl rummy the best?",
+              "description": [
+                "vpl Rummy Online offers a world-class rummy experience with exciting offers and bonuses. The high-speed vpl app offers zero wait time and the fastest rummy tables to enjoy fast-paced rummy games. The platform supports instant withdrawals with an option to request payments 24x7. vpl ensures a level playing field for all users and prevents users from having an unfair advantage in the game."
+              ]
+            },
+            {
+              "name": "What is the Online Rummy Game & How can I play online Rummy on vpl?",
+              "description": [
+                "Rummy is a pick and discard card game played with two decks of cards that include two Jokers. To play Rummy, a player must pick and discard cards from two piles to make sequences and sets. The first player to declare valid sets of cards wins. You can download the vpl app, register for free, and you are all set to play online rummy."
+              ]
+            },
+            {
+              "name": "Is playing Rummy online on the vpl platform safe?",
+              "description": [
+                "Absolutely! vpl is one of the safest and the best online Rummy platforms to play classic rummy games. We have an RNG certification for all Rummy games on vpl. The RNG certification ensures that all our games are fair and the cards dealt are entirely random. This, combined with our advanced fraud detection algorithms to block fraudulent players, makes vpl the safest rummy site for playing rummy online."
+              ]
+            },
+            {
+              "name": "What is RNG Certification?",
+              "description": [
+                "RNG stands for Random Number Generator, used in all gaming machines to create a random scenario, making it impossible for users to guess the cards. The RNG certification is issued by an accredited organization stating that the RNG algorithm used by a platform is indeed random and hence ensures that games are fair. vpl rummy site is officially RNG-certified by iTech Gaming Labs."
+              ]
+            },
+            {
+              "name": "How can I add cash to my rummy account?",
+              "description": [
+                "We offer multiple payment options to add cash to your rummy account. You can use Paytm, a bank account, or UPI ID to add money and start playing classic rummy games quickly. Open the rummy game on the vpl app and tap on the wallet icon on the top right corner. Select your state and add the amount required in the wallet."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "SingleLineText",
+        "isParent": true,
+        "data": {
+          "text": "Still, have a Question? Read More FAQs <span> <a href='https://www.vpl.live/rummy/faqs' class='link' > here </a> </span>Play rummy on vpl & win real cash!",
+          "cssClassList": [
+            "text-align-center",
+            "trim-Regular",
+            "m-0",
+            "mt-4",
+            "more--faqs"
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Withdraw Winnings with",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0",
+            "first__section__margin--top"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom payments"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/paytm.png",
+                "alt": "Paytm Wallet",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Paytm Wallet"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/upi.png",
+                "alt": "UPI",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "UPI"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/amazon_pay.png",
+                "alt": "Amazon Pay",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Amazon Pay"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/withdraw/new-icons/bank_transfer.png",
+                "alt": "Bank Transfer",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Bank Transfer"
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Play 60+ games & Win Cash",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "SingleLineText",
+        "isParent": true,
+        "data": {
+          "text": "All Games",
+          "cssClassList": [
+            "text-align-center",
+            "trim-Regular",
+            "m-0",
+            "mt-4",
+            "all--games"
+          ]
+        }
+      },
+      {
+        "name": "PlayGames",
+        "isParent": true,
+        "data": {
+          "columnListLength": 3,
+          "showChar": 108,
+          "content": [
+            {
+              "columnList": [
+                {
+                  "imgUrl": {
+                    "png": "/static/top-games/fruit_dart.png",
+                    "alt": "fruit dart img",
+                    "width": 128,
+                    "height": 128,
+                    "sizeInBytes": 25000
+                  },
+                  "gameName": "Fruit Dart",
+                  "link": "https://www.vpl.live/fruit-dart-game",
+                  "gameInfo": [
+                    "Everyone loves a quick game of fruit dart, isn’t it? Fruit Dart is one of the most thrilling arcade games on the vpl app. Throw the darts like a ninja and slice the fruits popping up on the screen. Just make sure that you don’t hit the bombs, or you will lose the game. <a class='link' href='https://www.vpl.live/fruit-dart-game'>Fruit Dart</a> is available in both 1v1 battle mode and tournaments format on vpl. You can select any of the formats to play the game and win exciting cash prizes."
+                  ]
+                },
+                {
+                  "imgUrl": {
+                    "png": "/static/top-games/fantasy_cricket.png",
+                    "alt": "vpl Fantasy img",
+                    "width": 128,
+                    "height": 128,
+                    "sizeInBytes": 25000
+                  },
+                  "gameName": "vpl Fantasy Cricket",
+                  "link": "https://www.vpl.live/fantasy-cricket",
+                  "gameInfo": [
+                    "vpl Fantasy Cricket app provides you a platform to showcase your cricket knowledge &amp; skills. Sit back in the comfort of your home, pick your fantasy cricket team, and win real money. vpl <a class='link' href='https://www.vpl.live/fantasy-cricket'>Fantasy cricket app</a> is the first choice of many cricket lovers as we've got you covered for every type of match that takes place in the cricketing world- International ODIs, Tests, T20s, and even state-level matches. So what are you waiting for? Download the vpl game app to take part in <a class='link' href='https://www.vpl.live/blog/indian-t20-fantasy-premier-league/'>indian t20 fantasy league</a> and start playing fantasy cricket now."
+                  ]
+                },
+                {
+                  "imgUrl": {
+                    "png": "/static/top-games/vpl_rummy.png",
+                    "alt": "rummy img",
+                    "width": 128,
+                    "height": 128,
+                    "sizeInBytes": 25000
+                  },
+                  "gameName": "vpl Rummy",
+                  "link": "https://www.vpl.live/rummy",
+                  "gameInfo": [
+                    "<a class='link' href='https://www.vpl.live/rummy'>Online Rummy</a> by vpl is one of the most popular card games and has gained an immense following over the years. vpl offers a highly interactive online version of the traditional rummy game, which is enjoyable, easy, and 100% secure!"
+                  ]
+                }
+              ]
+            },
+            {
+              "columnList": [
+                {
+                  "imgUrl": {
+                    "png": "/static/top-games/ludo.png",
+                    "alt": "Ludo img",
+                    "width": 128,
+                    "height": 128,
+                    "sizeInBytes": 25000
+                  },
+                  "gameName": "Ludo",
+                  "link": "https://www.vpl.live/ludo",
+                  "gameInfo": [
+                    "Ludo is among the most popular board games that people love to play in their leisure time. vpl ludo game is a fun and challenging online version of the classic board game. Ludo is a game for two to four players, in which the players race their 4 tokens to the finishing point according to the rolls of a single dice. Start playing now to become the <a class='link' href='https://www.vpl.live/ludo'>best online Ludo</a> player!"
+                  ]
+                },
+                {
+                  "imgUrl": {
+                    "png": "/static/top-games/speed_chess.png",
+                    "alt": "Speed Chess img",
+                    "width": 128,
+                    "height": 128,
+                    "sizeInBytes": 25000
+                  },
+                  "gameName": "Speed Chess",
+                  "link": "https://www.vpl.live/chess",
+                  "gameInfo": [
+                    "It is commonly believed that Chess originated in India around the 6th century AD, and its popularity has grown ever since. vpl Chess game offers the best-in-class online gaming experience to its players. Checkmate your opponents and have fun with the most advanced and trusted online chess game. <a class='link' href='https://www.vpl.live/chess'>Play Chess online</a> on vpl to relive the old memories and win real cash online."
+                  ]
+                },
+                {
+                  "imgUrl": {
+                    "png": "/static/top-games/bubble_shooter.png",
+                    "alt": "Bubble Shooter img",
+                    "width": 128,
+                    "height": 128,
+                    "sizeInBytes": 25000
+                  },
+                  "gameName": "Bubble Shooter",
+                  "link": "https://www.vpl.live/bubble-shooter",
+                  "gameInfo": [
+                    "Sit back, relax and play the classic <a class='link' href='https://www.vpl.live/bubble-shooter'>Bubble Shooter game</a> on vpl. Match three or more bubbles of the same color and pop them. A player wins when no bubbles are left in the playing area. Let's get popping!"
+                  ]
+                }
+              ]
+            },
+            {
+              "columnList": [
+                {
+                  "imgUrl": {
+                    "png": "/static/top-games/call_break.png",
+                    "alt": "Call call_break img",
+                    "width": 128,
+                    "height": 128,
+                    "sizeInBytes": 25000
+                  },
+                  "gameName": "Call Break",
+                  "link": "https://www.vpl.live/call-break-game",
+                  "gameInfo": [
+                    "<a class='link' href='https://www.vpl.live/call-break-game'>Call Break</a> is one of the most popular card games on vpl. It is a strategic game similar to Spades and is played with a standard 52-card deck between four players. So buckle up, and start playing this exciting card game, and who knows, you might just become a Call Break champion!"
+                  ]
+                },
+                {
+                  "imgUrl": {
+                    "png": "/static/top-games/pool.png",
+                    "alt": "Pool img",
+                    "width": 128,
+                    "height": 128,
+                    "sizeInBytes": 25000
+                  },
+                  "gameName": "8 Ball Pool",
+                  "link": "https://www.vpl.live/pool",
+                  "gameInfo": [
+                    "vpl’s <a class='link' href='https://www.vpl.live/pool'>8 Ball Pool Game</a> is the most engaging online pool game, thanks to its smooth and easy gameplay. The objective of the game is to pocket all your designated balls while preventing your opponent from doing the same. The last step to win the game is to pocket the 8th ball (black ball). So play now for a challenging and rewarding experience!"
+                  ]
+                },
+                {
+                  "imgUrl": {
+                    "png": "/static/top-games/fantasy_icon.png",
+                    "alt": "Fantasy Games img",
+                    "width": 128,
+                    "height": 128,
+                    "sizeInBytes": 25000
+                  },
+                  "gameName": "Fantasy Games",
+                  "link": "https://www.vpl.live/fantasy-games",
+                  "gameInfo": [
+                    "Fantasy games are a massive hit in India, and vpl provides the ultimate fantasy gaming experience to its users. What's impressive is that you get an opportunity to win real cash for every fantasy game you play. We have all you need, be it Fantasy Cricket, <a class='link' href='https://www.vpl.live/fantasy-football'>Fantasy Football</a>, Fantasy Kabaddi, Fantasy Stocks, or <a class='link' href='https://www.vpl.live/fantasy-basketball'>Fantasy BasketBall</a>. So, when you have all the Fantasy games in one place, why go anywhere else? Play now &amp; win big!",
+                    "<b class='trim-Bold'>How to play Fantasy Games online?</b>",
+                    "All you need to do is to download the vpl app and register yourself to start playing! Once you register, select the Fantasy Game you wish to play. Select the match you want to compete in and then pick your Fantasy team. Yes! It’s that sivple. Also, you will get a bonus of Rs. 50 for every successful referral you make. So download the vpl app, play your favourite Fantasy Game, and win real cash!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "MiddleDownloadBut",
+        "isParent": true,
+        "data": {
+          "cssClassList": "margin--m-top section__margin--bottom",
+          "androidMiddleBtnLabel": "DOWNLOAD TO PLAY",
+          "androidDownloading": "DOWNLOADING ...",
+          "iosAlt": "Download IOS App",
+          "buttonPosition": "middle",
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/1x/download_icon_left.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosBlackIcon": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          }
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Best-In-Class Gaming Experience",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom great--expi"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/user_icon.png",
+                "alt": "Mega Events",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "6 Crore+",
+              "subText": "Users"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/secure_icon.png",
+                "alt": "Legal",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "100% Secure",
+              "subText": "& Legal"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/support_icon.png",
+                "alt": "Customer Support",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "24 x 7",
+              "subText": "Customer Support"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/cashback_icon.png",
+                "alt": "Cashback",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "text": "Cashback",
+              "subText": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sponsor",
+        "isParent": true,
+        "data": {
+          "header": "Proud Sponsor of",
+          "imgList": [
+            {
+              "imgUrl": {
+                "png": "/static/sponsors/rcb_logo.png",
+                "width": 158,
+                "height": 160,
+                "alt": "rcb img"
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/sponsors/kkr_logo.png",
+                "width": 158,
+                "height": 160,
+                "alt": "kkr img"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "cssClassList": ["section__margin--bottom vpl--is--member"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/aigf.png",
+                "alt": "Mega Events",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/ficci.png",
+                "alt": "Legal",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/trf.png",
+                "alt": "Customer Support",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "imgUrl": {
+                "png": "/static/trust-icons/IAMAI.png",
+                "alt": "Cashback",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "header": "Know us better",
+          "styles": {
+            "color": "#230046"
+          },
+          "cssClassList": [
+            "section-header",
+            "text-align-center",
+            "trim-SemiBold",
+            "capitialise",
+            "m-0"
+          ]
+        }
+      },
+      {
+        "name": "PaymentsComponent",
+        "isParent": true,
+        "data": {
+          "boxName": "data-block-90",
+          "cssClassList": ["section__margin--bottom know--us"],
+          "content": [
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/fb.png",
+                "alt": "facebook img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/ig.png",
+                "alt": "instagram img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.instagram.com/playvpl/"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/tw.png",
+                "alt": "twitter img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://twitter.com/Playvpl"
+            },
+            {
+              "imgUrl": {
+                "png": "/static/social_icons/yt.png",
+                "alt": "youtube img",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              },
+              "link": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            }
+          ],
+          "mobileFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Quiz",
+                    "link": "https://www.vpl.live/quiz"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://www.facebook.com/Playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://www.instagram.com/playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ]
+          ],
+          "desktopFooterLinks": [
+            [
+              {
+                "gameTypeName": "Fantasy game",
+                "games": [
+                  {
+                    "name": "Fantasy cricket",
+                    "link": "https://www.vpl.live/fantasy-cricket"
+                  },
+                  {
+                    "name": "Fantasy football",
+                    "link": "https://www.vpl.live/fantasy-football"
+                  },
+                  {
+                    "name": "Fantasy basketball",
+                    "link": "https://www.vpl.live/fantasy-basketball"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Card Games",
+                "games": [
+                  {
+                    "name": "Rummy",
+                    "link": "https://www.vpl.live/rummy"
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://www.vpl.live/poker"
+                  },
+                  {
+                    "name": "Call Break",
+                    "link": "https://www.vpl.live/call-break-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Arcade Games",
+                "games": [
+                  {
+                    "name": "Fruit Chop",
+                    "link": "https://www.vpl.live/fruit-chop"
+                  },
+                  {
+                    "name": "Fruit Dart",
+                    "link": "https://www.vpl.live/fruit-dart-game"
+                  },
+                  {
+                    "name": "Fruit Slice",
+                    "link": "https://www.vpl.live/fruit-slice"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Brain Games",
+                "games": [
+                  {
+                    "name": "Quiz",
+                    "link": "https://www.vpl.live/quiz"
+                  },
+                  {
+                    "name": "Speed Chess",
+                    "link": "https://www.vpl.live/chess"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Sports Games",
+                "games": [
+                  {
+                    "name": "Wcc2",
+                    "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+                  }
+                ]
+              },
+              {
+                "gameTypeName": "Puzzle Games",
+                "games": [
+                  {
+                    "name": "Bubble Shooter",
+                    "link": "https://www.vpl.live/bubble-shooter"
+                  },
+                  {
+                    "name": "Build Up",
+                    "link": "https://www.vpl.live/build-up-game"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "gameTypeName": "Casual Games",
+                "games": [
+                  {
+                    "name": "Carrom",
+                    "link": "https://www.vpl.live/carrom"
+                  },
+                  {
+                    "name": "Pool",
+                    "link": "https://www.vpl.live/pool"
+                  },
+                  {
+                    "name": "Ludo",
+                    "link": "https://www.vpl.live/ludo"
+                  },
+                  {
+                    "name": "Runner No.1",
+                    "link": "https://www.vpl.live/runner-no1"
+                  },
+                  {
+                    "name": "Monster Truck",
+                    "link": "https://www.vpl.live/monster-truck"
+                  },
+                  {
+                    "name": "Go Ride",
+                    "link": "https://www.vpl.live/go-ride"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "cssClasses": "title--type--links",
+                "games": [
+                  {
+                    "name": "FAQ",
+                    "link": "https://help.vpl.live/faq/"
+                  },
+                  {
+                    "name": "More Games",
+                    "link": "https://www.vpl.live/more-games"
+                  },
+                  {
+                    "name": "College Premiere League",
+                    "link": "https://www.vpl.live/esports/cpl"
+                  },
+                  {
+                    "name": "Blog",
+                    "link": "https://www.vpl.live/blog/"
+                  },
+                  {
+                    "name": "Refer and Earn",
+                    "link": "https://www.vpl.live/refer-and-earn"
+                  },
+                  {
+                    "name": "Games of skill",
+                    "link": "https://about.vpl.live/game-of-skill"
+                  }
+                ]
+              },
+              {
+                "cssClasses": "social--links",
+                "iconLinks": [
+                  {
+                    "link": "https://www.facebook.com/Playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/facebook_icon.png",
+                      "alt": "fb icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://www.instagram.com/playvpl/",
+                    "imgUrl": {
+                      "png": "/static/footer/instagram_icon.png",
+                      "alt": "ig icon",
+                      "sizeInBytes": 20000
+                    }
+                  },
+                  {
+                    "link": "https://twitter.com/Playvpl",
+                    "imgUrl": {
+                      "png": "/static/footer/twitter_icon.png",
+                      "alt": "tw icon",
+                      "sizeInBytes": 20000
+                    }
+                  }
+                ]
+              }
+            ]
+          ],
+          "aboutUsLinks": [
+            {
+              "name": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "name": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "name": "Terms & Condition",
+              "link": "https://about.vpl.live/terms/"
+            }
+          ],
+          "copyRight": "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+        }
+      },
+      {
+        "name": "H4header",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "styles": {
+            "color": "rgba(25, 10, 40, 0.6)"
+          },
+          "header": "DISCLAIMER",
+          "cssClassList": [
+            "m-0",
+            "margin--m-top",
+            "ternary--header",
+            "trim-Regular",
+            "desktop-white-background",
+            "text-align-left"
+          ]
+        }
+      },
+      {
+        "name": "TextualContentComponent",
+        "isParent": true,
+        "data": {
+          "backgroundCss": "add--overflow disclaimer",
+          "paraStyle": {
+            "color": "rgba(25, 10, 40, 0.3)"
+          },
+          "cssClassList": [
+            "m-0",
+            "text-align-left",
+            "margin--xs-top",
+            "desktop-white-background",
+            "disclaimer-container",
+            "margin--disclaimer-bottom",
+            "copyright-section"
+          ],
+          "showMore": true,
+          "firstContentToShow": "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+          "description": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided \"AS IS\" and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats. vpl is available only to people above 18 years of age. vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App"
+          ]
+        }
+      },
+      {
+        "name": "stickySection",
+        "isParent": true,
+        "data": {
+          "show": true,
+          "showRewards": true,
+          "rewardsBar": {
+            "cssClasses": "temp-class",
+            "styles": {
+              "color": "#33FF66",
+              "background": "#230046"
+            },
+            "joiningBonusText": "Joining Bonus: Get upto",
+            "currency": "₹",
+            "tokenFreeText": "vpl Tokens Free!",
+            "freeText": " Free!",
+            "page": "home"
+          },
+          "showDeviceDownloadButton": true,
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "cssClasses": "action-link--footer--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "cssClasses": "download-btn-android download-btn-android--footer",
+            "showDownload": true,
+            "buttonPosition": "top",
+            "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+            "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also"
+          },
+          "cssClasses": "sticky-section",
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      }
+    ]
+  }
+}

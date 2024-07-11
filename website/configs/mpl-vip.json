@@ -1,0 +1,447 @@
+{
+  "pageName": "vpl-vip",
+  "head": {
+    "title": "Mobile Premier League (vpl) Game App | vpl Live",
+    "canonical": "https://www.vpl.live",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "12d143eec791d7b71691d07b828caeed5da96e97f2b99b042642244c965bc710"
+      },
+      {
+        "name": "description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 6 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "name": "keywords",
+        "content": "real money earning games, earn money playing games, online money earning games, online cash winning games, win real cash games, win real cash games, play and win cash, play games for cash, win real money games, play and earn money, play fantasy cricket and win cash daily, play fantasy cricket and win real cash"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live"
+      },
+      {
+        "property": "og:title",
+        "content": "Mobile Premier League (vpl) Game Platform | vpl Live"
+      },
+      {
+        "property": "og:description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 6 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      },
+      {
+        "name": "google-site-verification",
+        "content": "kMfTkwrQMyY14_zLOnWy6bSwFoLa8kv9bvr4Ccwd-2o"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsmsipl",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "inputFieldBackgroundColor": "white-20"
+        }
+      },
+      {
+        "name": "pageheader",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "https://www.vpl.live/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "8 Ball Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Auto Raja",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Carrom Online",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Fantasy Basketball",
+              "link": "https://www.vpl.live/fantasy-basketball"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog/"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            },
+            {
+              "text": "Fruit Dart",
+              "link": "https://www.vpl.live/fruit-dart-game"
+            }
+          ]
+        }
+      },
+      {
+        "name": "bannerimageipl",
+        "isParent": true,
+        "data": {
+          "showDownload": true,
+          "showEmail": true,
+          "cssClasses": "banner-container vpl-vip-banner",
+          "styles": {
+            "background-color": "#230046"
+          },
+          "mobileImageurl": {
+            "webp": "/static/banners/vpl-vip-banner-mobile.webp",
+            "png": "/static/banners/vpl-vip-banner-mobile.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/vpl-vip-desktop.webp",
+            "png": "/static/banners/vpl-vip-desktop.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "iconImageButton": {
+            "showDownload": false
+          },
+          "contentTextMobile": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "TRY VIP FOR",
+                "cssClasses": "white-header light-small order-3"
+              }
+            },
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "FIRST 30 DAYS @<span style='text-decoration:line-through;'>₹99</span><span style='color:#FDD835'> ₹49</span>",
+                "cssClasses": "white-header light-small order-3"
+              }
+            }
+          ],
+          "contentImageMobile": [
+            {
+              "name": "Image",
+              "data": {
+                "backgroundImageUrl": {
+                  "webp": "/static/2x/vip_banner_logo.svg",
+                  "png": "/static/2x/vip_banner_logo.svg"
+                },
+                "cssClasses": "image-header-mobile order-2"
+              }
+            }
+          ],
+          "contentTextDesktop": [
+            {
+              "name": "Text",
+              "data": {
+                "type": "div",
+                "text": "TRY VIP FOR FIRST 30 DAYS @<span style='text-decoration:line-through;'>₹99</span><span style='color:#FDD835'> ₹49</span>",
+                "cssClasses": "white-header light-small order-3"
+              }
+            }
+          ],
+          "contentImageDesktop": [
+            {
+              "name": "Image",
+              "data": {
+                "backgroundImageUrl": {
+                  "webp": "/static/2x/vip_banner_logo.svg",
+                  "png": "/static/2x/vip_banner_logo.svg"
+                },
+                "cssClasses": "image-header-desktop order-2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "H2header",
+        "isParent": true,
+        "data": {
+          "cssClasses": "vpl-vip-header",
+          "header": "Join vpl VIP and get Exclusive Benefits!"
+        }
+      },
+      {
+        "name": "icontext",
+        "isParent": true,
+        "data": {
+          "cssClasses": "vpl-vip",
+          "styles": {
+            "color": "#33FF66",
+            "background": "#230046"
+          },
+          "contentList": [
+            {
+              "iconImageurl": {
+                "webp": "/static/banners/vip-1.svg",
+                "png": "/static/banners/vip-1.svg"
+              },
+              "contentText": [
+                {
+                  "type": "div",
+                  "text": "Get 2% Extra Winnings Cash",
+                  "cssClasses": "bold-header"
+                },
+                {
+                  "type": "div",
+                  "text": "Get more Winnings Cash everytime you win on vpl",
+                  "cssClasses": "light-header"
+                }
+              ]
+            },
+            {
+              "iconImageurl": {
+                "webp": "/static/banners/vip-2.svg",
+                "png": "/static/banners/vip-2.svg"
+              },
+              "contentText": [
+                {
+                  "type": "div",
+                  "text": "Get VIP Tickets worth ₹5 Everyday!",
+                  "cssClasses": "bold-header"
+                },
+                {
+                  "type": "div",
+                  "text": "Get ₹150 worth of tickets to play Cash Games for free!",
+                  "cssClasses": "light-header"
+                }
+              ]
+            },
+            {
+              "iconImageurl": {
+                "webp": "/static/banners/vip-3.svg",
+                "png": "/static/banners/vip-3.svg"
+              },
+              "contentText": [
+                {
+                  "type": "div",
+                  "text": "Play Exclusive VIP Events",
+                  "cssClasses": "bold-header"
+                },
+                {
+                  "type": "div",
+                  "text": "Get VIP and enter the best of vpl events.",
+                  "cssClasses": "light-header"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "stickySection",
+        "isParent": true,
+        "data": {
+          "show": true,
+          "showRewards": true,
+          "rewardsBar": {
+            "cssClasses": "",
+            "styles": {
+              "color": "#33FF66",
+              "background": "#230046"
+            },
+            "joiningBonusText": "Joining Bonus: Get",
+            "currency": "₹",
+            "tokenFreeText": "vpl Tokens Free!",
+            "freeText": " Free!"
+          },
+          "showAlways": true,
+          "showDeviceDownloadButton": true,
+          "linkImageIOSButton": {
+            "href": "itms-apps://itunes.apple.com/us/app/vpl-mobile-premier-league/id1447849626?ls=1&mt=8",
+            "imageUrl": "/static/2x/ios-download.svg",
+            "cssClasses": "action-link--footer--ios"
+          },
+          "iconImageButton": {
+            "text": "DOWNLOAD NOW",
+            "imageUrl": "/static/2x/download_24px.svg",
+            "cssClasses": "download-btn-android download-btn-android--footer",
+            "showDownload": true,
+            "buttonPosition": "top"
+          },
+          "cssClasses": "sticky-section",
+          "styles": {}
+        }
+      }
+    ]
+  }
+}

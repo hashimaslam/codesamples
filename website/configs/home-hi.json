@@ -1,0 +1,840 @@
+{
+  "pageName": "hindi-index",
+  "head": {
+    "title": "Mobile Premier League (vpl) Game Platform | vpl Live",
+    "canonical": "https://www.vpl.live/hindi-index",
+    "noindex": true,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "581e379d1912d965dcce7081ec7cb5b59340939829f47c0ce1929ee636027dac"
+      },
+      {
+        "name": "description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "name": "keywords",
+        "content": "real money earning games, earn money playing games, online money earning games, online cash winning games, win real cash games, win real cash games, play and win cash, play games for cash, win real money games, play and earn money, play fantasy cricket and win cash daily, play fantasy cricket and win real cash"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/hindi-index"
+      },
+      {
+        "property": "og:title",
+        "content": "Mobile Premier League (vpl) Game Platform | vpl Live"
+      },
+      {
+        "property": "og:description",
+        "content": "Download the vpl Pro India’s biggest gaming app to join 4 Crore+ players with more than 3 lakh daily winners.Win real cash & withdraw cash instantly with Paytm, UPI."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "ऐप डाउनलोड करें",
+          "androidMiddleBtnLabel": "ऐप डाउनलोड करें और जीतें",
+          "androidDownloading": "यह डाउनलोड हो रहा है ...",
+          "androidNotificationHeader": "vpl इनस्टॉल करने के लिए डाउनलोड पूरा होने के बाद अपने नोटिफिकेशन देखें",
+          "androidNotificationDesc": "आप vpl एप को अपने डाउनलोड फोल्डर से भी इंस्टॉल कर सकते हैं",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "https://cledge.vpl.live/pb/website/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "डाउनलोड लिंक भेजें",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "मोबाइल नंबर दर्ज करें",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "sentText": "हमने आपके फ़ोन #mobileno पर डाउनलोड SMS भेज दिया है। अभी चेक करें। "
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "जॉइनिंग बोनस :",
+          "currency": "₹",
+          "tokenFreeText": "टोकन मुफ्त प्राप्त करें!",
+          "freeText": " मुफ्त!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "https://cledge.vpl.live/pb/website/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "ऐप डाउनलोड करें",
+          "headerDownloadingbtnLabel": "यह डाउनलोड हो रहा है ...",
+          "menuFirstLink": {
+            "text": "खेले",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "गेम खेले और कैश जीते!",
+          "subheader": "free fire,fantasy स्पोर्ट्स और अन्य गेम खेले हर दिन जीतने के लिए!",
+          "cssAddDarkGradient": false,
+          "showDownload": true,
+          "mobileImageurl": {
+            "webp": "https://cledge.vpl.live/pb/website/static/banners/img_home_mobile@2x.webp",
+            "png": "https://cledge.vpl.live/pb/website/static/banners/img_home_mobile@2x.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "https://cledge.vpl.live/pb/website/static/banners/banner_desktop_vpl_live.webp",
+            "png": "https://cledge.vpl.live/pb/website/static/banners/banner_desktop_vpl_live.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          }
+        }
+      },
+      {
+        "name": "MoneyWithdraw",
+        "isParent": true,
+        "data": {
+          "header": "जीता हुआ कैश तुरंत निकले इनके जरिये",
+          "paymentList": [
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/withdraw/paytm.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/withdraw/paytm.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "पेटीएम  वॉलेट"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/withdraw/upi.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/withdraw/upi.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "UPI"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/withdraw/amazon-pay.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/withdraw/amazon-pay.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "अमेज़न पे "
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/withdraw/bank-transfer.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/withdraw/bank-transfer.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 8000
+              },
+              "text": "बैंक ट्रांसफर "
+            }
+          ]
+        }
+      },
+      {
+        "name": "ShowTopGames",
+        "isParent": true,
+        "data": {
+          "header": "vpl पर शीर्ष खेल",
+          "subheader": "60+ से अधिक गेम खेलें और नकद जीतें!",
+          "showDownload": true,
+          "newGamesText": "नया",
+          "topGameList": [
+            {
+              "text": "Free Fire",
+              "link": "/free-fire",
+              "newGameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/Game_Free_Fire@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "WCC",
+              "link": "/world-cricket-championship-wcc2",
+              "newGameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/new_game_icon.png",
+                "width": 80,
+                "height": 24,
+                "sizeInBytes": 2000
+              },
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/Game_WCC@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Pool",
+              "link": "/pool",
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/Game_Pool@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Chess",
+              "link": "/chess",
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/Game_Speed_Chess@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket",
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/Game_Fantasy_Cricket@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz",
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/Game_Quiz@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop",
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/Game_Fruit_Chop@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "text": "Runner No.1",
+              "link": "/runner-no1",
+              "gameImageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/Game_Runner_No1@2x.png",
+                "width": 128,
+                "height": 128,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "steps",
+        "isParent": true,
+        "data": {
+          "header": "vpl ऐप कैसे स्थापित करें",
+          "subheader": "खेलना शुरू करने के लिए इन चरणों का पालन करें",
+          "supportedVersionInfo": "वर्तमान में एंड्रॉइड 5.1 और इसके बाद के संस्करण पर समर्थित है",
+          "stepList": [
+            {
+              "stepText": "चरण-1: डाउनलोड को पूरा करने के लिए \"ओके\" पर टैप करें",
+              "info": "vpl ऐप 100% सकुशल और सुरक्षित है",
+              "altText": "steps to install vpl app",
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/nougat_step1.png",
+                "width": 592,
+                "height": 524,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "stepText": "चरण-2: डाउनलोड समाप्त होने तक प्रतीक्षा करें।",
+              "info": "",
+              "altText": "steps to install vpl app",
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/nougat_step2.png",
+                "width": 592,
+                "height": 524,
+                "sizeInBytes": 25000
+              }
+            },
+            {
+              "stepText": "चरण-3: सेटिंग्स खोलें और vpl ऐप इंस्टॉल करने के लिए अज्ञात स्रोतों को चालू करें",
+              "info": "",
+              "altText": "steps to install vpl app",
+              "imageurl": {
+                "png": "https://cledge.vpl.live/pb/website/static/2x/nougat_step3.png",
+                "width": 592,
+                "height": 524,
+                "sizeInBytes": 25000
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "pageInfo",
+        "isParent": true,
+        "data": {
+          "header": "vpl गेमिंग ऐप के बारे में",
+          "H1Header": true,
+          "contentList": [
+            "vpl एक ऑनलाइन गेमिंग प्लेटफ़ॉर्म है जो आपको कई खेल पेश करता है - fantasy sports, Free Fire, Rummy, Poker, Chess, Quiz, Fruit Chop, 8 ball 3D Pool, Carrom और बहुत कुछ! अपने पसंदीदा मोबाइल गेम खेलने के लिए असली नकद जीतें। अच्छा लगता है, है ना? vpl के साथ, आप बड़े पुरस्कार जीतने के लिए अपने मोबाइल पर fantasy खेलों सहित 60+ गेम खेल सकते हैं। vpl परम गेमिंग अनुभव प्रदान करता है, जिससे आप अधिक खेलना चाहते हैं और अधिक जीत सकते हैं। साहसिक, एक्शन, खेल और कई अन्य श्रेणियों से अपनी पिक लें।",
+            "रम्मी, पोकर, शतरंज, लूडो, कैरम, फ्री फायर, क्रिकेट और बबल शूटर, हमारे पास यह सब गेम्स है। vpl ऐप पर गेम खेलें और लीडरबोर्ड में सबसे ऊपर बने रहे। अपने दोस्तों के साथ जुड़ें और देखें कि असली विजेता कौन है। आपके द्वारा किए गए प्रत्येक रेफरल के लिए आपको एक रेफरल बोनस भी मिलता है।",
+            "आप Android के लिए यहाँ से vpl PRO (एपीके) ऐप डाउनलोड कर सकते हैं, जबकि iOS उपयोगकर्ता इसे ऐप्पल ऐप स्टोर से प्राप्त कर सकते हैं।"
+          ]
+        }
+      },
+      {
+        "name": "topGames",
+        "isParent": true,
+        "data": {
+          "header": "हमारे कुछ अल्टीमेट मोबाइल गेम्स",
+          "moreText": "अधिक जानिए",
+          "knowMoreBtnLabel": "अधिक जानिए",
+          "topGamesList": [
+            {
+              "header": "Free Fire",
+              "text": "सबसे बड़ी उत्तरजीविता शूटर खेलों में से एक अब vpl पर लाइव है। vpl ऐप पर Free Fire टूर्नामेंट के लिए रजिस्टर करें और हर दिन बड़ी रकम जीतें।",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/landing-page-images/free-fire-icon.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/free-fire-icon.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "/free-fire",
+              "altText": "Free Fire"
+            },
+            {
+              "header": "Fantasy Games",
+              "text": "Fantasy खेल भारत में एक बड़ी हिट बन गए हैं, और vpl आपको अंतिम Fantasy गेमिंग अनुभव प्रदान करता है। Fantasy खेल ऑनलाइन खेलना एक बात है और vpl के साथ Fantasy खेल खेलना एक और बात है। vpl आपको हर Fantasy गेम के लिए वास्तविक नकद जीतने का अवसर प्रदान करता है जो आप खेलते हैं। हम Fantacy क्रिकेट, फुटबॉल, कबड्डी, स्टॉक और बास्केटबाल उपलब्ध करते हैं। तो, जब आपके पास सभी Fantasy गेम एक ही स्थान पर हैं, तो कहीं और क्यों जाएं?",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/landing-page-images/cricket-icon.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/cricket-icon.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "altText": "Fantasy games",
+              "pageLink": "/fantasy",
+              "subParagraphes": [
+                {
+                  "header": "ऑनलाइन Fantasy खेल कैसे खेलें",
+                  "text": "आपको केवल vpl ऐप डाउनलोड करने और खेल शुरू करने के लिए खुद को पंजीकृत करने की आवश्यकता है! एक बार जब आप पंजीकरण कर लेते हैं, तो उस Fantasy गेम का चयन करें जिसे आप खेलना चाहते हैं।उस मैच का चयन करें जिसमें आप प्रतिस्पर्धा करना चाहते हैं और फिर अपनी Fantasy टीम चुनें। हाँ! यह इत्ना आसान है। एप डाउनलोड करें और अब खेलें! आपके द्वारा किए गए प्रत्येक सफल रेफरल के लिए आपको 50 रु का बोनस भी मिलेगा। तो vpl ऐप डाउनलोड करें, खेलना शुरू करें और असली नकद जीतें!"
+                }
+              ]
+            },
+            {
+              "header": "vpl Fantasy Cricket",
+              "text": "vpl Fantasy Cricket ऐप आपको अपने क्रिकेट ज्ञान और कौशल का प्रदर्शन करने के लिए एक मंच प्रदान करता है। आप Fantasy Cricket ऑनलाइन खेल सकते हैं और असली नकद जीत सकते हैं। vpl Fantasy Cricket ऐप में, आपकी अनुकूलित टीम के खिलाड़ी मैच में अपने प्रदर्शन के आधार पर स्कोर करते हैं। हमने आपको क्रिकेट की दुनिया में होने वाले हर प्रकार के मैच के लिए कवर किया है - अंतर्राष्ट्रीय एकदिवसीय, टेस्ट, टी 20 और यहां तक कि राज्य स्तर के मैच। तो vpl गेम ऐप डाउनलोड करें और अब काल्पनिक क्रिकेट खेलना शुरू करें।",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/landing-page-images/cricket-icon.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/cricket-icon.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "/fantasy-cricket",
+              "altText": "Fantasy cricket"
+            },
+            {
+              "header": "vpl Rummy",
+              "text": "vpl द्वारा रम्मी ऑनलाइन सबसे लोकप्रिय कार्ड गेम में से एक है और पिछले कुछ वर्षों में अपार सफलता प्राप्त की है। vpl एक उच्च इंटरैक्टिव ऑनलाइन संस्करण प्रदान करता है, जो सुखद, आसान और सुरक्षित है!",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/landing-page-images/rummy.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/rummy.png"
+              },
+              "pageLink": "/rummy",
+              "altText": "Fantasy rummy"
+            },
+            {
+              "header": "Ludo",
+              "text": "लुडो सबसे लोकप्रिय बोर्ड गेम में से एक है जिसे लोग अपने ख़ाली समय में खेलना पसंद करते हैं। यह खेल 2 से 4 खिलाड़ियों द्वारा खेला जा सकता है। लुडो का उद्देश्य अन्य खिलाड़ियों के समक्ष पासा फेंककर अपने टोकन को फिनिशिंग पॉइंट तक पहुंचाना है। लूडो को पचीसी के समान माना जाता है, यह एक खेल है जो भारत में 6 वीं शताब्दी के आसपास उत्पन्न हुआ था।",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/landing-page-images/ludo.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/ludo.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "/ludo",
+              "altText": "Fantasy ludo"
+            },
+            {
+              "header": "vpl Speed Chess",
+              "text": "माना जाता है कि शतरंज की उत्पत्ति लगभग 1500 साल पहले भारत में हुई थी। खेल धीरे-धीरे एशियाई महाद्वीप में फैल गया, और अंततः यूरोप तक पहुंच गया। vpl शतरंज के खेल में, शतरंज के 6 अलग-अलग प्रकार हैं। एमपीएल के साथ ऑनलाइन शतरंज खेलें, अपने विरोधियों की जांच करें और ऑनलाइन नकद कमाएं।",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/landing-page-images/chess-icon.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/landing-page-images/chess-icon.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "pageLink": "/chess",
+              "altText": "Fantasy speed chess"
+            }
+          ]
+        }
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "vpl पर एक महान अनुभव प्राप्त करें",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-1.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "4 करोड़ + ",
+              "subTitle": "उपयोगकर्ता"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-2.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% सुरक्षित",
+              "subTitle": "और वैध"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-3.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "ग्राहक सहायता"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-4.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "कैशबैक",
+              "subTitle": "ऑफर"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl इनका सदस्य है ",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/2x/trf-logo.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/2x/aigf-logo.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/2x/iamai-logo.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "हमें जानें",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/social_icons/fb.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/social_icons/yt.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/social_icons/tw.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "https://cledge.vpl.live/pb/website/static/social_icons/ig.webp",
+                "png": "https://cledge.vpl.live/pb/website/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "/runner-no1"
+            },
+            {
+              "text": "Free Fire",
+              "link": "/free-fire"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "/go-ride"
+            },
+            {
+              "text": "More Games",
+              "link": "/more-games"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "Return, Refund & Cancellation",
+              "link": "https://about.vpl.live/returnpolicy/"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "अस्वीकरण",
+          "disclaimerText": [
+            "Galactus Funware किसी तीसरे पक्ष की सामग्री को छोड़कर वेबसाइट में संपत्ति, सामग्री, सेवाओं, सूचना, और उत्पादों और ग्राफिक्स के सभी अधिकारों का मालिक है, और इसे सुरक्षित रखता है।",
+            "Galactus Funware ने वेबसाइट की तृतीय पक्ष सामग्री की सटीकता या पूर्णता या विश्वसनीयता या पर्याप्तता के बारे में स्वीकार या प्रतिनिधित्व करने से इनकार कर दिया। इस वेबसाइट में सामग्री, सामग्री, सूचना, सेवाएं और उत्पाद, जिनमें पाठ, ग्राफिक्स और लिंक शामिल हैं, को 'एएस आईएस' और बिना किसी प्रकार की वारंटी के प्रदान किया जाता है, चाहे व्यक्त या निहित हो।",
+            "* vpl भारत में सबसे बड़ी गेमिंग ऐप है, जो Unity खेलों की संख्या, विशेष टूर्नामेंट और फॉर्मेट की संख्या के आधार पर है ।vpl केवल 18 वर्ष से अधिक आयु के लोगों के लिए उपलब्ध है ।vpl उन सभी राज्यों में उपलब्ध है, जहां पर कानून की अनुमति है। नतीजतन, कुछ राज्यों में स्थित उपयोगकर्ता हमारे ऐप या इसके प्रतियोगिताओं तक नहीं पहुंच सकते हैं। ऐसे राज्यों की अद्यतन सूची के लिए, कृपया ऐप डाउनलोड करें",
+            "कॉपीराइट © - Galactus Funware Technology Private Limited | सभी अधिकार सुरक्षित"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "downloadImageurl": {
+            "png": "https://cledge.vpl.live/pb/website/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}

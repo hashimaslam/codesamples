@@ -1,0 +1,1168 @@
+{
+  "pageName": "esports",
+  "head": {
+    "title": "vpl Weekly Esports ",
+    "canonical": "https://www.vpl.live/esports/arena",
+    "noindex": false,
+    "metaTags": [
+      {
+        "name": "ahrefs-site-verification",
+        "content": "581e379d1912d965dcce7081ec7cb5b59340939829f47c0ce1929ee636027dac"
+      },
+      {
+        "name": "description",
+        "content": "Play Knock Out Tournaments and win exciting cash prizes, EVERY WEEK! Participate now in vpl Weekly Esports Arena."
+      },
+      {
+        "name": "keywords",
+        "content": "vpl esports arena"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.vpl.live/esports/arena"
+      },
+      {
+        "property": "og:title",
+        "content": "vpl Weekly Esports Arena | Mobile Premier League (vpl)"
+      },
+      {
+        "property": "og:description",
+        "content": "Play Knock Out Tournaments and win exciting cash prizes, EVERY WEEK! Participate now in vpl Weekly Esports Arena."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www.vpl.live/static/OG_vpl.png"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Play Games and Win Money"
+      }
+    ]
+  },
+  "body": {
+    "components": [
+      {
+        "name": "DownloadButton",
+        "isParent": false,
+        "data": {
+          "androidBtnLabel": "Download the vpl App",
+          "androidMiddleBtnLabel": "Download vpl & Start Winning!",
+          "androidDownloading": "DOWNLOADING ...",
+          "androidNotificationHeader": "Check notifications to install vpl after download is covplete",
+          "androidNotificationDesc": "You can install the vpl apk from your Downloads Folder also",
+          "iosAlt": "Download IOS App",
+          "androidIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowIcon": {
+            "imageurl": {
+              "png": "/static/2x/download_24px.png",
+              "width": 38,
+              "height": 46,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "downArrowGreenIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_android_download.png",
+              "width": 28,
+              "height": 34,
+              "sizeInBytes": 1000
+            },
+            "altText": "download vpl Android APP"
+          },
+          "iosWhiteIcon": {
+            "imageurl": {
+              "png": "/static/2x/btn_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "iosBlackIcon": {
+            "imageurl": {
+              "png": "/static/2x/top_games_download_ios.png",
+              "width": 224,
+              "height": 56,
+              "sizeInBytes": 8000
+            },
+            "altText": "download vpl IOS APP"
+          },
+          "notificationBottomIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded.png",
+              "width": 280,
+              "height": 230,
+              "sizeInBytes": 4000
+            },
+            "altText": "android notification icon"
+          },
+          "notificationDownloadIcon": {
+            "imageurl": {
+              "png": "/static/2x/android-icon-downloaded-arrow.png",
+              "width": 24,
+              "height": 24,
+              "sizeInBytes": 1000
+            },
+            "altText": "android notification icon"
+          },
+          "actionButtonLabel": "Register with College ID",
+          "actionButtonIcon": {
+            "imageurl": {
+              "png": "/static/2x/right-arrow.png",
+              "width": 52,
+              "height": 48,
+              "sizeInBytes": 2000
+            },
+            "altText": "register to vpl Tournament"
+          }
+        }
+      },
+      {
+        "name": "sendsms",
+        "isParent": false,
+        "data": {
+          "defaultBtnLabel": "Get SMS with Download link",
+          "sentBtnLabel": "SMS SENT",
+          "mobileTxtboxPlaceholder": "Enter mobile number",
+          "sentText": "We have sent the vpl App Download link to #mobileno. Check your phone now!",
+          "countryMobileCode": "+91",
+          "defaultSMSLinkText": "DEFAULT",
+          "justButtons": false
+        }
+      },
+      {
+        "name": "rewardsbar",
+        "isParent": false,
+        "data": {
+          "joiningBonusText": "Joining Bonus: Get",
+          "currency": "₹",
+          "tokenFreeText": "vpl Tokens Free!",
+          "freeText": " Free!"
+        }
+      },
+      {
+        "name": "header",
+        "isParent": true,
+        "data": {
+          "logoImageurl": {
+            "png": "/static/vpl_Logo.png",
+            "width": 574,
+            "height": 120,
+            "sizeInBytes": 10000
+          },
+          "logoAlt": "vpl Logo",
+          "headerDownloadbtnLabel": "Download App",
+          "headerDownloadingbtnLabel": "DOWNLOADING ...",
+          "menuFirstLink": {
+            "text": "Play",
+            "pagename": "Fantasy",
+            "pageurl": "/fantasy"
+          },
+          "menuList": [
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "Fantasy Football",
+              "link": "https://www.vpl.live/fantasy-football"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "8 Ball Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Call Break",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Auto Raja",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Carrom Online",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Fantasy Basketball",
+              "link": "https://www.vpl.live/fantasy-basketball"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog/"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            },
+            {
+              "text": "Fruit Dart",
+              "link": "https://www.vpl.live/fruit-dart-game"
+            }
+          ]
+        }
+      },
+      {
+        "name": "BannerImage",
+        "isParent": true,
+        "data": {
+          "header": "vpl Esports Arena",
+          "subheader": "Play Esports Tournaments on vpl App and win biggest cash prizes!",
+          "cssAddDarkGradient": true,
+          "showDownload": false,
+          "bodyColor": "#230046",
+          "mobileImageurl": {
+            "webp": "/static/banners/esport_mobile_banner.webp",
+            "png": "/static/banners/esport_mobile_banner.png",
+            "width": 720,
+            "height": 800,
+            "sizeInBytes": 200000
+          },
+          "desktopImageurl": {
+            "webp": "/static/banners/esports_desktop_banner.webp",
+            "png": "/static/banners/esports_desktop_banner.png",
+            "width": 1920,
+            "height": 712,
+            "sizeInBytes": 300000
+          },
+          "showRewards": false
+        }
+      },
+      {
+        "name": "TopCorner",
+        "isParent": true,
+        "data": {}
+      },
+      {
+        "name": "NewsFeed",
+        "isParent": true,
+        "data": {
+          "header": "News Feed",
+          "discription": ["Latest updates about all vpl Esports events"],
+          "newsFeeds": [
+            {
+              "imageUrl": {
+                "png": "/static/esports/esports_arena_newsfeed.png",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 20000,
+                "alt": "rummy image"
+              },
+              "title": "Weekly Esports Tournaments are LIVE! Stay Tuned",
+              "date": "Sat Nov 14 2020 00:00:00 GMT+0530"
+            },
+            {
+              "imageUrl": {
+                "png": "/static/esports/wcc_newsfeed.png",
+                "width": 100,
+                "height": 100,
+                "sizeInBytes": 20000,
+                "alt": "rummy image"
+              },
+              "title": "Registrations for WCC are opening on 21st March, 2021",
+              "date": "Sat Nov 14 2020 00:35:00 GMT+0530"
+            }
+          ]
+        }
+      },
+      {
+        "name": "EventCalendar",
+        "isParent": true,
+        "data": {
+          "header": "Event Calendar",
+          "liveEventTitle": "Live Events",
+          "upcomingEventTitle": "Upcoming Events",
+          "yetToAnnounceTitle": "Yet-to-announce Events",
+          "liveEvents": [],
+          "upcomingEvents": [
+            {
+              "imageUrl": {
+                "mobilePng": "/static/esports/upcoming_wcc.png",
+                "desktopPng": "/static/esports/upcoming_wcc_desktop.png",
+                "width": 2032,
+                "height": 320,
+                "sizeInBytes": 20000,
+                "alt": "rummy image"
+              },
+              "title": "WCC Masters",
+              "startDate": "March 2021"
+            }
+          ],
+          "yetToEvents": []
+        }
+      },
+      {
+        "name": "LiveStreams",
+        "isParent": true,
+        "data": {
+          "header": "Live Streams",
+          "infoLiveStreams": "Semi Finals and Finals of National Tournaments in each Game will be live streamed on Youtube and Facebook.",
+          "liveStreams": [
+            {
+              "title": "Grand Finale",
+              "imageUrl": {
+                "png": "/static/esports/wcc_live_stream.png",
+                "width": 310,
+                "height": 175,
+                "sizeInBytes": 100000,
+                "alt": "speed wcc live stream"
+              },
+              "evetnImageUrl": {
+                "png": "/static/esports/wcc_stream.png",
+                "width": 32,
+                "height": 32,
+                "sizeInBytes": 20000,
+                "alt": "speed wcc live stream"
+              },
+              "ytStream": {
+                "imageUrl": {
+                  "png": "/static/esports/yt_icon.png",
+                  "width": 14,
+                  "height": 10,
+                  "sizeInBytes": 2000,
+                  "alt": "yt image"
+                },
+                "link": "#"
+              },
+              "fbStream": {
+                "imageUrl": {
+                  "png": "/static/esports/fb_icon.png",
+                  "width": 100,
+                  "height": 100,
+                  "sizeInBytes": 2000,
+                  "alt": "fb image"
+                },
+                "link": "#"
+              },
+              "twStream": {
+                "imageUrl": {
+                  "png": "/static/esports/tw_icon.png",
+                  "width": 100,
+                  "height": 100,
+                  "sizeInBytes": 2000,
+                  "alt": "tw image"
+                },
+                "link": "#"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "EsportsWinnerSlider",
+        "isParent": true,
+        "data": {
+          "header": "Recent Winners",
+          "imageList": [
+            {
+              "imageurl": {
+                "png": "/static/esports/rishi_winner.png",
+                "width": 310,
+                "height": 310,
+                "sizeInBytes": 80000
+              },
+              "gameImageUrl": {
+                "png": "/static/esports/game_chess_winner.png",
+                "width": 45,
+                "height": 60,
+                "alt": "chess image",
+                "sizeInBytes": 8000
+              },
+              "eventNameUrl": {
+                "png": "/static/esports/esport_arena_winner.png",
+                "width": 65,
+                "height": 65,
+                "alt": "esports image",
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "WINNER",
+                "tournament_name": "RISHI",
+                "won": "Won ₹1.5 Lcs"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/navneet_winner.png",
+                "width": 310,
+                "height": 310,
+                "sizeInBytes": 100000
+              },
+              "gameImageUrl": {
+                "png": "/static/esports/game_chess_winner.png",
+                "width": 45,
+                "height": 60,
+                "alt": "chess image",
+                "sizeInBytes": 8000
+              },
+              "eventNameUrl": {
+                "png": "/static/esports/esport_arena_winner.png",
+                "width": 65,
+                "height": 65,
+                "alt": "esports image",
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "RUNNER - UP",
+                "tournament_name": "NAVNEET",
+                "won": "Won ₹90,000"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/vijaya_winner.png",
+                "width": 310,
+                "height": 310,
+                "sizeInBytes": 100000
+              },
+              "gameImageUrl": {
+                "png": "/static/esports/game_chess_winner.png",
+                "width": 45,
+                "height": 60,
+                "alt": "chess image",
+                "sizeInBytes": 8000
+              },
+              "eventNameUrl": {
+                "png": "/static/esports/esport_arena_winner.png",
+                "width": 65,
+                "height": 65,
+                "alt": "esports image",
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "SEMI-FINALIST",
+                "tournament_name": "VIJAYA",
+                "won": "Won ₹50,000"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/rahul_winner.png",
+                "width": 310,
+                "height": 310,
+                "sizeInBytes": 100000
+              },
+              "gameImageUrl": {
+                "png": "/static/esports/game_chess_winner.png",
+                "width": 45,
+                "height": 60,
+                "alt": "chess image",
+                "sizeInBytes": 8000
+              },
+              "eventNameUrl": {
+                "png": "/static/esports/esport_arena_winner.png",
+                "width": 65,
+                "height": 65,
+                "alt": "esports image",
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "SEMI-FINALIST",
+                "tournament_name": "RAHUL",
+                "won": "Won ₹50,000"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/winner_pool_aman.png",
+                "width": 310,
+                "height": 310,
+                "sizeInBytes": 100000
+              },
+              "gameImageUrl": {
+                "png": "/static/esports/game_pool_winner.png",
+                "width": 45,
+                "height": 60,
+                "alt": "chess image",
+                "sizeInBytes": 8000
+              },
+              "eventNameUrl": {
+                "png": "/static/esports/esport_arena_winner.png",
+                "width": 65,
+                "height": 65,
+                "alt": "esports image",
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "WINNER",
+                "tournament_name": "AMAN",
+                "won": "Won ₹5 Lcs"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/winner_pool_aadarsh.png",
+                "width": 310,
+                "height": 310,
+                "sizeInBytes": 100000
+              },
+              "gameImageUrl": {
+                "png": "/static/esports/game_pool_winner.png",
+                "width": 45,
+                "height": 60,
+                "alt": "chess image",
+                "sizeInBytes": 8000
+              },
+              "eventNameUrl": {
+                "png": "/static/esports/esport_arena_winner.png",
+                "width": 65,
+                "height": 65,
+                "alt": "esports image",
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "SEMI-FINALIST",
+                "tournament_name": "AADARSH",
+                "won": "Won ₹50,000"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/winner_pool_rahul.png",
+                "width": 310,
+                "height": 310,
+                "sizeInBytes": 100000
+              },
+              "gameImageUrl": {
+                "png": "/static/esports/game_pool_winner.png",
+                "width": 45,
+                "height": 60,
+                "alt": "chess image",
+                "sizeInBytes": 8000
+              },
+              "eventNameUrl": {
+                "png": "/static/esports/esport_arena_winner.png",
+                "width": 65,
+                "height": 65,
+                "alt": "esports image",
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "SEMI-FINALIST",
+                "tournament_name": "RAHUL",
+                "won": "Won ₹50,000"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/winner_pool_amit.png",
+                "width": 310,
+                "height": 310,
+                "sizeInBytes": 100000
+              },
+              "gameImageUrl": {
+                "png": "/static/esports/game_pool_winner.png",
+                "width": 45,
+                "height": 60,
+                "alt": "chess image",
+                "sizeInBytes": 8000
+              },
+              "eventNameUrl": {
+                "png": "/static/esports/esport_arena_winner.png",
+                "width": 65,
+                "height": 65,
+                "alt": "esports image",
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "RUNNER -UP",
+                "tournament_name": "AMIT",
+                "won": "Won ₹90,000"
+              }
+            }
+          ],
+          "cssClassList": ["scrollable-section"]
+        }
+      },
+      {
+        "name": "MatchVideos",
+        "isParent": true,
+        "data": {
+          "header": "Match Videos",
+          "videoList": [
+            {
+              "name": "Pool Tournament Highlights",
+              "eventName": "POOL MASTERS",
+              "url": "https://www.youtube.com/embed/uYlSwCXi9kw",
+              "gameImgUrl": {
+                "png": "/static/esports/video_pool_icon.png",
+                "width": 32,
+                "height": 32,
+                "alt": "esports game img",
+                "sizeInBytes": 8000
+              }
+            },
+            {
+              "name": "Pool Grand Finale",
+              "eventName": "POOL MASTERS",
+              "url": "https://www.youtube.com/embed/55zv4FyJmUM",
+              "gameImgUrl": {
+                "png": "/static/esports/video_pool_icon.png",
+                "width": 32,
+                "height": 32,
+                "alt": "esports game img",
+                "sizeInBytes": 8000
+              }
+            },
+            {
+              "name": "Chess Tournament Highlights",
+              "eventName": "SPEED CHESS GRANDMASTERS",
+              "url": "https://www.youtube.com/embed/k1a0-AAMMTc",
+              "gameImgUrl": {
+                "png": "/static/esports/video_chess_icon.png",
+                "width": 32,
+                "height": 32,
+                "alt": "esports game img",
+                "sizeInBytes": 8000
+              }
+            },
+            {
+              "name": "Chess Grand Finale",
+              "eventName": "SPEED CHESS GRANDMASTERS",
+              "url": "https://www.youtube.com/embed/T8JaK-GJiWY",
+              "gameImgUrl": {
+                "png": "/static/esports/video_chess_icon.png",
+                "width": 32,
+                "height": 32,
+                "alt": "esports game img",
+                "sizeInBytes": 8000
+              }
+            }
+          ],
+          "cssClassList": ["scrollable-section"]
+        }
+      },
+      {
+        "name": "TestimonialsSlider",
+        "isParent": true,
+        "data": {
+          "header": "Testimonials",
+          "imageList": [
+            {
+              "imageurl": {
+                "png": "/static/esports/testimonial_alen.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 50000
+              },
+              "cardContent": {
+                "name": "ALEN",
+                "location": " NIT, Calicut",
+                "info": "\"I came to know about vpl from my college friends. I play Rogue Heist, WCC, Speed Chess and Pool. I have earned about 5.63L so far. The application is friendly to use, the customer support system is also quick to respond and is very helpful.”"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/testimonials_anushk.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "Anushk",
+                "location": "IIT, Indore",
+                "info": "\"I was introduced to the vpl app by my friend. I play Rogue Heist and Chess mostly on vpl and I have earned 70,000/-. The app is amazing, we can compete against each other and show who is better.”"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/testimonials_shobhit.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "Shobhit Jain",
+                "location": "BITS, Pilani",
+                "info": "\"I came to know about vpl through a Television commercial, I was intrigued by the way it works. I play WCC, Speed Chess, and Pool on vpl.”"
+              }
+            },
+            {
+              "imageurl": {
+                "png": "/static/esports/testimonials_nishant.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 8000
+              },
+              "cardContent": {
+                "name": "Nishant ",
+                "location": "NIT, Jamshedpur",
+                "info": "\"I have found the vpl app from my friends and I have started playing multiplayer games such as Pool, WCC, Rogue Heist, and Crossword on vpl. vpl is a great platform to earn money while playing - I have earned about 2.5 Lakhs using this App. I am glad to see that vpl has a lot of potential and a great platform for esports  players”"
+              }
+            }
+          ],
+          "cssClassList": ["scrollable-section"]
+        }
+      },
+      {
+        "name": "RummyFaqs",
+        "isParent": true,
+        "data": {
+          "header": "FAQs",
+          "cssClassList": ["white-backgound"],
+          "cssFaqsClassList": ["radius-reactangle"],
+          "faqsList": [
+            {
+              "header": "What Is vpl - Weekly Esports Arena?",
+              "subParagraphes": [
+                "Weekly sports Arena is a platform for the players to make a name for themselves in the Esports Community. The idea of hosting a weekly tournament is to cultivate an esports culture and build the existing gaming community for all our vpl games."
+              ]
+            },
+            {
+              "header": "What are the benefits of Esports?",
+              "subParagraphes": [
+                "vpl Esports gives the players a platform to make a name for themselves in the gaming community. Players can participate in the Esports tournaments and can earn money by winning games."
+              ]
+            },
+            {
+              "header": "What is the league age range?",
+              "subParagraphes": [
+                "All Esports tournaments are open for participation to individuals above the age of 18 years."
+              ]
+            },
+            {
+              "header": "Are there additional fees?",
+              "subParagraphes": [
+                "All Esports tournaments are free as of now. Participants do not have to pay any amount for the registrations. Also there are no hidden/additional fees."
+              ]
+            },
+            {
+              "header": "Do I have to attend every game?",
+              "subParagraphes": [
+                "In an Esports tournament, you will have to play a game as per the schedule. The schedule of your game will be communicated to you by SMSs or notifications."
+              ]
+            },
+            {
+              "header": "What is an Esports tournament?",
+              "subParagraphes": [
+                "Esports tournament is nothing but an organised multiplayer gaming competition in which all the players participate either individually or as a team."
+              ]
+            },
+            {
+              "header": "Where can I watch the Esports game live?",
+              "subParagraphes": [
+                "Yes, malor rounds of all Esports tournaments are live streamed on Youtube and Facebook. You can check the live stream schedule of an Esports tournament in the 'Watch Live' section of the website."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "BottomCorner",
+        "isParent": true,
+        "data": {}
+      },
+      {
+        "name": "aboutSection",
+        "isParent": true,
+        "data": {
+          "header": "Get a Great Experience on vpl",
+          "trustList": [
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-1.webp",
+                "png": "/static/trust-icons/trust-1.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "6 Crore+",
+              "subTitle": "Users"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-2.webp",
+                "png": "/static/trust-icons/trust-2.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "100% Secure",
+              "subTitle": "& Legal"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-3.webp",
+                "png": "/static/trust-icons/trust-3.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "24x7",
+              "subTitle": "Customer Support"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/trust-icons/trust-4.webp",
+                "png": "/static/trust-icons/trust-4.png",
+                "width": 80,
+                "height": 80,
+                "sizeInBytes": 10000
+              },
+              "title": "Cashback",
+              "subTitle": "Offers"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "Proud Sponsors of",
+          "classList": ["sponsers"],
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/RCB.png",
+                "png": "/static/2x/RCB.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "Sponsors"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/KKR.png",
+                "png": "/static/2x/KKR.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "Sponsors"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/bboss.png",
+                "png": "/static/2x/bboss.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "Sponsors"
+            }
+          ]
+        }
+      },
+      {
+        "name": "membership",
+        "isParent": true,
+        "data": {
+          "header": "vpl is a Member of",
+          "membershipList": [
+            {
+              "imageurl": {
+                "webp": "/static/2x/trf-logo.webp",
+                "png": "/static/2x/trf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/aigf-logo.webp",
+                "png": "/static/2x/aigf-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/iamai-logo.webp",
+                "png": "/static/2x/iamai-logo.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            },
+            {
+              "imageurl": {
+                "webp": "/static/2x/FICCI_Logo_High_Res.webp",
+                "png": "/static/2x/FICCI_Logo_High_Res.png",
+                "width": 158,
+                "height": 72,
+                "sizeInBytes": 5000
+              },
+              "altText": "vpl membership"
+            }
+          ]
+        }
+      },
+      {
+        "name": "footer",
+        "isParent": true,
+        "data": {
+          "header": "Know Us",
+          "socialIconList": [
+            {
+              "name": "Facebook",
+              "imageurl": {
+                "webp": "/static/social_icons/fb.webp",
+                "png": "/static/social_icons/fb.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.facebook.com/Playvpl/"
+            },
+            {
+              "name": "YouTube",
+              "imageurl": {
+                "webp": "/static/social_icons/yt.webp",
+                "png": "/static/social_icons/yt.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.youtube.com/channel/UCIBT5MyVgwAvcZZa1e8O-sw"
+            },
+            {
+              "name": "Twitter",
+              "imageurl": {
+                "webp": "/static/social_icons/tw.webp",
+                "png": "/static/social_icons/tw.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://twitter.com/Playvpl"
+            },
+            {
+              "name": "Instagram",
+              "imageurl": {
+                "webp": "/static/social_icons/ig.webp",
+                "png": "/static/social_icons/ig.png",
+                "width": 96,
+                "height": 96,
+                "sizeInBytes": 25000
+              },
+              "href": "https://www.instagram.com/playvpl/"
+            }
+          ],
+          "footerLinkList": [
+            {
+              "text": "Ludo",
+              "link": "https://www.vpl.live/ludo"
+            },
+            {
+              "text": "Pool",
+              "link": "https://www.vpl.live/pool"
+            },
+            {
+              "text": "Fruit Slice",
+              "link": "https://www.vpl.live/fruit-slice"
+            },
+            {
+              "text": "Bubble Shooter",
+              "link": "https://www.vpl.live/bubble-shooter"
+            },
+            {
+              "text": "Fruit Chop",
+              "link": "https://www.vpl.live/fruit-chop"
+            },
+            {
+              "text": "Runner No- 1",
+              "link": "https://www.vpl.live/runner-no1"
+            },
+            {
+              "text": "Speed Chess",
+              "link": "https://www.vpl.live/chess"
+            },
+            {
+              "text": "Fantasy Cricket",
+              "link": "https://www.vpl.live/fantasy-cricket"
+            },
+            {
+              "text": "WCC 2",
+              "link": "https://www.vpl.live/world-cricket-championship-wcc2"
+            },
+            {
+              "text": "Rummy",
+              "link": "https://www.vpl.live/rummy"
+            },
+            {
+              "text": "Poker",
+              "link": "https://www.vpl.live/poker"
+            },
+            {
+              "text": "Quiz",
+              "link": "https://www.vpl.live/quiz"
+            },
+            {
+              "text": "Build Up",
+              "link": "https://www.vpl.live/build-up-game"
+            },
+            {
+              "text": "Monster Truck",
+              "link": "https://www.vpl.live/monster-truck"
+            },
+            {
+              "text": "Go Ride",
+              "link": "https://www.vpl.live/go-ride"
+            },
+            {
+              "text": "Call Break Game",
+              "link": "https://www.vpl.live/call-break-game"
+            },
+            {
+              "text": "More Games",
+              "link": "https://www.vpl.live/more-games"
+            },
+            {
+              "text": "Carrom Game",
+              "link": "https://www.vpl.live/carrom"
+            },
+            {
+              "text": "Auto Raja Game",
+              "link": "https://www.vpl.live/auto-raja-game"
+            },
+            {
+              "text": "Fantasy Cricket App",
+              "link": "https://www.vpl.live/fantasy-cricket/app"
+            },
+            {
+              "text": "Blog",
+              "link": "https://www.vpl.live/blog/"
+            },
+            {
+              "text": "Refer & Earn",
+              "link": "https://www.vpl.live/refer-and-earn"
+            },
+            {
+              "text": "FAQs",
+              "link": "https://help.vpl.live/faq/"
+            },
+            {
+              "text": "Terms & Conditions",
+              "link": "https://about.vpl.live/terms/"
+            },
+            {
+              "text": "Games of Skills",
+              "link": "https://about.vpl.live/game-of-skill/"
+            },
+            {
+              "text": "Privacy Policy",
+              "link": "https://about.vpl.live/privacy/"
+            },
+            {
+              "text": "vpl Fairplay",
+              "link": "https://www.vpl.live/fairplay"
+            },
+            {
+              "text": "College Premier League",
+              "link": "https://www.vpl.live/esports/cpl"
+            },
+            {
+              "text": "Fruit Dart",
+              "link": "https://www.vpl.live/fruit-dart-game"
+            },
+            {
+              "text": "Weekly Esports Arena",
+              "link": "https://www.vpl.live/esports/arena"
+            }
+          ]
+        }
+      },
+      {
+        "name": "disclaimer",
+        "isParent": true,
+        "data": {
+          "header": "Disclaimer",
+          "disclaimerText": [
+            "Galactus Funware is the owner of, and reserves all rights to the assets, content, services, information, and products and graphics in the website except any third party content.",
+            "Galactus Funware refuses to acknowledge or represent about the accuracy or covpleteness or reliability or adequacy of the website's third party content. These content, materials, information, services, and products in this website, including text, graphics, and links, are provided 'AS IS' and without warranties of any kind, whether expressed or ivplied.",
+            "*vpl is the biggest gaming app in India based on the number of unity games, special tournaments and formats.vpl is available only to people above 18 years of age.vpl is available in all states where permissible by extant law. Consequently, users located in some states may not be able to access our App or its contests. For an updated list of such states, please download the App",
+            "Copyright © - Galactus Funware Technology Private Limited | All rights reserved"
+          ]
+        }
+      },
+      {
+        "name": "stickyButton",
+        "isParent": true,
+        "data": {
+          "rewardText": "",
+          "showDownload": true,
+          "buttonPosition": "bottom",
+          "iosEsportMessage": "NOTE: weekly esports arena is available only on our Android app.",
+          "downloadImageurl": {
+            "png": "/static/2x/ic_download_white_24d.png",
+            "width": 48,
+            "height": 48,
+            "sizeInBytes": 4000
+          }
+        }
+      }
+    ]
+  }
+}
